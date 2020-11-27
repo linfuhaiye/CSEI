@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">單頁顯示</string>
+    <string name="rv_page_present_continuous">連續捲動</string>
+    <string name="rv_page_present_thumbnail">縮圖</string>
+    <string name="rd_fitpage_topbar_title">適合頁面</string>
+    <string name="rd_fitwidth_topbar_title">適合寬度</string>
+    <string name="rd_rotateview_topbar_title">旋轉檢視</string>
+    <string name="rd_reflow_topbar_title">重排</string>
+    <string name="rd_crop_topbar_title">裁剪模式</string>
+    <string name="rd_facingmode_topbar_title">雙頁</string>
+    <string name="rd_coverpage_topbar_title">封面</string>
+    <string name="rd_panzoom_topbar_title">平移縮放</string>
+    <string name="ml_system_light">系統亮度</string>
+    <string name="ml_day_night">夜間模式</string>
+    <string name="ml_page_zoommode">頁面檢視</string>
+    <string name="ml_pagemode">頁面模式</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">螢幕旋轉鎖定</string>
+    <string name="rv_screen_rotation_pad_landscape">橫向螢幕</string>
+    <string name="rv_screen_rotation_pad_portrait">縱向螢幕</string>
+    <string name="rv_screen_rotation_pad_auto">自動選擇螢幕</string>
+</resources>

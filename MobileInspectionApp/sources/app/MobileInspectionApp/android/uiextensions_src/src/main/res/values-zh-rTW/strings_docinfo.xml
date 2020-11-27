@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fm_history_file_name">名稱：</string>
+    <string name="fm_history_file_path">路徑：</string>
+    <string name="fm_history_file_size">大小：</string>
+    <string name="fm_history_pdf_author">作者：</string>
+    <string name="fm_history_pdf_subject">主题：</string>
+    <string name="fm_history_file_create_time">建立時間：</string>
+    <string name="fm_history_file_last_modify_time">最後修改時間：</string>
+
+	<string name="fx_string_allowed">允許</string>
+    <string name="fx_string_notallowed">不允許</string>
+
+    <string name="rv_doc_reduce_file_size_toast">您選擇了减小PDF檔案的大小，但它不會馬上生效，直到您退出並保存檔案。</string>
+    <string name="rv_doc_info_permission">安全</string>
+    <string name="rv_doc_info_permission_summary">文件權限摘要</string>
+    <string name="rv_doc_info_permission_print">列印</string>
+    <string name="rv_doc_info_permission_fillform">填寫表單</string>
+    <string name="rv_doc_info_permission_annotform">增添注釋</string>
+    <string name="rv_doc_info_permission_assemble">管理頁面和大綱</string>
+    <string name="rv_doc_info_permission_modify">編輯文件</string>
+    <string name="rv_doc_info_permission_extractaccess">協助工具的內容拷貝</string>
+    <string name="rv_doc_info_permission_extract">擷取文件中的內容</string>
+    <string name="rv_doc_info_permission_signing">簽名</string>
+
+    <string name="rv_doc_info_fileinfo">檔案資訊</string>
+
+    <string name="rv_doc_info_security">安全</string>
+    <string name="rv_doc_info_security_no">無保護</string>
+    <string name="rv_doc_info_security_standard">密碼保護</string>
+    <string name="rv_doc_info_security_pubkey">證書保護</string>
+    <string name="rv_doc_info_security_rms">RMS保護</string>
+    <string name="rv_doc_info_security_cdrm">互聯PDF保護</string>
+    <string name="rv_doc_info_security_custom">自定義保護</string>
+</resources>

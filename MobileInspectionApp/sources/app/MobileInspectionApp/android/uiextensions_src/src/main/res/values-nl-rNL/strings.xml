@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">Ja</string>
+    <string name="fx_string_no">Nee</string>
+    <string name="fx_string_ok">OK</string>
+    <string name="fx_string_cancel">Annuleren</string>
+    <string name="fx_string_save">Opslaan</string>
+    <string name="fx_string_saveas">Opslaan als</string>
+    <string name="fx_string_delete">Verwijderen</string>
+    <string name="fx_string_auto">Automatisch</string>
+    <string name="fx_string_add">Toevoegen</string>
+    <string name="fx_string_info">Info</string>
+    <string name="fx_string_name">Naam</string>
+    <string name="fx_string_done">Gereed</string>
+    <string name="fx_string_error">Fout</string>
+    <string name="fx_string_address">Adres:</string>
+
+    <string name="fx_string_close">Afsluiten</string>
+    <string name="fx_string_select_all">Alles selecteren</string>
+    <string name="fx_string_original">Origineel</string>
+    <string name="fx_string_setting">Instellingen</string>
+
+    <string name="hm_back">Terug</string>
+    <string name="hm_document">Documents</string>
+    <string name="hm_sign">Aanmelden</string>
+    <string name="hm_signout">Afmelden</string>
+
+    <string name ="fx_string_minimum">Minimum</string>
+    <string name ="fx_string_low">Laag</string>
+    <string name ="fx_string_medium">Gemiddeld</string>
+    <string name ="fx_string_high">Hoog</string>
+    <string name ="fx_string_maximum">Maximum</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">Vergelijken</string>
+    <string name="hm_comparison_mode">Vergelijken Modus</string>
+    <string name="hm_comparison_mode_overlay">Overlay</string>
+    <string name="hm_comparison_mode_side_by_side">naast elkaar</string>
+    <string name="hm_comparison_old_file">Oud bestand</string>
+    <string name="hm_comparison_new_file">Nieuw bestand</string>
+    <string name="hm_comparison_selected_color">Geselecteerde kleur</string>
+    <string name="hm_comparison_selected_file_title">Selecteer</string>
+
+    <string name="rv_panel_annot_loading_start">Bezig met laden&#8230;</string>
+    <string name="rv_panel_annot_deleting">Bezig met verwijderen&#8230;</string>
+    <string name="rv_panel_annot_failed">Verwijderen mislukt</string>
+    <string name="fx_string_saving">Bezig met opslaan&#8230;</string>
+    <string name="fx_string_closing">Bezig met afsluiten&#8230;</string>
+    <string name="fx_string_recovering">Bezig met verwerken&#8230;</string>
+    <string name="fx_string_opening">Openen&#8230;</string>
+    <string name="fx_string_copying">Kopiëren&#8230;</string>
+    <string name="fx_string_processing">Bezig met verwerken&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">Opvullen</string>
+    <string name="pb_icon_tab">Pictogram</string>
+    <string name="pb_border_tab">Rand</string>
+    <string name="pb_fontname_tab">Lettertype</string>
+    <string name="pb_watermark_tab">Watermerk</string>
+    <string name="pb_overlay_text_tab">Overlaytekst</string>
+    <string name="pb_options_tab">Opties</string>
+
+    <string name="fx_import_blank_page">Van lege pagina</string>
+    <string name="fx_import_file">Document</string>
+    <string name="fx_import_dcim">Van album</string>
+    <string name="fx_import_camera">Van camera</string>
+    <string name ="fx_string_import">Document</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">Content is toegevoegd aan het klemboord.</string>
+    <string name="fm_move">Verplaatsen</string>
+    <string name="fm_paste_replace">Vervangen</string>
+    <string name="fm_paste_skip">Overslaan</string>
+    <string name="rv_emailreview_mergedlg_openbutton">Nee, alleen openen</string>
+    <string name="cloud_toolbar_more_upload">Uploaden</string>
+
+    <string name="rv_url_dialog_title">Bezoeken</string>
+    <string name="rv_urldialog_title">Potentieel veiligheidsprobleem bij openen van de link, bevestig om te openen.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">Voor het gebruik van deze plug-in is een licentie vereist. Als u deze licentie hebt, activeer deze dan nu.</string>
+    <string name="rv_deivce_limitation">U hebt het toegestane aantal apparaten voor dit document overschreden.</string>
+    <string name="rv_no_rights">U hebt geen rechten om dit document te wijzigen. Kies een ander document.</string>
+    <string name="rv_rights_expired">Uw licentie of gratis proefperiode is afgelopen.</string>
+    <string name="rv_document_open_failed">Openen bestand mislukt</string>
+    <string name="rv_unknown_error">Onbekende fout</string>
+    <string name="rv_format_error">Indelingsfout: Geen PDF of beschadigd</string>
+
+    <string name="rv_back_save_to_original_file">Opslaan in oorspronkelijk bestand</string>
+    <string name="rv_back_save_to_new_file">Opslaan in een nieuw bestand</string>
+    <string name="rv_back_discard_modify">Alle wijzigingen negeren</string>
+    <string name="fx_save_file_failed">Document opslaan mislukt!</string>
+    <string name="fx_string_filereplace_warning">Het bestand bestaat al. Wilt u het vervangen?</string>
+
+    <string name="rv_password_dialog_title">Wachtwoord</string>
+    <string name="rv_tips_password_error">Het wachtwoord is onjuist, probeer het nogmaals.</string>
+    <string name="rv_tips_password">Dit bestand is beveiligd met een wachtwoord, voer het wachtwoord hieronder in.</string>
+    <string name="fx_string_password_dialog_title">Voer het wachtwoord in</string>
+
+    <string name="fx_form_rename_toast">De naam die u hebt ingevoerd, wordt al gebruikt in een bestaand veld. Kies een andere naam of wijzig het veldtype zodat het overeenkomt met het bestaande veld.</string>
+    <string name="fx_flatten_doc_toast">vlak aantekeningen of PDF-formulieren af om ze deel te laten uitmaken van de pagina-inhoud en verdere bewerking te voorkomen</string>
+    <string name="fx_system_language_changed_toast">De systeemtaal is gewijzigd. We raden u aan de huidige toepassing opnieuw te starten.</string>
+</resources>
+

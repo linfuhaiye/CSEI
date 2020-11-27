@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">Única</string>
+    <string name="rv_page_present_continuous">Desplazamiento continuo</string>
+    <string name="rv_page_present_thumbnail">Miniatura</string>
+    <string name="rd_fitpage_topbar_title">Ajuste Página</string>
+    <string name="rd_fitwidth_topbar_title">Ajuste Ancho</string>
+    <string name="rd_rotateview_topbar_title">Rotar vista</string>
+    <string name="rd_reflow_topbar_title">Redistribución</string>
+    <string name="rd_crop_topbar_title">Modo de recortar</string>
+    <string name="rd_facingmode_topbar_title">Doble Página</string>
+    <string name="rd_coverpage_topbar_title">Portada</string>
+    <string name="rd_panzoom_topbar_title">Zoom Pan</string>
+    <string name="ml_system_light">Aplicar brillo automático</string>
+    <string name="ml_day_night">Modo Nocturno</string>
+    <string name="ml_page_zoommode">Vista de páginas</string>
+    <string name="ml_pagemode">Modo de página</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">Bloqueo de pantalla</string>
+    <string name="rv_screen_rotation_pad_landscape">Horizontal</string>
+    <string name="rv_screen_rotation_pad_portrait">Vertical</string>
+    <string name="rv_screen_rotation_pad_auto">Rot. auto. pant.</string>
+</resources>

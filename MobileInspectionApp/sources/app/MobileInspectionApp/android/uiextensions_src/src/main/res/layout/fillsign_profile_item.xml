@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/fs_item_subject"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center_vertical|left"
+        android:hint="@string/fillsign_profile_type_label"
+        android:inputType="textMultiLine"
+        android:minHeight="44dp"
+        android:paddingLeft="@dimen/ux_screen_margin_text"
+        android:textColor="@color/ux_color_text"
+        android:textColorHint="@color/ux_color_grey_ff9b9b9b"
+        android:textSize="@dimen/ux_text_size_14sp" />
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/fs_item_content"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@null"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|left"
+            android:hint="hint"
+            android:inputType="textMultiLine"
+            android:minHeight="44dp"
+            android:paddingLeft="@dimen/ux_screen_margin_text"
+            android:textColor="@color/ux_color_text"
+            android:textColorHint="@color/ux_color_grey_ff9b9b9b"
+            android:textSize="@dimen/ux_text_size_14sp" />
+
+        <ImageView
+            android:id="@+id/fs_item_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="7dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:src="@drawable/fx_close_selector"
+            android:visibility="gone" />
+    </LinearLayout>
+</TableRow>

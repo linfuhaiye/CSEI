@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AccountModule -->
+    <string name="sign_out_tips">Tem certeza de que deseja sair?</string>
+
+    <!-- CropModule -->
+    <string name="fx_string_crop_title">Recorte</string>
+    <string name="fx_string_nocrop">Sair</string>
+    <string name="fx_string_crop">Manualmente</string>
+    <string name="fx_string_smartcrop">Automáticamente</string>
+    <string name="fx_string_detect">Detecção Automática</string>
+
+    <!-- Pan and Zoom -->
+    <string name="fx_string_pan_zoom_title">Pan e Zoom</string>
+    <string name="not_window_permissions_tips">O seu telefone não recebe permissões de janela flutuante, ligue-o e tente novamente</string>
+    <string name="fx_turn_on">Ativar</string>
+    <string name="fx_turn_later">Mais tarde</string>
+
+    <!-- Snapshot -->
+    <string name="failed_to_save_snapshot">Falha na captura de tela!</string>
+    <string name="the_snapshot_save_path">Imagem foi salva em: %1$s</string>
+
+    <!-- PageNavigationModule -->
+    <string name="rv_gotopage_error_toast">Insira o número de página correto</string>
+    <string name="rd_gotopage_toolbar_go">IR</string>
+
+    <!-- FormFillerModule -->
+    <string name="fx_form_item_list">Lista de itens</string>
+    <string name="fx_combox_custom_text">Texto personalizado</string>
+    <string name="fx_listbox_multiple_text">Seleção múltipla</string>
+    <string name="fx_no_item_tips">Clique aqui para adicionar item</string>
+
+    <!-- form navigation  Resource -->
+    <string name="formfiller_navigation_clear">Redefinir campo</string>
+
+    <!-- Thumbnail -->
+    <string name="fx_string_rotate">Rotação</string>
+    <string name="fx_string_extract">Extrair</string>
+    <string name ="fx_string_extract_to">Extrair</string>
+    <string name ="rv_page_import">Importando páginas&#8230;</string>
+    <string name ="rv_page_extract">Extraindo página&#8230;</string>
+    <string name ="rv_page_rotate_cw">Processando&#8230;</string>
+    <string name ="rv_page_delete">Excluindo páginas&#8230;</string>
+    <string name ="rv_page_extract_error">Falha ao extrair as páginas.</string>
+    <string name ="rv_page_import_error">Falha ao importar as páginas.</string>
+    <string name ="rv_page_remove_error">A remoção falhou.</string>
+    <string name ="rv_page_rotate_error">Falha ao girar as páginas.</string>
+    <string name="xfa_not_support_move_toast">O arquivo XFA não suporta a página de movimentação</string>
+    <string name="xfa_not_support_to_edit_toast">O arquivo XFA não suporta edição</string>
+    <string name="xfa_not_supported_add_image_toast">O arquivo XFA não suporta a adição de imagem.</string>
+    <string name="cinflicted_with_current_doc_toast">Conflito com o arquivo atual, por favor, volte a entrar!!!</string>
+    <string name="the_file_can_not_replace_toast">Substituir %1$s falhou.</string>
+    <string name="rv_page_delete_all_thumbnail">A exclusão de todas as páginas não é permitida.</string>
+    <string name="rv_page_delete_thumbnail">Tem certeza de que deseja excluir as páginas selecionadas? Você não pode desfazer esta ação.</string>
+    <string name="createpdf_add_page_title">Adicionar página</string>
+    <string name="createpdf_new_page_blank">Em Branco</string>
+    <string name="createpdf_new_page_lined">Linha</string>
+    <string name="createpdf_new_page_grid">Grade</string>
+    <string name="createpdf_new_page_graph">Gráfico</string>
+    <string name="createpdf_new_page_music">Música</string>
+    <string name="createpdf_new_pagenum">Contagem de páginas</string>
+    <string name="createpdf_new_pagesize">Tamanho de página</string>
+    <string name="createpdf_new_pagecolor">Cor de página</string>
+    <string name="createpdf_new_pageorientation">Orientação</string>
+    <string name="createpdf_new_ori_partrait">Retrato</string>
+    <string name="createpdf_new_ori_landspace">Paisagem</string>
+    <string name="createpdf_new_pagesize_letter">Carta</string>
+    <string name="createpdf_new_pagesize_A3">A3</string>
+    <string name="createpdf_new_pagesize_A4">A4</string>
+    <string name="createpdf_new_pagesize_legal">Legais</string>
+    <string name="createpdf_new_pagesize_ledger">Ledger</string>
+    <string name="fx_original_color">Atual</string>
+    <string name="fx_current_color">Nova</string>
+    <string name="fx_theme_color">Cores do Tema</string>
+
+    <!-- ReadingBookmarkModule -->
+    <string name="fx_page_book_mark">Página %1$d</string>
+
+    <!--  Search -->
+    <string name="search_hint">Insira o texto para pesquisa</string>
+    <string name="search_find_number">Total Encontrado: %1$d</string>
+    <string name="searching_find_number">Pesquisando&#8230;\nEncontrado: %1$d</string>
+    <string name="search_page_number">Página %1$s</string>
+    <string name="search_whole_words">Apenas palavras inteiras</string>
+    <string name="search_case_sensitive">Diferencia maiúsculas e minúsculas</string>
+    <string name="search_in_internet">Pesquisar na Internet</string>
+
+    <!-- Compare -->
+    <string name="legend">Legenda</string>
+    <string name="show_legend">Mostrar Legenda</string>
+    <string name="hide_legend">Ocultar Legenda</string>
+    <string name="replaced">Substituído</string>
+    <string name="inserted">Inserido</string>
+    <string name="deleted">Excluído</string>
+    <string name="unsupported_file_format">O formato de arquivo não é suportado</string>
+    <string name="compare_diff_file">Selecione dois documentos diferentes para comparação.</string>
+    <string name="compare_progress">Comparando Documento&#8230;</string>
+
+    <!-- TTS -->
+    <string name="rd_tts_speak">Falar</string>
+    <string name="rd_tts_speak_string">Leia o conteúdo selecionado em voz alta</string>
+    <string name="rd_tts_speak_start">Leia a posição atual em voz alta</string>
+    <string name="atb_rd_speak_continue_reading_button">Botão Continuar a leitura</string>
+    <string name="atb_rd_speak_previous_page_button">Botão Ler a página anterior</string>
+    <string name="atb_rd_speak_next_page_button">Botão Ler a próxima página</string>
+    <string name="atb_rd_speak_stop_button">Botão Parar a leitura</string>
+    <string name="atb_rd_speak_repeat_button">Botão Repetir a leitura</string>
+    <string name="atb_rd_speak_pause_button">Botão Pausar a leitura</string>
+    <string name="tts_speechrate_title">Velocidade de reprodução</string>
+
+    <!--multi select-->
+    <string name="fx_string_group">Grupo</string>
+    <string name="fx_string_ungroup">Desagrupar</string>
+</resources>

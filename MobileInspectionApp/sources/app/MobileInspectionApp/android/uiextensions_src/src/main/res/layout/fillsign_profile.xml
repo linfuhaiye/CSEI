@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ux_color_white">
+
+    <RelativeLayout
+        android:id="@+id/profile_bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ux_bottombar_height"
+        android:layout_alignParentBottom="true"
+        android:addStatesFromChildren="true"
+        android:background="@drawable/fx_more_btn_bg_selector">
+
+        <com.foxit.uiextensions.annots.common.UIBtnImageView
+            android:id="@+id/profile_add_custom_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/ux_screen_margin_icon"
+            android:layout_marginRight="@dimen/ux_screen_margin_icon"
+            android:src="@drawable/fillsign_add_custom" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/profile_add_custom_icon"
+            android:text="@string/fillsign_profile_add_custom_field"
+            android:textColor="@color/fx_button_text_selector" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/fillsign_profile_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/profile_bottom_bar"
+        android:layout_alignParentTop="true">
+
+        <!-- root layout -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical">
+
+            <!-- Group1: File Information -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- Detail Information -->
+
+                <TableLayout
+                    android:id="@+id/fillsign_profile_table"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:stretchColumns="1">
+                </TableLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

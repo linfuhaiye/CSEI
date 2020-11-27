@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">Ninguna lista</string>
+    <string name="rv_no_panel_infomation">No hay información de lista</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Esquema</string>
+    <string name="rv_panel_outline_noinfo">No hay información de esquema</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">Marcadores</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">No hay información de marcador</string>
+    <string name="rv_panel_readingbookmark_tips_limited">La longitud del marcador supera el límite establecido.</string>
+    <string name="rd_panel_clear_readingbookmarks">¿Está seguro de que desea eliminar todos los marcadores?</string>
+
+    <!-- Arrachments panel -->
+    <string name="save_failed_by_incorrect_file_name">Se ha producido un error al guardar el documento. Nombre de archivo incorrecto.</string>
+    <string name="attachment_page_tab">Página %1$d</string>
+    <string name="rv_panel_attachment_noinfo">Sin archivos adjuntos</string>
+    <string name="rv_panel_title_attachment">Archivos adjuntos</string>
+    <string name="rv_panel_attachment_label">Pestaña de archivos adjuntos</string>
+    <string name="rv_panel_edit_desc">Descripción</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">Anotaciones</string>
+    <string name="rv_panel_annot_noinformation">No hay lista de anotaciones</string>
+    <string name="rv_panel_annot_item_pagenum">Página </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">Firmas digitales</string>
+    <string name="rv_panel_signature_noinformation">Sin firmas digitales</string>
+    <string name="rv_panel_signature_signed_by">Firmado por %s</string>
+    <string name="rv_panel_signature_revocation">Rev.%s:</string>
+    <string name="rv_panel_signature_view">Vista</string>
+    <string name="rv_panel_signature_verify">Verificar</string>
+    <string name="rv_panel_signature_view_current_version">Ya está viendo esta versión de documento cubierto por la firma seleccionada</string>
+    <string name="rv_panel_signature_unsigned">Campo de firma sin firmar</string>
+</resources>

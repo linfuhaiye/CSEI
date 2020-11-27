@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AccountModule -->
+    <string name="sign_out_tips">Möchten Sie sich wirklich abmelden?</string>
+
+    <!-- CropModule -->
+    <string name="fx_string_crop_title">Zuschneiden</string>
+    <string name="fx_string_nocrop">Beenden</string>
+    <string name="fx_string_crop">Manuell zuschneiden</string>
+    <string name="fx_string_smartcrop">Automatisch zuschneiden</string>
+    <string name="fx_string_detect">Automatisch erkennen</string>
+
+    <!-- Pan and Zoom -->
+    <string name="fx_string_pan_zoom_title">Schwenken und Zoomen</string>
+    <string name="not_window_permissions_tips">Ihr Telefon verfügt nicht über schwebende Fensterberechtigungen, aktivieren Sie es und versuchen Sie es erneut</string>
+    <string name="fx_turn_on">Aktivieren</string>
+    <string name="fx_turn_later">Später</string>
+
+    <!-- Snapshot -->
+    <string name="failed_to_save_snapshot">Fehler beim Speichern des Schnappschusses!</string>
+    <string name="the_snapshot_save_path">Das Bild wurde in gespeichert: %1$s</string>
+
+    <!-- PageNavigationModule -->
+    <string name="rv_gotopage_error_toast">Geben Sie die richtige Seitenzahl ein</string>
+    <string name="rd_gotopage_toolbar_go">LOS</string>
+
+    <!-- FormFillerModule -->
+    <string name="fx_form_item_list">Elementliste</string>
+    <string name="fx_combox_custom_text">Benutzerdefinierter Text</string>
+    <string name="fx_listbox_multiple_text">Mehrfachauswahl</string>
+    <string name="fx_no_item_tips">Klicken Sie hier, um Elemente hinzuzufügen</string>
+
+    <!-- form navigation  Resource -->
+    <string name="formfiller_navigation_clear">Feld zurücksetzen</string>
+
+    <!-- Thumbnail -->
+    <string name="fx_string_rotate">Drehen</string>
+    <string name="fx_string_extract">Extrakt</string>
+    <string name ="fx_string_extract_to">Extrakt</string>
+    <string name ="rv_page_import">Seiten importieren&#8230;</string>
+    <string name ="rv_page_extract">Seiten wird extrahiert&#8230;</string>
+    <string name ="rv_page_rotate_cw">Verarbeitung&#8230;</string>
+    <string name ="rv_page_delete">Seiten löschen&#8230;</string>
+    <string name ="rv_page_extract_error">Fehler beim Extrahieren der Seiten.</string>
+    <string name ="rv_page_import_error">Fehler beim Importieren der Seiten.</string>
+    <string name ="rv_page_remove_error">Entfernen fehlgeschlagen.</string>
+    <string name ="rv_page_rotate_error">Fehler beim Drehen der Seiten.</string>
+    <string name="xfa_not_support_move_toast">XFA-Dateien unterstützen keine Austauschseiten</string>
+    <string name="xfa_not_support_to_edit_toast">Das Bearbeiten von XFA-Dateien wird nicht unterstützt</string>
+    <string name="xfa_not_supported_add_image_toast">XFA-Dateien unterstützen das Hinzufügen von Bildern nicht.</string>
+    <string name="cinflicted_with_current_doc_toast">Im Konflikt mit dem aktuellen Dokument, geben Sie bitte den neuen Dateinamen erneut ein!!!</string>
+    <string name="the_file_can_not_replace_toast">%1$s Kann nicht ersetzen.</string>
+    <string name="rv_page_delete_all_thumbnail">Das Löschen aller Seiten ist nicht erlaubt.</string>
+    <string name="rv_page_delete_thumbnail">Möchten Sie die ausgewählten Seiten wirklich löschen? Sie können diese Aktion nicht rückgängig machen.</string>
+    <string name="createpdf_add_page_title">Seite hinzufügen</string>
+    <string name="createpdf_new_page_blank">Leer</string>
+    <string name="createpdf_new_page_lined">Liniert</string>
+    <string name="createpdf_new_page_grid">Raster</string>
+    <string name="createpdf_new_page_graph">Diagramm</string>
+    <string name="createpdf_new_page_music">Musik</string>
+    <string name="createpdf_new_pagenum">Seitenzahl</string>
+    <string name="createpdf_new_pagesize">Seitengröße</string>
+    <string name="createpdf_new_pagecolor">Seitenfarbe</string>
+    <string name="createpdf_new_pageorientation">Ausrichtung</string>
+    <string name="createpdf_new_ori_partrait">Hochformat</string>
+    <string name="createpdf_new_ori_landspace">Querformat</string>
+    <string name="createpdf_new_pagesize_letter">Papier</string>
+    <string name="createpdf_new_pagesize_A3">A3</string>
+    <string name="createpdf_new_pagesize_A4">A4</string>
+    <string name="createpdf_new_pagesize_legal">Legal</string>
+    <string name="createpdf_new_pagesize_ledger">Ledger</string>
+    <string name="fx_original_color">Aktuell</string>
+    <string name="fx_current_color">Neu</string>
+    <string name="fx_theme_color">Designfarben</string>
+
+    <!-- ReadingBookmarkModule -->
+    <string name="fx_page_book_mark">Seite %1$d</string>
+
+    <!--  Search -->
+    <string name="search_hint">Geben Sie den zu suchenden Text ein</string>
+    <string name="search_find_number">Gesamt gefunden: %1$d</string>
+    <string name="searching_find_number">Suchen&#8230;\nGefunden: %1$d</string>
+    <string name="search_page_number">Seite %1$s</string>
+    <string name="search_whole_words">Nur ganze Wörter</string>
+    <string name="search_case_sensitive">Groß-Kleinschreibung beachten</string>
+    <string name="search_in_internet">Im Internet suchen</string>
+
+    <!-- Compare -->
+    <string name="legend">Legende</string>
+    <string name="show_legend">Legende anzeigen</string>
+    <string name="hide_legend">Legende ausblenden</string>
+    <string name="replaced">Ersetzt</string>
+    <string name="inserted">Eingefügt</string>
+    <string name="deleted">Gelöscht</string>
+    <string name="unsupported_file_format">Das Dateiformat wird nicht unterstützt</string>
+    <string name="compare_diff_file">Wählen Sie zwei unterschiedliche Dokumente für den Vergleich aus.</string>
+    <string name="compare_progress">Dokumentvergleich wird ausgeführt&#8230;</string>
+
+    <!-- TTS -->
+    <string name="rd_tts_speak">Sprechen</string>
+    <string name="rd_tts_speak_string">Ausgewählten Inhalt laut vorlesen lassen</string>
+    <string name="rd_tts_speak_start">Ab aktueller Position laut vorlesen lassen</string>
+    <string name="atb_rd_speak_continue_reading_button">Schaltfläche Weiterlesen</string>
+    <string name="atb_rd_speak_previous_page_button">Schaltfläche Vorherige Seite vorlesen</string>
+    <string name="atb_rd_speak_next_page_button">Schaltfläche Nächste Seite vorlesen</string>
+    <string name="atb_rd_speak_stop_button">Schaltfläche Vorlesen beenden</string>
+    <string name="atb_rd_speak_repeat_button">Schaltfläche Vorlesen wiederholen</string>
+    <string name="atb_rd_speak_pause_button">Schaltfläche Vorlesen unterbrechen</string>
+    <string name="tts_speechrate_title">Wiedergabegeschwindigkeit</string>
+
+    <!--multi select-->
+    <string name="fx_string_group">Gruppieren</string>
+    <string name="fx_string_ungroup">Gruppierung aufheben</string>
+</resources>

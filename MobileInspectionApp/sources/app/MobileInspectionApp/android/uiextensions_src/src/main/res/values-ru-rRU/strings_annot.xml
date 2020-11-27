@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_string_copy">Копиров</string>
+    <string name="fx_string_reply">Ответить</string>
+	<string name="fx_string_comment">комментарий</string>
+    <string name="fx_string_flatten">Выровнять</string>
+	<string name="fx_string_color">Цвет</string>
+    <string name="fx_string_opacity">Непрозрач</string>
+    <string name="fx_string_rotation">Поворот</string>
+    <string name="fx_string_linewidth">Толщина</string>
+	<string name="fx_string_edit">Изменить</string>
+    <string name="fx_string_open">Открыть</string>
+    <string name="fx_string_rename">Переименовать</string>
+    <string name="fx_string_unit">Единицы</string>
+    <string name="fx_string_redaction">Редактирование</string>
+    <string name="fx_string_apply">Применить</string>
+    <string name="fx_string_warning">Оповещение</string>
+
+	<!--annotation text  -->
+    <string name="annot_text_comment">Комментарий</string>
+    <string name="annot_text_key">Ключ</string>
+    <string name="annot_text_note">Примечание</string>
+    <string name="annot_text_help">Справка</string>
+    <string name="annot_text_newparagraph">Новый абзац</string>
+    <string name="annot_text_paragraph">Параграф</string>
+    <string name="annot_text_insert">Вставить</string>
+
+    <!--FileAttachment-->
+    <string name="annot_fat_icontext_graph">График</string>
+    <string name="annot_fat_icontext_paperclip">Скрепка</string>
+    <string name="annot_fat_icontext_pushpin">Канцелярская кнопка</string>
+    <string name="annot_fat_icontext_tag">Метка</string>
+    <string name="annot_fat_filesizelimit_meg">
+        Этот комментарий невозможно вложить, так как он слишком большой. Размер комментария не должен превышать %1$d МБ.
+    </string>
+
+    <!--Annot menu-->
+    <string name="rd_am_item_copy_text">Копировать текст</string>
+    <string name="fx_string_highlight">Выделить</string>
+    <string name="fx_string_underline">Подчеркн</string>
+    <string name="fx_string_strikeout">Зачеркнуть</string>
+    <string name="fx_string_squiggly">Волнистое</string>
+    <string name="fx_string_signature">Подписать</string>
+    <string name="fx_am_style">Внешний вид</string>
+    <string name="fx_distance">Расстояние</string>
+    <string name="fx_string_note">Примечание</string>
+    <string name="fx_string_oval">Овал</string>
+    <string name="fx_string_rectangle">Прямоугольник</string>
+    <string name="fx_string_insert_text">Вставить текст</string>
+    <string name="fx_string_replace_text">Заменить текст</string>
+    <string name="fx_string_eraser">Ластик</string>
+    <string name="fx_string_pencil">Карандаш</string>
+    <string name="fx_string_arrow">Стрелка</string>
+    <string name="fx_string_line">Линия</string>
+    <string name="fx_string_fileattachment">Вложение</string>
+
+    <string name="hm_clear">Очистить</string>
+    <string name="cloud_delete_tv">Удалить</string>
+    <string name="rd_comment_reply_list">Koммeнтapии</string>
+    <string name="rv_panel_annot_delete_tips">Удалить комментарии и связанные ответы?</string>
+    <string name="rd_panel_clear_comment">Удалить все комментарии?</string>
+
+    <string name="fx_distance_unit">Отношение масштаба:</string>
+    <string name="fx_string_border_style">Граница</string>
+
+    <!-- InsertText and ReplaceText-->
+    <string name="fx_string_inserttext">Вставить текст</string>
+    <string name="fx_string_replacetext">Заменить текст</string>
+    <string name="rd_pb_scale">Масштаб по отношению к целевой странице</string>
+
+    <string name="annot_continue_create">Запоминать выбранные инструменты</string>
+    <string name="annot_single_create">Одиночный комментарий</string>
+    <string name="mt_text_markup">Разметка текста</string>
+    <string name="mt_drawing">Рисование</string>
+    <string name="mt_others">Другие</string>
+    <string name="annot_link_alert_title">Сведения</string>
+    <string name="annot_link_alert_prompt">Файл не найден. Убедитесь, что файл не был перемещен, переименован или удален.</string>
+
+    <!-- Freetext -->
+    <string name="annot_tool_display_name_typewrite">Пишущая машинка</string>
+    <string name="annot_tool_display_name_callout">Выноска</string>
+    <string name="annot_tool_display_name_textbox">Текстовое окно</string>
+    <string name="fx_string_font">Шрифт</string>
+    <string name="fx_string_fontsize">Размер шрифта</string>
+    <!-- Font name -->
+    <string name="fx_font_courier">Courier</string>
+    <string name="fx_font_helvetica">Helvetica</string>
+    <string name="fx_font_times">Times</string>
+
+    <!--stamp-->
+    <string name="annot_tool_display_name_stamp">штамп</string>
+    <string name="annot_stamp_standard">Стандартные штампы</string>
+    <string name="annot_stamp_signhere">Подписать здесь</string>
+    <string name="annot_stamp_dynamic">Динамические штампы</string>
+
+    <!--Screen annot-->
+    <string name="screen_annot_image">Изображение</string>
+    <string name="screen_annot_audio">Аудио</string>
+    <string name="screen_annot_video">Видео</string>
+    <string name="pb_rotation_0">0&#176;</string>
+    <string name="pb_rotation_90">90&#176;</string>
+    <string name="pb_rotation_180">180&#176;</string>
+    <string name="pb_rotation_270">270&#176;</string>
+
+    <string name="recording_audio">Запись аудио</string>
+    <string name="audio_start">Начать</string>
+
+    <string name="recording_video">Запись видео</string>
+    <string name="remake_video">переделка</string>
+
+    <string name="multimedia_play">Воспроизвести</string>
+    <string name="fx_permission_denied">Доступ запрещен</string>
+
+    <string name="multimedia_type_not_support">Формат выбранного медиафайла не поддерживается.</string>
+    <string name="the_sdcard_not_exist">Файл не существует. Проверьте SD-карту.</string>
+    <string name="record_failed">Запись видео / аудио не удалась.</string>
+
+    <!--Polygon-->
+    <string name="fx_string_polygon">Многоугольник</string>
+    <string name="fx_string_polygon_cloud">Облако</string>
+    <string name="fx_string_polyLine">Ломаная линия</string>
+    <string name="add_polygon_failed_hints">Многоугольная аннотация должна требовать как минимум 3 точки в качестве вершин.</string>
+    <string name="add_cloud_failed_hints">Для аннотации многоугольного облака требуется как минимум 3 точки в качестве вершин</string>
+    <string name="add_polyline_failed_hints">Полилинии аннотации должны требовать как минимум 2 точки в качестве вершин.</string>
+
+    <!--Annot action callback-->
+    <string name="unsupported_to_submit_form_tip">Не поддерживается для отправки формы сейчас.</string>
+    <string name="action_alert_msg">Оповещение&#8230;%1$s</string>
+
+    <!-- Select multiple annotations-->
+    <string name="fx_string_multi_select">Выбор нескольких элементов</string>
+
+    <!-- Redact -->
+    <string name="fx_string_overlay_title">Текст</string>
+    <string name="fx_string_overlay_hint">Введите текст</string>
+    <string name="fx_string_apply_all">Применить все редакции</string>
+    <string name="fx_string_redact_apply_toast">Вы собираетесь безвозвратно отредактировать отмеченное содержимое. Эта операция не может быть отменена. Вы уверены, что хотите продолжить?</string>
+</resources>

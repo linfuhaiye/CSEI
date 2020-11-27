@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_more_menu_title">Meer</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">Bestand</string>
+    <string name="rv_doc_info">Eigenschappen</string>
+    <string name="rv_doc_reduce_file_size">Bestandsgrootte verkleinen</string>
+    <string name="rv_doc_snapshot">Momentopname</string>
+
+    <string name="fx_string_saveas_filename">Titel</string>
+    <string name="fx_string_format">Opmaak</string>
+    <string name="rv_saveas_original">Oorspronkelijk document</string>
+    <string name="rv_saveas_flatten">Plat exemplaar</string>
+    <string name="rv_saveas_optimize">Exemplaar met gereduceerde bestandsgrootte</string>
+    <string name="rv_saveas_optimize_toast">Bestand geoptimaliseerd van %1$s naar %2$s</string>
+    <string name="rv_saveas_optimize_optimizing">Document optimaliseren…</string>
+    <string name="rv_saveas_image_settings">Kleur-/grijsschaalafbeeldingen</string>
+    <string name="rv_saveas_mono_settings">Zwart-witafbeeldingen</string>
+    <string name="rv_saveas_mono_settings_lossless">Zonder verlies</string>
+    <string name="rv_saveas_mono_settings_lossy">Kwaliteitsverlies</string>
+    <string name="fx_string_saveas_quality">Kwaliteit</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">Beveiligen</string>
+    <string name="rv_doc_encrpty_standard">Beveiligen met wachtwoord</string>
+    <string name="menu_more_item_trust_certificate">Vertrouwde certificaten</string>
+    <string name="menu_more_item_remove_encrytion">Beveiliging verwijderen</string>
+    <string name="rv_doc_encrypt_standard_switch_title">Beveiliging Beheren</string>
+    <string name="rv_doc_encrypt_standard_switch_content">Weet u zeker dat u de beveiliging van dit document wilt wijzigen?</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">Formulier</string>
+    <string name="menu_more_item_create">Maken van formuliervelden</string>
+    <string name="menu_more_item_reset">Formuliervelden opnieuw instellen</string>
+    <string name="menu_more_item_import">Formuliergegevens importeren</string>
+    <string name="menu_more_item_export">Formuliergegevens exporteren</string>
+    <string name="fx_form_importing">Bezig met verwerken&#8230;</string>
+    <string name="fx_form_reseting">Formulierinvoer wissen&#8230;</string>
+    <string name="fx_form_exporting">Bezig met exporteren&#8230;</string>
+    <string name="formfiller_import_title">Importeren</string>
+    <string name="formfiller_export_title">Exporteren</string>
+    <string name="fm_file_exist">Bestand bestaat reeds</string>
+    <string name="formfiller_export_error">Kan de gegevens niet exporteren.</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">Afdrukken</string>
+    <string name="menu_more_print_item">Documents</string>
+    <string name="rv_print_setting_title">Instellingen</string>
+    <string name="rv_print_options">Inhoud afdrukken</string>
+    <string name="rv_print_annot">Annotaties</string>
+    <string name="file_not_exist">Het opgegeven bestand is niet gevonden.</string>
+    <string name="file_is_not_pdf">De opmaak van het bronbestand is niet PDF.</string>
+    <string name="fx_os_version_too_low_toast">De versie van het besturingssysteem is te laag om de afdrukfunctie te gebruiken</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">Aantekeningen importeren</string>
+    <string name="menu_more_item_annot_export">Aantekeningen exporteren</string>
+    <string name="menu_more_success_export_data">De gegevens zijn geëxporteerd.</string>
+    <string name="menu_more_success_import_data">Gegevens zijn in het huidige document geïmporteerd.</string>
+    <string name="menu_more_fail_import_data">Kan gegevens niet importeren in het document.</string>
+</resources>

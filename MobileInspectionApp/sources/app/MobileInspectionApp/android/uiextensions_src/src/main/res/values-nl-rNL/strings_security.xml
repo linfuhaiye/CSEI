@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Gegevens certificaat</string>
+    <string name="rv_security_information_certlist_serialnumber">Serienummer</string>
+    <string name="rv_security_information_certlist_publisher">Vrijgegeven door</string>
+    <string name="rv_security_information_certlist_startdate">Geldig van</string>
+    <string name="rv_security_information_certlist_expiringdate">Geldig van</string>
+    <string name="rv_security_information_certlist_email">E-mailadres</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Beveiliging verwijderen</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Wachtwoord</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Ongeldig wachtwoord. Probeer het opnieuw.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Voer een wachtwoord in voor het openen van dit document.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">Wilt u de beveiliging uit dit document verwijderen?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Beveiligingsopties</string>
+    <string name="rv_doc_encrpty_standard_openfile">Document openen</string>
+    <string name="rv_doc_encrpty_standard_password">Wachtwoord:</string>
+    <string name="rv_doc_encrpty_standard_must_input">Vereist</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Documentbeperkingen toevoegen</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-Als \'Document openen\' is ingeschakeld, is een wachtwoord vereist om het document te openen.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-Als \'Document openen\' is ingeschakeld, is een wachtwoord nodig om de beveiliging op te heffen en kunt u ervoor kiezen om bepaalde functies voor dit document niet toe te staan.</string>
+    <string name="rv_doc_encrpty_standard_same_password">De wachtwoorden voor het openen van het document en voor Documentbeperking kunnen niet hetzelfde zijn. Voer een ander wachtwoord in het veld Wachtwoord voor openen document of het veld Documentbeperking in.</string><!-- Security PublicKey -->
+
+    <string name="rv_encrypt_dialog_title">Codering</string>
+    <string name="rv_encrypt_dialog_description">Nadat de codering is toegepast, worden de codering en alle eerdere wijzigingen automatisch opgeslagen in het bestand.</string>
+
+    <string name="rv_decrypt_dialog_title">Decodering</string>
+    <string name="rv_decrypt_dialog_description">Nadat de decodering is toegepast, worden de decodering en alle eerdere wijzigingen automatisch opgeslagen in het bestand.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Vertrouwen</string>
+    <string name="rv_view_certificate_info">Wyświetl certyfikat</string>
+    <string name="rv_remove_trust_certificate_prompt">Czy na pewno chcesz usunąć ten certyfikat?\n Jeśli to zrobisz, nie będziesz już w stanie zweryfikować tożsamości właściciela</string>
+    <string name="rv_security_information_certlist_usage">Gebruik</string>
+    <string name="rv_add_trust_certificate_prompt">Als u de vertrouwde instellingen wilt wijzigen, moet u de handtekeningen opnieuw goedkeuren om de wijzigingen te kunnen zien. Het wordt niet aanbevolen om certificaten rechtstreeks vanuit een document te vertrouwen. Weet u zeker dat u wilt doorgaan?</string>
+</resources>

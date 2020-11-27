@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">Único</string>
+    <string name="rv_page_present_continuous">Rolagem Contínua</string>
+    <string name="rv_page_present_thumbnail">Miniatura</string>
+    <string name="rd_fitpage_topbar_title">Caber Página</string>
+    <string name="rd_fitwidth_topbar_title">Caber Largura</string>
+    <string name="rd_rotateview_topbar_title">Girar Visualização</string>
+    <string name="rd_reflow_topbar_title">Redistribuição</string>
+    <string name="rd_crop_topbar_title">Modo Cortar</string>
+    <string name="rd_facingmode_topbar_title">Página dupla</string>
+    <string name="rd_coverpage_topbar_title">Página de Capa</string>
+    <string name="rd_panzoom_topbar_title">Pan Zoom</string>
+    <string name="ml_system_light">Brilho automático</string>
+    <string name="ml_day_night">Modo noturno</string>
+    <string name="ml_page_zoommode">Visualização de Página</string>
+    <string name="ml_pagemode">Modo de página</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">Bloqueio de Tela</string>
+    <string name="rv_screen_rotation_pad_landscape">Paisagem</string>
+    <string name="rv_screen_rotation_pad_portrait">Retrato</string>
+    <string name="rv_screen_rotation_pad_auto">Girar automaticamente com a tela</string>
+</resources>

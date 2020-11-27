@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fm_history_file_name">Título：</string>
+    <string name="fm_history_file_path">Ruta：</string>
+    <string name="fm_history_file_size">Tamaño：</string>
+    <string name="fm_history_pdf_author">Autor：</string>
+    <string name="fm_history_pdf_subject">Asunto：</string>
+    <string name="fm_history_file_create_time">Creado：</string>
+    <string name="fm_history_file_last_modify_time">Modificado por última vez：</string>
+
+	<string name="fx_string_allowed">Permitido</string>
+    <string name="fx_string_notallowed">No permitido</string>
+
+    <string name="rv_doc_reduce_file_size_toast">Eliges reducir el tamaño del archivo PDF, pero no se aplicará al documento hasta que lo guardes. Puede continuar editando el documento.</string>
+    <string name="rv_doc_info_permission">Seguridad</string>
+    <string name="rv_doc_info_permission_summary">Resumen de restricciones del documento</string>
+    <string name="rv_doc_info_permission_print">Imprimir</string>
+    <string name="rv_doc_info_permission_fillform">Completar formulario</string>
+    <string name="rv_doc_info_permission_annotform">Comentar en el documento</string>
+    <string name="rv_doc_info_permission_assemble">Administrar páginas y esquemas</string>
+    <string name="rv_doc_info_permission_modify">Modificar documento</string>
+    <string name="rv_doc_info_permission_extractaccess">Copia del contenido para accesibilidad</string>
+    <string name="rv_doc_info_permission_extract">Extraer el contenido del documento</string>
+    <string name="rv_doc_info_permission_signing">Firmar</string>
+
+    <string name="rv_doc_info_fileinfo">Información del archivo</string>
+
+    <string name="rv_doc_info_security">Seguridad</string>
+    <string name="rv_doc_info_security_no">Sin protección</string>
+    <string name="rv_doc_info_security_standard">Protección con contraseña</string>
+    <string name="rv_doc_info_security_pubkey">Protección con certificado</string>
+    <string name="rv_doc_info_security_rms">Protección RMS</string>
+    <string name="rv_doc_info_security_cdrm">Protección de ConnectedPDF</string>
+    <string name="rv_doc_info_security_custom">Protección personalizado</string>
+</resources>

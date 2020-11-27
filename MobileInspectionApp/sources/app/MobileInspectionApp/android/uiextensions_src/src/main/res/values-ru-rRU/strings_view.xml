@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">Одна</string>
+    <string name="rv_page_present_continuous">непрерывной прокрутки</string>
+    <string name="rv_page_present_thumbnail">Эскиз</string>
+    <string name="rd_fitpage_topbar_title">Подходят страница</string>
+    <string name="rd_fitwidth_topbar_title">Подходят ширина</string>
+    <string name="rd_rotateview_topbar_title">Поворот</string>
+    <string name="rd_reflow_topbar_title">Переформатирование</string>
+    <string name="rd_crop_topbar_title">Резки</string>
+    <string name="rd_facingmode_topbar_title">Двойная страница</string>
+    <string name="rd_coverpage_topbar_title">обложка</string>
+    <string name="rd_panzoom_topbar_title">Пан зум</string>
+    <string name="ml_system_light">Автояркость</string>
+    <string name="ml_day_night">Ночной режим</string>
+    <string name="ml_page_zoommode">Вида Cтраницы</string>
+    <string name="ml_pagemode">Режима Cтраницы</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">Блокировка экрана</string>
+    <string name="rv_screen_rotation_pad_landscape">Альбомная</string>
+    <string name="rv_screen_rotation_pad_portrait">Книжная</string>
+    <string name="rv_screen_rotation_pad_auto">Автоповорот экрана</string>
+</resources>

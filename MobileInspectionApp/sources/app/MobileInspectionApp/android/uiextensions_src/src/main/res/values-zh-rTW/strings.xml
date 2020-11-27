@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">是</string>
+    <string name="fx_string_no">否</string>
+    <string name="fx_string_ok">確定</string>
+    <string name="fx_string_cancel">取消</string>
+    <string name="fx_string_save">儲存</string>
+    <string name="fx_string_saveas">另存為</string>
+    <string name="fx_string_delete">刪除</string>
+    <string name="fx_string_auto">自動</string>
+    <string name="fx_string_add">增添</string>
+    <string name="fx_string_info">資訊</string>
+    <string name="fx_string_name">名稱</string>
+    <string name="fx_string_done">完成</string>
+    <string name="fx_string_error">錯誤</string>
+    <string name="fx_string_address">地址:</string>
+
+    <string name="fx_string_close">關閉</string>
+    <string name="fx_string_select_all">全選</string>
+    <string name="fx_string_original">原件</string>
+    <string name="fx_string_setting">設定</string>
+
+    <string name="hm_back">返回</string>
+    <string name="hm_document">文件</string>
+    <string name="hm_sign">登錄</string>
+    <string name="hm_signout">退出</string>
+
+    <string name ="fx_string_minimum">最小值</string>
+    <string name ="fx_string_low">低</string>
+    <string name ="fx_string_medium">中</string>
+    <string name ="fx_string_high">高</string>
+    <string name ="fx_string_maximum">最大值</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">比較</string>
+    <string name="hm_comparison_mode">比較模式</string>
+    <string name="hm_comparison_mode_overlay">覆蓋</string>
+    <string name="hm_comparison_mode_side_by_side">並排</string>
+    <string name="hm_comparison_old_file">舊檔案</string>
+    <string name="hm_comparison_new_file">新檔案</string>
+    <string name="hm_comparison_selected_color">選取色</string>
+    <string name="hm_comparison_selected_file_title">選取</string>
+
+    <string name="rv_panel_annot_loading_start">加載中&#8230;</string>
+    <string name="rv_panel_annot_deleting">刪除中&#8230;</string>
+    <string name="rv_panel_annot_failed">刪除失敗</string>
+    <string name="fx_string_saving">儲存中&#8230;</string>
+    <string name="fx_string_closing">關閉檔案&#8230;</string>
+    <string name="fx_string_recovering">處理中&#8230;</string>
+    <string name="fx_string_opening">打開中&#8230;</string>
+    <string name="fx_string_copying">複製中&#8230;</string>
+    <string name="fx_string_processing">處理中&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">填充</string>
+    <string name="pb_icon_tab">圖示</string>
+    <string name="pb_border_tab">邊框 </string>
+    <string name="pb_fontname_tab">字體</string>
+    <string name="pb_watermark_tab">浮水印</string>
+    <string name="pb_overlay_text_tab">重疊文字</string>
+    <string name="pb_options_tab">選項</string>
+
+    <string name="fx_import_blank_page">空白頁</string>
+    <string name="fx_import_file">文件</string>
+    <string name="fx_import_dcim">從圖庫</string>
+    <string name="fx_import_camera">從相機</string>
+    <string name ="fx_string_import">文件</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">內容已被放入剪貼簿。</string>
+    <string name="fm_move">移動</string>
+    <string name="fm_paste_replace">替換</string>
+    <string name="fm_paste_skip">略過</string>
+    <string name="rv_emailreview_mergedlg_openbutton">不，僅打開該副本</string>
+    <string name="cloud_toolbar_more_upload">上傳</string>
+
+    <string name="rv_url_dialog_title">訪問</string>
+    <string name="rv_urldialog_title">開啟此網址可能存在風險，確定要打開網址:</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">您無權使用此附加模塊，請與我們聯系以陞級您的許可證。</string>
+    <string name="rv_deivce_limitation">超過最大啟動數量。</string>
+    <string name="rv_no_rights">抱歉，您沒有許可權打開此檔案</string>
+    <string name="rv_rights_expired">您的授權或免費試用版已過期。</string>
+    <string name="rv_unknown_error">未知錯誤</string>
+    <string name="rv_format_error">格式錯誤：不是一個PDF文件或該文件已損壞</string>
+
+    <string name="rv_back_save_to_original_file">保存到原文件</string>
+    <string name="rv_back_save_to_new_file">另存為新文件</string>
+    <string name="rv_back_discard_modify">放棄修改</string>
+    <string name="fx_save_file_failed">儲存檔案失敗！</string>
+    <string name="rv_document_open_failed">開啟檔案失敗</string>
+    <string name="fx_string_filereplace_warning">檔案已經存在，確定要取代嗎?</string>
+
+    <string name="rv_password_dialog_title">密碼</string>
+    <string name="rv_tips_password_error">密碼不正確，請重新輸入。</string>
+    <string name="rv_tips_password">開啟此檔需要密碼，請輸入密碼。</string>
+    <string name="fx_string_password_dialog_title">請輸入密碼</string>
+
+    <string name="fx_form_rename_toast">現有的欄位已使用您輸入的名稱。請選擇一個不同的名稱，或變更欄位類型以符合現有的欄位</string>
+    <string name="fx_flatten_doc_toast">扁平化註釋或PDF表單，使它們成爲頁面内容的一部分，可避免進一步的編輯。</string>
+    <string name="fx_system_language_changed_toast">系統語言已更改，建議重新啟動當前應用程序。</string>
+</resources>
+

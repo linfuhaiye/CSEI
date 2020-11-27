@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_more_menu_title">Mehr</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">Datei</string>
+    <string name="rv_doc_info">Eigenschaften</string>
+    <string name="rv_doc_reduce_file_size">Dateigröße verringern</string>
+    <string name="rv_doc_snapshot">Schnappschuss</string>
+
+    <string name="fx_string_saveas_filename">Titel</string>
+    <string name="fx_string_format">Format</string>
+    <string name="rv_saveas_original">Originaldokument</string>
+    <string name="rv_saveas_flatten">Reduzierter Kopierumfang</string>
+    <string name="rv_saveas_optimize">Dateigrößen-reduzierte Kopie</string>
+    <string name="rv_saveas_optimize_toast">Datei von %1$s bis %2$s</string>
+    <string name="rv_saveas_optimize_optimizing">Dokument wird optimiert…</string>
+    <string name="rv_saveas_image_settings">Farb-/Graustufenbilder</string>
+    <string name="rv_saveas_mono_settings">Schwarzweißbilder</string>
+    <string name="rv_saveas_mono_settings_lossless">Verlustfrei</string>
+    <string name="rv_saveas_mono_settings_lossy">Verlustbehaftet</string>
+    <string name="fx_string_saveas_quality">Qualität</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">Schützen</string>
+    <string name="rv_doc_encrpty_standard">Kennwortschutz</string>
+    <string name="menu_more_item_trust_certificate">Vertrauenswürdige Zertifikate</string>
+    <string name="menu_more_item_remove_encrytion">Sicherheit entfernen</string>
+    <string name="rv_doc_encrypt_standard_switch_title">Sicherheit Verwalten</string>
+    <string name="rv_doc_encrypt_standard_switch_content">Möchten Sie die Sicherheitseinstellungen dieses Dokuments wirklich ändern?</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">Formular</string>
+    <string name="menu_more_item_create">Erstellung von Formularfeldern</string>
+    <string name="menu_more_item_reset">Formularfelder zurücksetzen</string>
+    <string name="menu_more_item_import">Formulardaten importieren</string>
+    <string name="menu_more_item_export">Formulardaten exportieren</string>
+    <string name="fx_form_importing">Importieren&#8230;</string>
+    <string name="fx_form_reseting">Zurücksetzen&#8230;</string>
+    <string name="fx_form_exporting">Exportieren&#8230;</string>
+    <string name="formfiller_import_title">Importieren</string>
+    <string name="formfiller_export_title">Exportieren</string>
+    <string name="fm_file_exist">Datei ist bereits vorhanden</string>
+    <string name="formfiller_export_error">Fehler beim Export der Daten.</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">Drucken</string>
+    <string name="menu_more_print_item">Dokument</string>
+    <string name="rv_print_setting_title">Einstellungen</string>
+    <string name="rv_print_options">Inhalt drucken</string>
+    <string name="rv_print_annot">Anmerkungen</string>
+    <string name="file_not_exist">Die angegebene Datei wurde nicht gefunden.</string>
+    <string name="file_is_not_pdf">Das Quellformat ist nicht PDF.</string>
+    <string name="fx_os_version_too_low_toast">Die Betriebssystemversion ist zu niedrig, um die Druckfunktion zu verwenden</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">Anmerkungen importieren</string>
+    <string name="menu_more_item_annot_export">Anmerkungen exportieren</string>
+    <string name="menu_more_success_export_data">Daten wurden erfolgreich exportiert.</string>
+    <string name="menu_more_success_import_data">Daten wurden in das aktuelle Dokument importiert.</string>
+    <string name="menu_more_fail_import_data">Daten konnten nicht in das aktuelle Dokument importiert werden.</string>
+</resources>

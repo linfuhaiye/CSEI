@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fm_history_file_name">Titel：</string>
+    <string name="fm_history_file_path">Pfad：</string>
+    <string name="fm_history_file_size">Größe：</string>
+    <string name="fm_history_pdf_author">Autor：</string>
+    <string name="fm_history_pdf_subject">Betreff：</string>
+    <string name="fm_history_file_create_time">Erstellt：</string>
+    <string name="fm_history_file_last_modify_time">Zuletzt geändert：</string>
+
+	<string name="fx_string_allowed">Zugelassen</string>
+    <string name="fx_string_notallowed">Nicht zugelassen</string>
+
+    <string name="rv_doc_reduce_file_size_toast">Sie haben sich für die Reduzierung der Dokumentgröße entschieden, Es wird jedoch nicht auf das Dokument angewendet, bis Sie das Dokument speichern. Sie können das Dokument weiter bearbeiten.</string>
+    <string name="rv_doc_info_permission">Sicherheit</string>
+    <string name="rv_doc_info_permission_summary">Zusammenfassung der Dokumenteinschränkungen</string>
+    <string name="rv_doc_info_permission_print">Drucken</string>
+    <string name="rv_doc_info_permission_fillform">Formular ausfüllen</string>
+    <string name="rv_doc_info_permission_annotform">Kommentare im Dokument hinzufügen</string>
+    <string name="rv_doc_info_permission_assemble">Seiten und Gliederungen verwalten</string>
+    <string name="rv_doc_info_permission_modify">Dokument ändern</string>
+    <string name="rv_doc_info_permission_extractaccess">Inhalt kopieren für Barrierefreiheit</string>
+    <string name="rv_doc_info_permission_extract">Inhalte des Dokuments extrahieren</string>
+    <string name="rv_doc_info_permission_signing">Signieren</string>
+
+    <string name="rv_doc_info_fileinfo">Dateiinformationen</string>
+
+    <string name="rv_doc_info_security">Sicherheit</string>
+    <string name="rv_doc_info_security_no">Kein Schutz</string>
+    <string name="rv_doc_info_security_standard">Kennwortschutz</string>
+    <string name="rv_doc_info_security_pubkey">Zertifikatsschutz</string>
+    <string name="rv_doc_info_security_rms">RMS-Schutz</string>
+    <string name="rv_doc_info_security_cdrm">ConnectedPDF-Schutz</string>
+    <string name="rv_doc_info_security_custom">Benutzerdefiniert-Schutz</string>
+</resources>

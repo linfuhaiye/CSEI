@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fx_more_menu_title">更多</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">文件</string>
+    <string name="rv_doc_info">屬性</string>
+    <string name="rv_doc_reduce_file_size">縮減檔案大小</string>
+    <string name="rv_doc_snapshot">快照</string>
+
+    <string name="fx_string_saveas_filename">文檔名稱</string>
+    <string name="fx_string_format">方式</string>
+    <string name="rv_saveas_original">原始檔案</string>
+    <string name="rv_saveas_flatten">扁平化檔案</string>
+    <string name="rv_saveas_optimize">壓縮檔案</string>
+    <string name="rv_saveas_optimize_toast">優化文件從%1$s到%2$s</string>
+    <string name="rv_saveas_optimize_optimizing">文件優化中…</string>
+    <string name="rv_saveas_image_settings">彩色/灰階影像</string>
+    <string name="rv_saveas_mono_settings">單色影像</string>
+    <string name="rv_saveas_mono_settings_lossless">不減損</string>
+    <string name="rv_saveas_mono_settings_lossy">有損</string>
+    <string name="fx_string_saveas_quality">画質</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">保護</string>
+    <string name="rv_doc_encrpty_standard">密碼加密</string>
+    <string name="menu_more_item_trust_certificate">信任的憑證</string>
+    <string name="menu_more_item_remove_encrytion">移除加密</string>
+    <string name="rv_doc_encrypt_standard_switch_title">切換加密方式</string>
+    <string name="rv_doc_encrypt_standard_switch_content">確定要切換加密方式嗎？</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">表單</string>
+    <string name="menu_more_item_create">創建表單欄位</string>
+    <string name="menu_more_item_reset">重置表單欄位</string>
+    <string name="menu_more_item_import">導入表單數據</string>
+    <string name="menu_more_item_export">匯出表單數據</string>
+    <string name="fx_form_importing">正在導入&#8230;</string>
+    <string name="fx_form_reseting">正在重置&#8230;</string>
+    <string name="fx_form_exporting">正在匯出&#8230;</string>
+    <string name="formfiller_import_title">導入</string>
+    <string name="formfiller_export_title">匯出</string>
+    <string name="fm_file_exist">檔案已經存在</string>
+    <string name="formfiller_export_error">>匯出失敗</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">列印</string>
+    <string name="menu_more_print_item">檔案</string>
+    <string name="rv_print_setting_title">設定</string>
+    <string name="rv_print_options">列印內容</string>
+    <string name="rv_print_annot">註解</string>
+    <string name="file_not_exist">指定的檔案不存在。</string>
+    <string name="file_is_not_pdf">來源格式不是 PDF。</string>
+    <string name="fx_os_version_too_low_toast">作業系統版本太低，列印功能不能使用</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">導入注釋</string>
+    <string name="menu_more_item_annot_export">匯出注釋</string>
+    <string name="menu_more_success_export_data">成功匯出資料。</string>
+    <string name="menu_more_success_import_data">資料已成功導入當前文件。</string>
+    <string name="menu_more_fail_import_data">導入資料到當前文件失敗。</string>
+</resources>

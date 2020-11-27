@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">憑證資訊</string>
+    <string name="rv_security_information_certlist_serialnumber">證書序號</string>
+    <string name="rv_security_information_certlist_publisher">證書發行者</string>
+    <string name="rv_security_information_certlist_startdate">證書起始日期</string>
+    <string name="rv_security_information_certlist_expiringdate">證書到期日</string>
+    <string name="rv_security_information_certlist_email">電子郵件位址</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">移除加密</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">密碼</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">密碼無效，請重新輸入。</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">當前文件被保護中, 請輸入許可密碼。</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">確認要移除該檔的密碼嗎？</string>
+    <string name="rv_doc_encrpty_standard_top_title">安全管理設置</string>
+    <string name="rv_doc_encrpty_standard_openfile">打開文件</string>
+    <string name="rv_doc_encrpty_standard_password">密碼：</string>
+    <string name="rv_doc_encrpty_standard_must_input">必需項</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">增添文件限制</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-啟用“打開文件”時，打開文件時需要輸入密碼。</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-啟用“其他許可權”時，移除保護時需要移除密碼，還可以選擇禁止文件某些特性。</string>
+    <string name="rv_doc_encrpty_standard_same_password">打開檔密碼和檔限制密碼不能相同，請修改。</string><!-- Security PublicKey -->
+
+    <string name="rv_encrypt_dialog_title">加密</string>
+    <string name="rv_encrypt_dialog_description">應用加密後，該加密及之前的修改將被自動保存到原文件。</string>
+
+    <string name="rv_decrypt_dialog_title">解密</string>
+    <string name="rv_decrypt_dialog_description">應用解密後，該解密及之前的修改將被自動保存到原文件。</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">信任</string>
+    <string name="rv_view_certificate_info">查看憑證</string>
+    <string name="rv_remove_trust_certificate_prompt">是否確定要刪除此憑證?\n這樣做的話，您將無法再驗證擁有者的身分</string>
+    <string name="rv_security_information_certlist_usage">用途</string>
+    <string name="rv_add_trust_certificate_prompt">如果更改信任的設置，則需要重新驗證所有簽名以查看更改。直接從文檔中添加受信任的證書是不推薦的操作。您確定要繼續嗎?</string>
+</resources>

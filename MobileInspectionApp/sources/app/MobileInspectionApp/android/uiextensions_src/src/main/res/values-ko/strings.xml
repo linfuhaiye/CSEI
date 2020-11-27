@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">예</string>
+    <string name="fx_string_no">아니오</string>
+    <string name="fx_string_ok">확인</string>
+    <string name="fx_string_cancel">취소</string>
+    <string name="fx_string_save">저장</string>
+    <string name="fx_string_saveas">다른 이름으로 저장</string>
+    <string name="fx_string_delete">삭제</string>
+    <string name="fx_string_auto">자동</string>
+    <string name="fx_string_add">추가</string>
+    <string name="fx_string_info">정보</string>
+    <string name="fx_string_name">이름</string>
+    <string name="fx_string_done">완료</string>
+    <string name="fx_string_error">오류</string>
+    <string name="fx_string_address">주소:</string>
+
+    <string name="fx_string_close">종료</string>
+    <string name="fx_string_select_all">모두 선택</string>
+    <string name="fx_string_original">원본</string>
+    <string name="fx_string_setting">정보</string>
+
+    <string name="hm_back">뒤로</string>
+    <string name="hm_document">문서</string>
+    <string name="hm_sign">로그인</string>
+    <string name="hm_signout">로그아웃</string>
+
+    <string name ="fx_string_minimum">최소</string>
+    <string name ="fx_string_low">낮음</string>
+    <string name ="fx_string_medium">중간</string>
+    <string name ="fx_string_high">높음</string>
+    <string name ="fx_string_maximum">최고</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">비교</string>
+    <string name="hm_comparison_mode">비교 모드</string>
+    <string name="hm_comparison_mode_overlay">덮어 씌우기</string>
+    <string name="hm_comparison_mode_side_by_side">나란히</string>
+    <string name="hm_comparison_old_file">이전 파일</string>
+    <string name="hm_comparison_new_file">새 파일로</string>
+    <string name="hm_comparison_selected_color">선택한 색상</string>
+    <string name="hm_comparison_selected_file_title">선택하기</string>
+
+    <string name="rv_panel_annot_loading_start">로딩 중&#8230;</string>
+    <string name="rv_panel_annot_deleting">진행 중&#8230;</string>
+    <string name="rv_panel_annot_failed">삭제하는데 실패했습니다</string>
+    <string name="fx_string_saving">저장 중&#8230;</string>
+    <string name="fx_string_closing">닫는중&#8230;</string>
+    <string name="fx_string_recovering">메모리 회수중&#8230;</string>
+    <string name="fx_string_opening">여는 중&#8230;</string>
+    <string name="fx_string_copying">복사 중&#8230;</string>
+    <string name="fx_string_processing">진행 중&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">작성</string>
+    <string name="pb_icon_tab">아이콘</string>
+    <string name="pb_border_tab">경계</string>
+    <string name="pb_fontname_tab">글자체</string>
+    <string name="pb_watermark_tab">워터 마크</string>
+    <string name="pb_overlay_text_tab">오버레이 텍스트</string>
+    <string name="pb_options_tab">옵션</string>
+
+    <string name="fx_import_blank_page">빈 페이지</string>
+    <string name="fx_import_file">문서</string>
+    <string name="fx_import_dcim">앨범에서</string>
+    <string name="fx_import_camera">카메라에서</string>
+    <string name ="fx_string_import">문서</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">내용이 클립보드에 추가되었습니다.</string>
+    <string name="fm_move">이동</string>
+    <string name="fm_paste_replace">바꾸기</string>
+    <string name="fm_paste_skip">건너뛰기</string>
+    <string name="rv_emailreview_mergedlg_openbutton">아니오, 복사본만 엽니다.</string>
+    <string name="cloud_toolbar_more_upload">업로드</string>
+
+    <string name="rv_url_dialog_title">방문</string>
+    <string name="rv_urldialog_title">링크를 연결할 시 보안이 우려될 수 있습니다.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">이 플러그인을 사용하려면 라이센스가 필요합니다. 라이센스가 있으시면 지금 정품 등록하십시오.</string>
+    <string name="rv_deivce_limitation">이 문서에서 허용 된 디바이스 수를 초과하였습니다.</string>
+    <string name="rv_no_rights">이 문서를 열 권리가 없습니다.</string>
+    <string name="rv_rights_expired">귀하의 라이센스 또는 평가판이 만료되었습니다.</string>
+    <string name="rv_document_open_failed">이 파일을 열지 못했습니다.</string>
+    <string name="rv_unknown_error">알 수 없는 오류입니다</string>
+    <string name="rv_format_error">형식 오류: PDF 파일이 아니거나 손상된 파일입니다</string>
+
+    <string name="rv_back_save_to_original_file">원본 파일에 저장</string>
+    <string name="rv_back_save_to_new_file">새 파일로 저장</string>
+    <string name="rv_back_discard_modify">수정 내용 모두 취소</string>
+    <string name="fx_save_file_failed">저장하지 못했습니다!</string>
+    <string name="fx_string_filereplace_warning">이미 존재하는 파일입니다. 파일을 교체하시겠습니까?</string>
+
+    <string name="rv_password_dialog_title">비밀번호</string>
+    <string name="rv_tips_password_error">비밀번호를 잘못 입력하셨습니다. 다시 입력하세요</string>
+    <string name="rv_tips_password">비밀번호가 설정된 파일입니다. 비밀번호를 입력해 주세요</string>
+    <string name="fx_string_password_dialog_title">비밀번호를 입력하십시오.</string>
+
+    <string name="fx_form_rename_toast">선택 항목의 사본을 여러 개 만들 수 없습니다. 선택 항목 중 하나 이상의 필드가 이 형식으로 중복됩니다.</string>
+    <string name="fx_flatten_doc_toast">주석 또는 PDF 양식을 평평하게 하여 페이지 콘텐츠의 일부가 되고 추가 편집을 방지합니다.</string>
+    <string name="fx_system_language_changed_toast">시스템 언어가 변경되었으므로 현재 응용 프로그램을 다시 시작하는 것이 좋습니다.</string>
+</resources>
+

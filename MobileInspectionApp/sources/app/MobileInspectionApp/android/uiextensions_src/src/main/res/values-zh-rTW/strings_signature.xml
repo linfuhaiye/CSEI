@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Signature -->
+    <string name="rd_security_dsg_addSig">增添簽名</string>
+    <string name="rv_security_dsg_verify">驗證簽名</string>
+    <string name="rv_security_dsg_verify_title">驗證結果</string>
+    <string name="rv_security_dsg_verify_valid">數位簽章有效。</string>
+    <string name="rv_security_dsg_verify_perm">數位簽章有效，但文件在數位簽章許可權允許範圍內有修改。</string>
+    <string name="rv_security_dsg_verify_otherState">其他原因，數位簽章無效。</string>
+    <string name="rv_security_dsg_verify_invalid">數位簽章無效。</string>
+    <string name="rv_security_dsg_verify_unknown">數位簽章未知。</string>
+    <string name="rv_security_dsg_verify_expired">數位簽章未知。\n用於驗證頒發者的證書已過期。</string>
+    <string name="rv_security_dsg_verify_errorByteRange">數位簽章無效因為錯誤的位元組範圍。</string>
+    <string name="rv_security_dsg_verify_error">數位簽章驗證發生未知錯誤。</string>
+    <string name="rv_security_dsg_cert_publisher">頒發者：</string>
+    <string name="rv_security_dsg_cert_serialNumber">序號：</string>
+    <string name="rv_security_dsg_cert_emailAddress">郵寄地址：</string>
+    <string name="rv_security_dsg_cert_validityStarts">有效起始日期：</string>
+    <string name="rv_security_dsg_cert_validityEnds">有效終止日期：</string>
+    <string name="rv_security_dsg_cert_signedTime">簽名日期：</string>
+    <string name="rv_certlist_note_searching">正在搜索&#8230;</string>
+    <string name="rv_certlist_note">選擇證書</string>
+    <string name="rv_security_certlist_nocerificatefile">無證書</string>
+    <string name="rv_security_certlist_inputpasswd">請輸入密碼</string>
+    <string name="rv_security_certlist_invalidpasswd">密碼無效，請重新輸入</string>
+    <string name="rv_security_certlist_outdate">證書已過期</string>
+    <string name="rv_security_certlist_pubkey_invalidtype">此證書不能用於加解密。</string>
+    <string name="rv_security_certfrompfx_failed">獲得證書失敗</string>
+    <!-- Sign -->
+    <string name="rv_sign_waiting">簽名中&#8230;</string>
+    <string name="rv_sign_model">簽名清單</string>
+    <string name="rv_sign_create">創建新簽名</string>
+
+    <string name="rv_sign_dialog_title">簽名</string>
+    <string name="rv_sign_dialog_description">應用簽名後，該簽名及之前的修改將被自動保存到原文件。</string>
+
+    <!-- dsg sign -->
+    <string name="sg_cert_add_text">選擇證書並增添</string>
+    <string name="sg_cert_current_name_title">當前證書：</string>
+    <string name="sg_signer_title">簽名</string>
+    <string name="sg_signer_dsg_group_title">證書簽名</string>
+    <string name="sg_signer_handwriting_group_title">普通簽名</string>
+    <string name="dsg_sign_succeed">簽名成功。</string>
+    <string name="dsg_sign_failed">簽名失敗。</string>
+
+    <string name="no_permission">沒有許可權</string>
+
+    <string name="signature_ltv_attribute">簽名已啓用LTV</string>
+
+    <string name="rv_security_dsg_trust_cert_title">添加爲可信任證書</string>
+    <string name="rv_security_dsg_trust_cert_tip">在驗證簽名或認證文檔時，您希望信任證書嗎？</string>
+    <string name="rv_security_dsg_trust_cert_name">名稱：</string>
+    <string name="rv_security_dsg_trust_cert_usage">主要目標用途：</string>
+    <string name="rv_security_dsg_verify_error_data">格式錯誤：不是一個PDF文件或該文件已損壞</string>
+
+    <string name="cert_key_usage">未指定</string>
+    <string name="cert_key_usage_data_encipherment">資料編密</string>
+    <string name="cert_key_usage_digital_signature">數位簽名</string>
+    <string name="cert_key_usage_key_agreement">金鑰協議</string>
+    <string name="cert_key_usage_key_cert_sign">金鑰憑證簽署</string>
+    <string name="cert_key_usage_key_encipherment">金鑰編密</string>
+    <string name="cert_key_usage_non_repudiation">不可否認性</string>
+    <string name="cert_key_usage_crl_sign">控制簽署</string>
+
+    <string name="rv_security_failed_to_view">無法查看此版本</string>
+
+    <!-- fill and sign -->
+    <string name="fillsign_profile_title">預定義文字</string>
+    <string name="fillsign_profile_title_edit">編輯預定義文字</string>
+
+    <!-- Name: -->
+    <string name="fillsign_profile_full_name">全名:</string>
+    <string name="fillsign_profile_full_name_prompt">增添全名</string>
+    <string name="fillsign_profile_first_name">名字:</string>
+    <string name="fillsign_profile_first_name_prompt">增添名字</string>
+    <string name="fillsign_profile_middle_name">中間名:</string>
+    <string name="fillsign_profile_middle_name_prompt">增添中間名</string>
+    <string name="fillsign_profile_last_name">姓氏:</string>
+    <string name="fillsign_profile_last_name_prompt">增添姓氏</string>
+
+    <!-- Address: -->
+    <string name="fillsign_profile_street_1">街道 1:</string>
+    <string name="fillsign_profile_street_1_prompt">增添街道 1</string>
+    <string name="fillsign_profile_street_2">街道 2:</string>
+    <string name="fillsign_profile_street_2_prompt">增添街道 2</string>
+    <string name="fillsign_profile_city">城市:</string>
+    <string name="fillsign_profile_city_prompt">增添城市</string>
+    <string name="fillsign_profile_state">省/市/自治區:</string>
+    <string name="fillsign_profile_state_prompt">增添省/市/自治區</string>
+    <string name="fillsign_profile_zip">郵遞區號:</string>
+    <string name="fillsign_profile_zip_prompt">增添郵遞區號</string>
+    <string name="fillsign_profile_country">國家/地區:</string>
+    <string name="fillsign_profile_country_prompt">增添國家/地區</string>
+
+    <!-- Contact: -->
+    <string name="fillsign_profile_contact">聯繫資訊</string>
+    <string name="fillsign_profile_email">電子郵件:</string>
+    <string name="fillsign_profile_email_prompt">增添電子郵件</string>
+    <string name="fillsign_profile_tel">電話號碼:</string>
+    <string name="fillsign_profile_tel_prompt">增添電話號碼</string>
+
+    <!-- Dates -->
+    <string name="fillsign_profile_dates">日期</string>
+    <string name="fillsign_profile_date">日期:</string>
+    <string name="fillsign_profile_date_prompt">增添日期</string>
+    <string name="fillsign_profile_birth_date">生日:</string>
+    <string name="fillsign_profile_birth_date_prompt">增添生日日期</string>
+
+    <!-- Custom field -->
+    <string name="fillsign_profile_custom_field">自訂欄位</string>
+    <string name="fillsign_profile_type_label">輸入標籤</string>
+    <string name="fillsign_profile_type_value">輸入值</string>
+    <string name="fillsign_profile_add_custom_field">增添自訂欄位</string>
+
+    <string name="fillsign_sign_click_prompt">按一下任意位置放至內容</string>
+    <string name="fillsign_sign_dosign_prompt">一旦簽名，表單欄位的內容將不可編輯。</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fm_history_file_name">Название：</string>
+    <string name="fm_history_file_path">Путь：</string>
+    <string name="fm_history_file_size">Размер：</string>
+    <string name="fm_history_pdf_author">Автор：</string>
+    <string name="fm_history_pdf_subject">Тема：</string>
+    <string name="fm_history_file_create_time">Создано：</string>
+    <string name="fm_history_file_last_modify_time">Последнее изменение：</string>
+
+	<string name="fx_string_allowed">Разрешено</string>
+    <string name="fx_string_notallowed">Не разрешено</string>
+
+    <string name="rv_doc_reduce_file_size_toast">Вы решили уменьшить размер файла PDF, но он не будет применен к документу, пока вы не сохраните документ. Вы можете продолжить редактирование документа.</string>
+    <string name="rv_doc_info_permission">Безопасность</string>
+    <string name="rv_doc_info_permission_summary">Сводка ограничений документа</string>
+    <string name="rv_doc_info_permission_print">Печать</string>
+    <string name="rv_doc_info_permission_fillform">Заполнение формы</string>
+    <string name="rv_doc_info_permission_annotform">Комментарий в документе</string>
+    <string name="rv_doc_info_permission_assemble">Управление страницами и структурами</string>
+    <string name="rv_doc_info_permission_modify">Изменение документа</string>
+    <string name="rv_doc_info_permission_extractaccess">Копирование содержимого для обеспечения доступности</string>
+    <string name="rv_doc_info_permission_extract">Извлечь содержимое документа</string>
+    <string name="rv_doc_info_permission_signing">Подписание</string>
+
+    <string name="rv_doc_info_fileinfo">Сведения о файле</string>
+
+    <string name="rv_doc_info_security">Безопасность</string>
+    <string name="rv_doc_info_security_no">Без защиты</string>
+    <string name="rv_doc_info_security_standard">Защита паролем</string>
+    <string name="rv_doc_info_security_pubkey">Защита сертификатом</string>
+    <string name="rv_doc_info_security_rms">Защита RMS</string>
+    <string name="rv_doc_info_security_cdrm">Защита ConnectedPDF DRM</string>
+    <string name="rv_doc_info_security_custom">Защита пользовательские</string>
+</resources>

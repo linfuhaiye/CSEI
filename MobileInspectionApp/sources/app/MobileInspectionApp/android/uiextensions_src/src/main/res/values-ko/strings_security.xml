@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">인증서 정보</string>
+    <string name="rv_security_information_certlist_serialnumber">시리얼 넘버</string>
+    <string name="rv_security_information_certlist_publisher">발급자</string>
+    <string name="rv_security_information_certlist_startdate">시작 날짜</string>
+    <string name="rv_security_information_certlist_expiringdate">만료 날짜</string>
+    <string name="rv_security_information_certlist_email">이메일 주소</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">보안 제거</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">비밀번호</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">잘못된 비밀번호입니다. 다시 시도하세요.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">이 문서는 보호된 문서입니다. 비밀번호를 입력하세요.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">이 문서에서 보안 설정을 제거하시겠습니까?</string>
+    <string name="rv_doc_encrpty_standard_top_title">보안 옵션</string>
+    <string name="rv_doc_encrpty_standard_openfile">문서 열기</string>
+    <string name="rv_doc_encrpty_standard_password">비밀번호:</string>
+    <string name="rv_doc_encrpty_standard_must_input">필수</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">문서 제한 설정 추가</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-"문서 열기"가 활성화 되면 문서를 열 때 비밀번호가 요구됩니다.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-기타 설정에 비밀번호가 추가되면 보안을 제거하는데 비밀번호가 수요됩니다. 사용자는 보안을 추가할 기능을 선택할 수 있습니다.</string>
+    <string name="rv_doc_encrpty_standard_same_password">문서 열기와 소유자 비밀번호는 동일할 수 없습니다. 문서 보기 비밀번호 입력창 혹은 소유자 비밀번호 입력창에 다른 비밀번호를 입력하세요.</string><!-- Security PublicKey -->
+
+    <string name="rv_encrypt_dialog_title">암호화</string>
+    <string name="rv_encrypt_dialog_description">암호화를 적용하면 이 암호화와 모든 수정 내용이 자동으로 파일에 저장됩니다.</string>
+
+    <string name="rv_decrypt_dialog_title">복호화</string>
+    <string name="rv_decrypt_dialog_description">복호화를 적용하면 이 복호화와 모든 수정 내용이 자동으로 파일에 저장됩니다.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">트러스트</string>
+    <string name="rv_view_certificate_info">인증서 보기</string>
+    <string name="rv_remove_trust_certificate_prompt">이 인증서를 삭제하시겠습니까?\n삭제할 경우 소유자의 ID를 더 이상 확인할 수 없습니다</string>
+    <string name="rv_security_information_certlist_usage">사용</string>
+    <string name="rv_add_trust_certificate_prompt">신뢰의 설정을 변경할 경우 변경 사항을 보기 위해 모든 서명을 다시 검증해야 합니다.문서에 신뢰할 수 있는 인증서를 직접 첨부하는 것은 추천하지 않는 작업입니다.계속 진행하시겠습니까?</string>
+</resources>

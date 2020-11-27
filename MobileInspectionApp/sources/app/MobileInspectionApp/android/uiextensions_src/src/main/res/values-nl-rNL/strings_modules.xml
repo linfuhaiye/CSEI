@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AccountModule -->
+    <string name="sign_out_tips">Weet u zeker dat u zich wilt afmelden?</string>
+
+    <!-- CropModule -->
+    <string name="fx_string_crop_title">Bijsnijden</string>
+    <string name="fx_string_nocrop">Afsluiten</string>
+    <string name="fx_string_crop">Handmatig</string>
+    <string name="fx_string_smartcrop">Automatisch</string>
+    <string name="fx_string_detect">Automatisch detecteren</string>
+
+    <!-- Pan and Zoom -->
+    <string name="fx_string_pan_zoom_title">Pannen en Zoomen</string>
+    <string name="not_window_permissions_tips">Uw telefoon heeft geen zwevende venstermachtigingen, schakel deze in en probeer het opnieuw</string>
+    <string name="fx_turn_on">Inschakelen</string>
+    <string name="fx_turn_later">Later</string>
+
+    <!-- Snapshot -->
+    <string name="failed_to_save_snapshot">Schermopname mislukt!</string>
+    <string name="the_snapshot_save_path">De afbeelding was opslaan in: %1$s</string>
+
+    <!-- PageNavigationModule -->
+    <string name="rv_gotopage_error_toast">Voer juiste paginanummer in</string>
+    <string name="rd_gotopage_toolbar_go">START</string>
+
+    <!-- FormFillerModule -->
+    <string name="fx_form_item_list">Lijst met items</string>
+    <string name="fx_combox_custom_text">Aangepaste tekst</string>
+    <string name="fx_listbox_multiple_text">Meervoudige selectie</string>
+    <string name="fx_no_item_tips">Klik hier om een item toe te voegen</string>
+
+    <!-- form navigation  Resource -->
+    <string name="formfiller_navigation_clear">Veld opnieuw instellen</string>
+
+    <!-- Thumbnail -->
+    <string name="fx_string_rotate">Draaihoek</string>
+    <string name="fx_string_extract">Extract</string>
+    <string name ="fx_string_extract_to">Extract</string>
+    <string name ="rv_page_import">Bezig met verwerken&#8230;</string>
+    <string name ="rv_page_extract">Pagina\'s extraheren&#8230;</string>
+    <string name ="rv_page_rotate_cw">Bezig met verwerken&#8230;</string>
+    <string name ="rv_page_delete">Bezig met verwijderen&#8230;</string>
+    <string name ="rv_page_extract_error">Extractpagina\'s mislukt.</string>
+    <string name ="rv_page_import_error">Importpagina\'s mislukt.</string>
+    <string name ="rv_page_remove_error">Verwijderen is mislukt.</string>
+    <string name ="rv_page_rotate_error">Rotatiepagina\'s mislukt.</string>
+    <string name="xfa_not_support_move_toast">XFA-bestanden ondersteunen geen uitwisselingspagina\'s</string>
+    <string name="xfa_not_support_to_edit_toast">XFA-bestand ondersteunt bewerking niet</string>
+    <string name="xfa_not_supported_add_image_toast">XFA-bestanden ondersteunen geen toevoeging van afbeeldingen.</string>
+    <string name="cinflicted_with_current_doc_toast">Conflicteer met huidig ​​document, voer de nieuwe bestandsnaam opnieuw in!!!</string>
+    <string name="the_file_can_not_replace_toast">Vervang %1$s mislukt.</string>
+    <string name="rv_page_delete_all_thumbnail">Het verwijderen van alle pagina\'s is niet toegestaan.</string>
+    <string name="rv_page_delete_thumbnail">Weet je zeker dat je de geselecteerde pagina\'s wilt verwijderen? Je kunt deze actie niet ongedaan maken.</string>
+    <string name="createpdf_add_page_title">Pagina toevoegen</string>
+    <string name="createpdf_new_page_blank">Leeg</string>
+    <string name="createpdf_new_page_lined">Regel</string>
+    <string name="createpdf_new_page_grid">Raster</string>
+    <string name="createpdf_new_page_graph">Grafiek</string>
+    <string name="createpdf_new_page_music">Muziek</string>
+    <string name="createpdf_new_pagenum">Aantal pagina\'s</string>
+    <string name="createpdf_new_pagesize">Paginaformaat</string>
+    <string name="createpdf_new_pagecolor">Paginakleur</string>
+    <string name="createpdf_new_pageorientation">Afdrukstand</string>
+    <string name="createpdf_new_ori_partrait">Staand</string>
+    <string name="createpdf_new_ori_landspace">Liggend</string>
+    <string name="createpdf_new_pagesize_letter">Letter</string>
+    <string name="createpdf_new_pagesize_A3">A3</string>
+    <string name="createpdf_new_pagesize_A4">A4</string>
+    <string name="createpdf_new_pagesize_legal">Legal</string>
+    <string name="createpdf_new_pagesize_ledger">Ledger</string>
+    <string name="fx_original_color">Huidige</string>
+    <string name="fx_current_color">Nieuw</string>
+    <string name="fx_theme_color">Themakleuren</string>
+
+    <!-- ReadingBookmarkModule -->
+    <string name="fx_page_book_mark">Pagina %1$d</string>
+
+    <!--  Search -->
+    <string name="search_hint">Voer zoektekst in</string>
+    <string name="search_find_number">Totaal gevonden: %1$d</string>
+    <string name="searching_find_number">Bezig met zoeken&#8230;\nAl gevonden: %1$d</string>
+    <string name="search_page_number">Pagina %1$s</string>
+    <string name="search_whole_words">Alleen hele woorden</string>
+    <string name="search_case_sensitive">Hoofdlettergevoelig</string>
+    <string name="search_in_internet">Op internet zoeken</string>
+
+    <!-- Compare -->
+    <string name="legend">Legenda</string>
+    <string name="show_legend">Legenda tonen</string>
+    <string name="hide_legend">Legenda verbergen</string>
+    <string name="replaced">Vervangen</string>
+    <string name="inserted">Ingevoegd</string>
+    <string name="deleted">Verwijderd</string>
+    <string name="unsupported_file_format">De bestandsindeling wordt niet ondersteund</string>
+    <string name="compare_diff_file">Selecteer twee verschillende documenten om te vergelijken.</string>
+    <string name="compare_progress">Documenten vergelijken&#8230;</string>
+
+    <!-- TTS -->
+    <string name="rd_tts_speak">Spreken</string>
+    <string name="rd_tts_speak_string">Geselecteerde inhoud hardop lezen</string>
+    <string name="rd_tts_speak_start">Hardop lezen vanaf huidige positie</string>
+    <string name="atb_rd_speak_continue_reading_button">Knop Verdergaan met lezen</string>
+    <string name="atb_rd_speak_previous_page_button">Knop Vorige pagina lezen</string>
+    <string name="atb_rd_speak_next_page_button">Knop Volgende pagina lezen</string>
+    <string name="atb_rd_speak_stop_button">Knop Stoppen met lezen</string>
+    <string name="atb_rd_speak_repeat_button">Knop Lezen herhalen</string>
+    <string name="atb_rd_speak_pause_button">Knop Lezen pauzeren</string>
+    <string name="tts_speechrate_title">Afspeelsnelheid</string>
+
+    <!--multi select-->
+    <string name="fx_string_group">Groeperen</string>
+    <string name="fx_string_ungroup">Groepering opheffen</string>
+</resources>

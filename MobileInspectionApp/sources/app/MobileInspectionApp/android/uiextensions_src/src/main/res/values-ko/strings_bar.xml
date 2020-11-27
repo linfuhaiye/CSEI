@@ -1,0 +1,7 @@
+<resources>
+    <string name="rd_bar_panel">목록</string>
+    <string name="rd_bar_setting">보기</string>
+    <string name="rd_bar_edit">주석</string>
+    <string name="rd_bar_sign">서명</string>
+    <string name="rd_bar_fillsign">채우</string>
+</resources>

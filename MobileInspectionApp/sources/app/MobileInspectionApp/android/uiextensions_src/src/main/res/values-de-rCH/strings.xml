@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">Ja</string>
+    <string name="fx_string_no">Nein</string>
+    <string name="fx_string_ok">OK</string>
+    <string name="fx_string_cancel">Abbrechen</string>
+    <string name="fx_string_save">Speichern</string>
+    <string name="fx_string_saveas">Speichern unter</string>
+    <string name="fx_string_delete">Löschen</string>
+    <string name="fx_string_auto">Automatisch</string>
+    <string name="fx_string_add">Hinzufügen</string>
+    <string name="fx_string_info">Informationen</string>
+    <string name="fx_string_name">Name</string>
+    <string name="fx_string_done">Fertig</string>
+    <string name="fx_string_error">Fehler</string>
+    <string name="fx_string_address">Adresse:</string>
+
+    <string name="fx_string_close">Schließen</string>
+    <string name="fx_string_select_all">Alles auswählen</string>
+    <string name="fx_string_original">Original</string>
+    <string name="fx_string_setting">Einstellungen</string>
+
+    <string name="hm_back">Zurück</string>
+    <string name="hm_document">Dokument</string>
+    <string name="hm_sign">Anmelden</string>
+    <string name="hm_signout">Abmelden</string>
+
+    <string name ="fx_string_minimum">Minimum</string>
+    <string name ="fx_string_low">Niedrig</string>
+    <string name ="fx_string_medium">Mittel</string>
+    <string name ="fx_string_high">Hoch</string>
+    <string name ="fx_string_maximum">Maximum</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">Vergleichen</string>
+    <string name="hm_comparison_mode">Vergleichen Modus</string>
+    <string name="hm_comparison_mode_overlay">Überlagern</string>
+    <string name="hm_comparison_mode_side_by_side">nebeneinander</string>
+    <string name="hm_comparison_old_file">Alte Datei</string>
+    <string name="hm_comparison_new_file">Neue Datei</string>
+    <string name="hm_comparison_selected_color">Ausgewählte Farbe</string>
+    <string name="hm_comparison_selected_file_title">Auswählen</string>
+
+    <string name="rv_panel_annot_loading_start">Ladevorgang läuft&#8230;</string>
+    <string name="rv_panel_annot_deleting">Löschen&#8230;</string>
+    <string name="rv_panel_annot_failed">Fehler beim Löschen.&#8230;</string>
+    <string name="fx_string_saving">Wird gespeichert&#8230;</string>
+    <string name="fx_string_closing">Schließen&#8230;</string>
+    <string name="fx_string_recovering">Verarbeitung&#8230;</string>
+    <string name="fx_string_opening">Wird geöffnet&#8230;</string>
+    <string name="fx_string_copying">Kopieren&#8230;</string>
+    <string name="fx_string_processing">Verarbeitung&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">Ausfüllen</string>
+    <string name="pb_icon_tab">Symbol</string>
+    <string name="pb_border_tab">Rahmen</string>
+    <string name="pb_fontname_tab">Schriftart</string>
+    <string name="pb_watermark_tab">Wasserzeichen</string>
+    <string name="pb_overlay_text_tab">Überlagerungstext</string>
+    <string name="pb_options_tab">Optionen</string>
+
+    <string name="fx_import_blank_page">Leere Seite</string>
+    <string name="fx_import_file">Dokument</string>
+    <string name="fx_import_dcim">Aus Album</string>
+    <string name="fx_import_camera">Aus Kamera</string>
+    <string name ="fx_string_import">Dokument</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">Der Zwischenablage wurde Inhalt hinzugefügt.</string>
+    <string name="fm_move">Verschieb</string>
+    <string name="fm_paste_replace">Ersetzen</string>
+    <string name="fm_paste_skip">Überspr</string>
+    <string name="rv_emailreview_mergedlg_openbutton">Nein, diese Kopie nur öffnen</string>
+    <string name="cloud_toolbar_more_upload">Hochladen</string>
+
+    <string name="rv_url_dialog_title">Besuchen</string>
+    <string name="rv_urldialog_title">Beim Öffnen des Links besteht ein potenzielles Sicherheitsproblem. Bestätigen Sie das Öffnen des Links.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">Für die Verwendung dieses Plug-ins ist eine Lizenz erforderlich. Wenn Sie über eine Lizenz verfügen, aktivieren Sie sie jetzt.</string>
+    <string name="rv_deivce_limitation">Sie haben die in diesem Dokument maximal zulässige Anzahl von Geräten überschritten.</string>
+    <string name="rv_no_rights">Sie sind zum Ändern dieses Dokuments nicht berechtigt. Wählen Sie ein anderes Dokument aus.</string>
+    <string name="rv_rights_expired">Ihre Lizenz oder Ihre kostenlose Testversion ist abgelaufen.</string>
+    <string name="rv_document_open_failed">Das Öffnen des Dokuments ist fehlgeschlagen</string>
+    <string name="rv_unknown_error">Unbekannter Fehler</string>
+    <string name="rv_format_error">Formatfehler: Kein PDF-Format oder beschädigtes Dokument</string>
+
+    <string name="rv_back_save_to_original_file">In der Originaldatei speichern</string>
+    <string name="rv_back_save_to_new_file">In einer neuen Datei speichern</string>
+    <string name="rv_back_discard_modify">Alle Änderungen verwerfen</string>
+    <string name="fx_save_file_failed">Speichern fehlgeschlagen!</string>
+    <string name="fx_string_filereplace_warning">Die Datei ist bereits vorhanden,Möchten Sie sie ersetzen?</string>
+
+    <string name="rv_password_dialog_title">Kennwort</string>
+    <string name="rv_tips_password_error">Das Kennwort stimmt nicht. Versuchen Sie es erneut.</string>
+    <string name="rv_tips_password">Diese Datei ist kennwortgeschützt. Geben Sie in das folgende Feld Ihr Kennwort ein.</string>
+    <string name="fx_string_password_dialog_title">Kennwort eingeben</string>
+
+    <string name="fx_form_rename_toast">Der eingegebene Name wurde bereits in einem vorhandenen Feld verwendet. Wählen Sie einen anderen Namen aus oder ändern Sie den Feldtyp passend zum vorhandenen Feld.</string>
+    <string name="fx_flatten_doc_toast">Reduzieren von Anmerkungen oder PDF-Formularen, damit sie Teil des Seiteninhalts werden und weiteres Bearbeiten entfällt</string>
+    <string name="fx_system_language_changed_toast">Die Systemsprache hat sich geändert. Es wird empfohlen, die aktuelle Anwendung neu zu starten.</string>
+</resources>
+

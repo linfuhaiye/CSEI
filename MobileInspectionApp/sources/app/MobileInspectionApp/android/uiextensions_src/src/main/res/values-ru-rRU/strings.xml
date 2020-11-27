@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">Да</string>
+    <string name="fx_string_no">Нет</string>
+    <string name="fx_string_ok">OK</string>
+    <string name="fx_string_cancel">Отмена</string>
+    <string name="fx_string_save">Сохранить</string>
+    <string name="fx_string_saveas">Сохранить как</string>
+    <string name="fx_string_delete">Удалить</string>
+    <string name="fx_string_auto">Авто</string>
+    <string name="fx_string_add">Добавить</string>
+    <string name="fx_string_info">Информация</string>
+    <string name="fx_string_name">Имя</string>
+    <string name="fx_string_done">Готово</string>
+    <string name="fx_string_error">Ошибка</string>
+    <string name="fx_string_address">Адрес:</string>
+
+    <string name="fx_string_close">Закрыть</string>
+    <string name="fx_string_select_all">Выделить все</string>
+    <string name="fx_string_original">Исходный вариант</string>
+    <string name="fx_string_setting">Настройки</string>
+
+    <string name="hm_back">Назад</string>
+    <string name="hm_document">Документ</string>
+    <string name="hm_sign">Вход</string>
+    <string name="hm_signout">Выйти</string>
+
+    <string name ="fx_string_minimum">Минимальное</string>
+    <string name ="fx_string_low">Низкое</string>
+    <string name ="fx_string_medium">Среднее</string>
+    <string name ="fx_string_high">Высокое</string>
+    <string name ="fx_string_maximum">Максимальное</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">Сравнить</string>
+    <string name="hm_comparison_mode">Режим Сравнить</string>
+    <string name="hm_comparison_mode_overlay">Наложение</string>
+    <string name="hm_comparison_mode_side_by_side">параллельно</string>
+    <string name="hm_comparison_old_file">Старый файл</string>
+    <string name="hm_comparison_new_file">новый файл</string>
+    <string name="hm_comparison_selected_color">выбранные цвет</string>
+    <string name="hm_comparison_selected_file_title">Выберите</string>
+
+    <string name="rv_panel_annot_loading_start">Загрузка&#8230;</string>
+    <string name="rv_panel_annot_deleting">Удаление&#8230;</string>
+    <string name="rv_panel_annot_failed">Не удалось удалить</string>
+    <string name="fx_string_saving">Сохранение&#8230;</string>
+    <string name="fx_string_closing">Закрытие&#8230;</string>
+    <string name="fx_string_recovering">Обработка&#8230;</string>
+    <string name="fx_string_opening">Открытие&#8230;</string>
+    <string name="fx_string_copying">Копирование&#8230;</string>
+    <string name="fx_string_processing">Обработка&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">Заливка</string>
+    <string name="pb_icon_tab">Значок</string>
+    <string name="pb_border_tab">Граница</string>
+    <string name="pb_fontname_tab">Шрифт</string>
+    <string name="pb_watermark_tab">Водяной знак</string>
+    <string name="pb_overlay_text_tab">Наложение текста</string>
+    <string name="pb_options_tab">Параметры</string>
+
+    <string name="fx_import_blank_page">Из пустой страницы</string>
+    <string name="fx_import_file">Документ</string>
+    <string name="fx_import_dcim">Из альбома</string>
+    <string name="fx_import_camera">С камеры</string>
+    <string name ="fx_string_import">Документ</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">Содержимое добавлено в буфер обмена.</string>
+    <string name="fm_move">Перемес</string>
+    <string name="fm_paste_replace">Заменить</string>
+    <string name="fm_paste_skip">Пропустить</string>
+    <string name="rv_emailreview_mergedlg_openbutton">Нет, открыть</string>
+    <string name="cloud_toolbar_more_upload">Передать</string>
+
+    <string name="rv_url_dialog_title">Посещение</string>
+    <string name="rv_urldialog_title">Переход по ссылке потенциально опасен. Подтвердите желание перейти по ней.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">Для использования этого плагина необходима лицензия. Если у вас есть лицензия, выполните активацию.</string>
+    <string name="rv_deivce_limitation">Вы превысили допустимое количество устройств для этого документа.</string>
+    <string name="rv_no_rights">У вас недостаточно прав для редактирования данного документа. Выберите другой документ.</string>
+    <string name="rv_rights_expired">Срок действия лицензии или бесплатной пробной версии истек.</string>
+    <string name="rv_document_open_failed">Невозможно открыть этот файл</string>
+    <string name="rv_unknown_error">Неизвестная ошибка</string>
+    <string name="rv_format_error">Ошибка формата: файл поврежден или не является PDF-файлом</string>
+
+    <string name="rv_back_save_to_original_file">Сохранить в исходный файл</string>
+    <string name="rv_back_save_to_new_file">Сохранить в новый файл</string>
+    <string name="rv_back_discard_modify">Отменить все изменения</string>
+    <string name="fx_save_file_failed">Не удалось сохранить документ!</string>
+    <string name="fx_string_filereplace_warning">Этот файл уже существует. Заменить его?</string>
+
+    <string name="rv_password_dialog_title">Пароль</string>
+    <string name="rv_tips_password_error">Неправильный пароль. Повторите попытку.</string>
+    <string name="rv_tips_password">Файл защищен паролем. Введите пароль в поле ниже.</string>
+    <string name="fx_string_password_dialog_title">Пожалуйста, введите пароль</string>
+
+    <string name="fx_form_rename_toast">Введенное имя уже используется в другом существующем поле. Выберите другое имя или измените тип поля так, чтобы он совпадал с существующим полем.</string>
+    <string name="fx_flatten_doc_toast">используется для выравнивания примечаний или PDF-форм, чтобы включить их в содержимое страницы и предотвратить дальнейшее редактирование</string>
+    <string name="fx_system_language_changed_toast">Язык системы изменился. Рекомендуется перезапустить текущее приложение.</string>
+</resources>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Informations sur le certificat</string>
+    <string name="rv_security_information_certlist_serialnumber">Numéro de série</string>
+    <string name="rv_security_information_certlist_publisher">Délivré par</string>
+    <string name="rv_security_information_certlist_startdate">Valide à partir du</string>
+    <string name="rv_security_information_certlist_expiringdate">Valide jusqu\'au</string>
+    <string name="rv_security_information_certlist_email">Adresse e-mail</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Supprimer la sécurité</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Mot de passe</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Mot de passe non valide. Réessayez.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Veuillez saisir un mot de passe pour ouvrir ce document.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">Voulez-vous vraiment supprimer la sécurité de ce document?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Options de sécurité</string>
+    <string name="rv_doc_encrpty_standard_openfile">Ouvrir le document</string>
+    <string name="rv_doc_encrpty_standard_password">Mot de passe :</string>
+    <string name="rv_doc_encrpty_standard_must_input">Requis</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Ajouter des restrictions au document</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">- Lorsque « Ouvrir un document » est activé, un mot de passe est requis pour ouvrir le document.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">- Lorsque « Restrictions sur les documents » est activé, un mot de passe est requis pour retirer la protection et vous pouvez choisir de ne pas autoriser certaines fonctionnalités dans ce document.</string>
+    <string name="rv_doc_encrpty_standard_same_password">Les mots de passe du propriétaire du document et de son ouverture ne peuvent pas être identiques. Veuillez entrer un mot de passe différent soit dans le champs Mot de passe de Ouvrir le document soit dans le champs Mot de passe du propriétaire.</string><!-- Security PublicKey -->
+
+
+    <string name="rv_encrypt_dialog_title">Chiffrement</string>
+    <string name="rv_encrypt_dialog_description">Lorsque le chiffrement est appliqué, celui-ci et toutes les modifications effectuées avant sont automatiquement enregistrés dans le fichier.</string>
+
+    <string name="rv_decrypt_dialog_title">Déchiffrement</string>
+    <string name="rv_decrypt_dialog_description">Lorsque le déchiffrement est appliqué, celui-ci et toutes les modifications effectuées avant sont automatiquement enregistrés dans le fichier.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Accréditer</string>
+    <string name="rv_view_certificate_info">Afficher le certificat</string>
+    <string name="rv_remove_trust_certificate_prompt">Etes-vous sûr de vouloir supprimer ce certificat?\n Vous ne pourrez plus vérifier l\'identité du propriétaire si vous</string>
+    <string name="rv_security_information_certlist_usage">Utilisation</string>
+    <string name="rv_add_trust_certificate_prompt">Si vous modifiez les paramètres d\'accréditation, vous devrez revalider les signatures pour voir les modifications. Il n\'est pas recommandé d\'accréditer des certificats directement à partir d\'un document. Voulez-vous continuer ?</string>
+</resources>

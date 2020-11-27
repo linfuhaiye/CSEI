@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_more_menu_title">Altro</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">File</string>
+    <string name="rv_doc_info">Proprietà</string>
+    <string name="rv_doc_reduce_file_size">Riduci dimensione file</string>
+    <string name="rv_doc_snapshot">Istantanea</string>
+
+    <string name="fx_string_saveas_filename">Titolo</string>
+    <string name="fx_string_format">Formato</string>
+    <string name="rv_saveas_original">Documento originale</string>
+    <string name="rv_saveas_flatten">Copia livellata</string>
+    <string name="rv_saveas_optimize">Copia dimensione file ridotto</string>
+    <string name="rv_saveas_optimize_toast">File da %1$s a %2$s</string>
+    <string name="rv_saveas_optimize_optimizing">Ottimizzazione documento…</string>
+    <string name="rv_saveas_image_settings">Immagini a colori/in scala di grigi</string>
+    <string name="rv_saveas_mono_settings">Immagini monocromatiche</string>
+    <string name="rv_saveas_mono_settings_lossless">Senza perdita di dati</string>
+    <string name="rv_saveas_mono_settings_lossy">Con perdita di dati</string>
+    <string name="fx_string_saveas_quality">Qualità</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">Proteggi</string>
+    <string name="rv_doc_encrpty_standard">Proteggi mediante password</string>
+    <string name="menu_more_item_trust_certificate">Certificati attendibili</string>
+    <string name="menu_more_item_remove_encrytion">Rimuovi protezione</string>
+    <string name="rv_doc_encrypt_standard_switch_title">Gestisci Sicurezza</string>
+    <string name="rv_doc_encrypt_standard_switch_content">Modificare la protezione di questo documento?</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">Modulo</string>
+    <string name="menu_more_item_create">Creare campi del modulo</string>
+    <string name="menu_more_item_reset">Reimposta campi modulo</string>
+    <string name="menu_more_item_import">Importa dati del modulo</string>
+    <string name="menu_more_item_export">Esporta dati del modulo</string>
+    <string name="fx_form_importing">Importazione in corso&#8230;</string>
+    <string name="fx_form_reseting">Reimpostazione in corso&#8230;</string>
+    <string name="fx_form_exporting">Esportazione in corso&#8230;</string>
+    <string name="formfiller_import_title">Importa</string>
+    <string name="formfiller_export_title">Esporta</string>
+    <string name="fm_file_exist">File già esistente</string>
+    <string name="formfiller_export_error">Impossibile esportare i dati.</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">Stampa</string>
+    <string name="menu_more_print_item">Documento</string>
+    <string name="rv_print_setting_title">Impostazioni</string>
+    <string name="rv_print_options">Stampa contenuto</string>
+    <string name="rv_print_annot">Annotazioni</string>
+    <string name="file_not_exist">Impossibile trovare il file specificato.</string>
+    <string name="file_is_not_pdf">Il formato di origine non è PDF.</string>
+    <string name="fx_os_version_too_low_toast">La versione del sistema operativo è troppo bassa per utilizzare la funzione di stampa</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">Importa annotazioni</string>
+    <string name="menu_more_item_annot_export">Esporta annotazioni</string>
+    <string name="menu_more_success_export_data">Dati esportati correttamente.</string>
+    <string name="menu_more_success_import_data">Importazione dati nel documento corrente completata.</string>
+    <string name="menu_more_fail_import_data">Impossibile importare i dati nel documento corrente.</string>
+</resources>

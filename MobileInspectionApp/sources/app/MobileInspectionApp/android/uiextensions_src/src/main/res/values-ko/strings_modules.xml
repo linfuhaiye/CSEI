@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AccountModule -->
+    <string name="sign_out_tips">로그아웃하시겠습니까?</string>
+
+    <!-- CropModule -->
+    <string name="fx_string_crop_title">자르기</string>
+    <string name="fx_string_nocrop">종료</string>
+    <string name="fx_string_crop">수동 자르기</string>
+    <string name="fx_string_smartcrop">자동 자르기</string>
+    <string name="fx_string_detect">감지</string>
+
+    <!-- Pan and Zoom -->
+    <string name="fx_string_pan_zoom_title">초점 이동</string>
+    <string name="not_window_permissions_tips">휴대 전화에 유동 창 허가가 부여되지 않았습니다.폰을 켜고 다시 시도하십시오. </string>
+    <string name="fx_turn_on">켜기</string>
+    <string name="fx_turn_later">나중에</string>
+
+    <!-- Snapshot -->
+    <string name="failed_to_save_snapshot">스냅 샷을 저장하지 못하였습니다!</string>
+    <string name="the_snapshot_save_path">이미지가 %1$s에 저장되었습니다.</string>
+
+    <!-- PageNavigationModule -->
+    <string name="rv_gotopage_error_toast">정확한 페이지 번호를 입력하세요.</string>
+    <string name="rd_gotopage_toolbar_go">실행</string>
+
+    <!-- FormFillerModule -->
+    <string name="fx_form_item_list">항목 목록</string>
+    <string name="fx_combox_custom_text">사용자 정의 텍스트</string>
+    <string name="fx_listbox_multiple_text">다중 선택</string>
+    <string name="fx_no_item_tips">항목을 추가하려면 여기를 클릭하십시오</string>
+
+    <!-- form navigation  Resource -->
+    <string name="formfiller_navigation_clear">양식 필드 재설정</string>
+
+    <!-- Thumbnail -->
+    <string name="fx_string_rotate">회전</string>
+    <string name="fx_string_extract">추출물</string>
+    <string name ="fx_string_extract_to">추출물</string>
+    <string name ="rv_page_import">가져 오는 중&#8230;</string>
+    <string name ="rv_page_extract">페이지 추출&#8230;</string>
+    <string name ="rv_page_rotate_cw">페이지 회전&#8230;</string>
+    <string name ="rv_page_delete">삭제중&#8230;</string>
+    <string name ="rv_page_extract_error">페이지를 추출할 수 없습니다.</string>
+    <string name ="rv_page_import_error">페이지를 가져올 수 없습니다.</string>
+    <string name ="rv_page_remove_error">페이지를 삭제할 수 없습니다.</string>
+    <string name ="rv_page_rotate_error">페이지를 회전할 수 없습니다.</string>
+    <string name="xfa_not_support_move_toast">XFA 파일은 페이지 이동에 지원되지 않습니다.</string>
+    <string name="xfa_not_support_to_edit_toast">XFA 파일은 편집 할 수 없습니다.</string>
+    <string name="xfa_not_supported_add_image_toast">XFA 파일은 이미지를 추가 할 수 없습니다.</string>
+    <string name="cinflicted_with_current_doc_toast">현재 문서와 충돌되기에 새 파일 이름을 다시 입력하십시오!!!</string>
+    <string name="the_file_can_not_replace_toast">%1$s 교체가 실패하였습니다.</string>
+    <string name="rv_page_delete_all_thumbnail">모든 페이지 삭제는 허용되지 않습니다.</string>
+    <string name="rv_page_delete_thumbnail">선택한 페이지를 삭제 하시겠습니까? 작업 실행후에는 취소 할 수 없습니다.</string>
+    <string name="createpdf_add_page_title">페이지 추가</string>
+    <string name="createpdf_new_page_blank">공백</string>
+    <string name="createpdf_new_page_lined">줄이 쳐진</string>
+    <string name="createpdf_new_page_grid">그리드</string>
+    <string name="createpdf_new_page_graph">그래프</string>
+    <string name="createpdf_new_page_music">음악</string>
+    <string name="createpdf_new_pagenum">페이지 수</string>
+    <string name="createpdf_new_pagesize">페이지 크기</string>
+    <string name="createpdf_new_pagecolor">페이지 색상</string>
+    <string name="createpdf_new_pageorientation">방향</string>
+    <string name="createpdf_new_ori_partrait">초상화</string>
+    <string name="createpdf_new_ori_landspace">풍경화</string>
+    <string name="createpdf_new_pagesize_letter">편지</string>
+    <string name="createpdf_new_pagesize_A3">A3</string>
+    <string name="createpdf_new_pagesize_A4">A4</string>
+    <string name="createpdf_new_pagesize_legal">법적 규격</string>
+    <string name="createpdf_new_pagesize_ledger">장부</string>
+    <string name="fx_original_color">현재</string>
+    <string name="fx_current_color">만들기</string>
+    <string name="fx_theme_color">테마 색상</string>
+
+    <!-- ReadingBookmarkModule -->
+    <string name="fx_page_book_mark">페이지 %1$d</string>
+
+    <!--  Search -->
+    <string name="search_hint">검색하려는 내용을 입력하세요</string>
+    <string name="search_find_number">총 검색된 단어: %1$d</string>
+    <string name="searching_find_number">검색 중&#8230;\n발견 된: %1$d</string>
+    <string name="search_page_number">페이지 %1$s</string>
+    <string name="search_whole_words">전체 단어만</string>
+    <string name="search_case_sensitive">대소문자 구분</string>
+    <string name="search_in_internet">인터넷 검색</string>
+
+    <!-- Compare -->
+    <string name="legend">색상표</string>
+    <string name="show_legend">색상표 표시</string>
+    <string name="hide_legend">색상표 숨기기</string>
+    <string name="replaced">대체</string>
+    <string name="inserted">삽입</string>
+    <string name="deleted">삭제됨</string>
+    <string name="unsupported_file_format">이 파일 형식을 지원하지 않습니다</string>
+    <string name="compare_diff_file">비교하기 위해 두 개의 다른 문서를 선택하십시오.</string>
+    <string name="compare_progress">문서 비교&#8230;</string>
+
+    <!-- TTS -->
+    <string name="rd_tts_speak">낭독</string>
+    <string name="rd_tts_speak_string">선택한 컨텐츠 만 읽기</string>
+    <string name="rd_tts_speak_start">선택한 콘텐츠에서 읽기</string>
+    <string name="atb_rd_speak_continue_reading_button">읽기 버튼 계속 </string>
+    <string name="atb_rd_speak_previous_page_button">이전 페이지 버튼 읽기 </string>
+    <string name="atb_rd_speak_next_page_button">다음 페이지 버튼 읽기</string>
+    <string name="atb_rd_speak_stop_button">읽기 버튼 중지</string>
+    <string name="atb_rd_speak_repeat_button">읽기 버튼을 반복하십시오.</string>
+    <string name="atb_rd_speak_pause_button">읽기 버튼 일시 중지</string>
+    <string name="tts_speechrate_title">재생 속도</string>
+
+    <!--multi select-->
+    <string name="fx_string_group">그룹</string>
+    <string name="fx_string_ungroup">그룹 해제</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Informazioni sul certificato</string>
+    <string name="rv_security_information_certlist_serialnumber">Numero di serie</string>
+    <string name="rv_security_information_certlist_publisher">Emesso da</string>
+    <string name="rv_security_information_certlist_startdate">Valido da</string>
+    <string name="rv_security_information_certlist_expiringdate">Scadenza</string>
+    <string name="rv_security_information_certlist_email">Indirizzo e-mail</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Rimuovi protezione</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Password</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Password non valida. Riprovare.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Immettere una password per aprire il documento.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">Rimuovere la protezione dal documento?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Opzioni di protezione</string>
+    <string name="rv_doc_encrpty_standard_openfile">Apri documento</string>
+    <string name="rv_doc_encrpty_standard_password">Password:</string>
+    <string name="rv_doc_encrpty_standard_must_input">Obbligatorio</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Aggiungi restrizioni documento</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-Quando la funzione \"Apri documento\" è attivata, per aprire il documento è necessaria una password.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-Quando la funzione \"Restrizioni documento\" è attivata, per rimuovere la protezione è necessaria una password. È possibile inoltre scegliere di non consentire alcune funzioni per questo documento.</string>
+    <string name="rv_doc_encrpty_standard_same_password">La password di apertura del documento e quella del proprietario coincidono. Inserire una password diversa nel campo della password di apertura del documento o in quello della password del proprietario.</string><!-- Security PublicKey -->
+
+    <string name="rv_encrypt_dialog_title">Crittografia</string>
+    <string name="rv_encrypt_dialog_description">Una volta applicata, la crittografia e tutte le modifiche precedenti verranno salvate automaticamente nel file.</string>
+
+    <string name="rv_decrypt_dialog_title">Decodifica</string>
+    <string name="rv_decrypt_dialog_description">Una volta applicata, la decodifica e tutte le modifiche precedenti verranno salvate automaticamente nel file.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Attendibilità</string>
+    <string name="rv_view_certificate_info">Vedi certificato</string>
+    <string name="rv_remove_trust_certificate_prompt">Sei sicuro di voler eliminare questo certificato?\n In tal caso non sarai più in grado di verificare l\'identità del proprietario</string>
+    <string name="rv_security_information_certlist_usage">Utilizzo</string>
+    <string name="rv_add_trust_certificate_prompt">Se vengono modificate le impostazioni di attendibilità, sarà necessario convalidare nuovamente qualsiasi firma per visualizzare le modifiche. Non è consigliabile considerare attendibili i certificati direttamente da un documento. Continuare?</string>
+</resources>

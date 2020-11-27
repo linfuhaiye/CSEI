@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">Liste ist leer</string>
+    <string name="rv_no_panel_infomation">Null</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Entwurf</string>
+    <string name="rv_panel_outline_noinfo">Keine Entwurfsinformationen</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">Lesezeichen</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">Keine Lesezeicheninformationen</string>
+    <string name="rv_panel_readingbookmark_tips_limited">Das Lesezeichen ist länger als der zulässige Grenzwert.</string>
+    <string name="rd_panel_clear_readingbookmarks">Möchten Sie alle Lesezeichen wirklich löschen?</string>
+
+    <!-- Arrachments panel -->
+    <string name="rv_panel_title_attachment">Anhänge</string>
+    <string name="rv_panel_attachment_noinfo">Keine Anhänge</string>
+    <string name="save_failed_by_incorrect_file_name">Beim sparen dieses Dokuments ist ein Fehler aufgetreten. Ungültiger Dateiname.</string>
+    <string name="rv_panel_attachment_label">Anhang-Registerkarte</string>
+    <string name="attachment_page_tab">Seite %1$d</string>
+    <string name="rv_panel_edit_desc">Beschreibung</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">Anmerkungen</string>
+    <string name="rv_panel_annot_noinformation">Keine Anmerkungsliste</string>
+    <string name="rv_panel_annot_item_pagenum">Seite </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">Digitale Signaturen</string>
+    <string name="rv_panel_signature_noinformation">Keine digitalen Signaturen</string>
+    <string name="rv_panel_signature_signed_by">Signiert von %s</string>
+    <string name="rv_panel_signature_revocation">Rev.%s:</string>
+    <string name="rv_panel_signature_view">Ansicht</string>
+    <string name="rv_panel_signature_verify">Überprüfen</string>
+    <string name="rv_panel_signature_view_current_version">Sie sehen bereits diese Version des Dokuments, das von der ausgewählten Signatur abgedeckt wird</string>
+    <string name="rv_panel_signature_unsigned">Nicht signiertes Signaturfeld</string>
+</resources>

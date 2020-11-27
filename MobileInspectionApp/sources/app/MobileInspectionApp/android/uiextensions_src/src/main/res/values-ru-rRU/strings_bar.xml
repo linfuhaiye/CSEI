@@ -1,0 +1,7 @@
+<resources>
+    <string name="rd_bar_panel">Список</string>
+    <string name="rd_bar_setting">Вид</string>
+    <string name="rd_bar_edit">Комментарий</string>
+    <string name="rd_bar_sign">Подписать</string>
+    <string name="rd_bar_fillsign">Заполнени</string>
+</resources>

@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">Sì</string>
+    <string name="fx_string_no">No</string>
+    <string name="fx_string_ok">OK</string>
+    <string name="fx_string_cancel">Annulla</string>
+    <string name="fx_string_save">Salva</string>
+    <string name="fx_string_saveas">Salva con nome</string>
+    <string name="fx_string_delete">Elimina</string>
+    <string name="fx_string_auto">Automatico</string>
+    <string name="fx_string_add">Aggiungi</string>
+    <string name="fx_string_info">Informazioni</string>
+    <string name="fx_string_name">Nome</string>
+    <string name="fx_string_done">Fine</string>
+    <string name="fx_string_error">Errore</string>
+    <string name="fx_string_address">Indirizzo:</string>
+
+    <string name="fx_string_close">Chiudi</string>
+    <string name="fx_string_select_all">Seleziona tutto</string>
+    <string name="fx_string_original">Originale</string>
+    <string name="fx_string_setting">Impostazioni</string>
+
+    <string name="hm_back">Indietro</string>
+    <string name="hm_document">Documento</string>
+    <string name="hm_sign">Accedi</string>
+    <string name="hm_signout">Esci</string>
+
+    <string name ="fx_string_minimum">Minima</string>
+    <string name ="fx_string_low">Bassa</string>
+    <string name ="fx_string_medium">Media</string>
+    <string name ="fx_string_high">Alta</string>
+    <string name ="fx_string_maximum">Massima</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">Confronta</string>
+    <string name="hm_comparison_mode">Modalità Confronta</string>
+    <string name="hm_comparison_mode_overlay">Sovrapponi</string>
+    <string name="hm_comparison_mode_side_by_side">fianco a fianco</string>
+    <string name="hm_comparison_old_file">vecchio file</string>
+    <string name="hm_comparison_new_file">nuovo file</string>
+    <string name="hm_comparison_selected_color">Colore selezionato</string>
+    <string name="hm_comparison_selected_file_title">Seleziona</string>
+
+    <string name="rv_panel_annot_loading_start">Caricamento&#8230;</string>
+    <string name="rv_panel_annot_deleting">Eliminazione in corso&#8230;</string>
+    <string name="rv_panel_annot_failed">Eliminazione non riuscita.</string>
+    <string name="fx_string_saving">Salvataggio in corso&#8230;</string>
+    <string name="fx_string_closing">Chiusura&#8230;</string>
+    <string name="fx_string_recovering">Elaborazione in corso&#8230;</string>
+    <string name="fx_string_opening">Apertura in corso&#8230;</string>
+    <string name="fx_string_copying">Copia&#8230;</string>
+    <string name="fx_string_processing">Elaborazione in corso&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">Riempimento</string>
+    <string name="pb_icon_tab">Icona</string>
+    <string name="pb_border_tab">Bordo</string>
+    <string name="pb_fontname_tab">Carattere</string>
+    <string name="pb_watermark_tab">Filigrana</string>
+    <string name="pb_overlay_text_tab">Testo sovrapposto</string>
+    <string name="pb_options_tab">Opzioni</string>
+
+    <string name="fx_import_blank_page">Pagina vuota</string>
+    <string name="fx_import_file">Documento</string>
+    <string name="fx_import_dcim">Da album</string>
+    <string name="fx_import_camera">Da fotocamera</string>
+    <string name ="fx_string_import">Documento</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">Contenuto aggiunto agli Appunti.</string>
+    <string name="fm_move">Sposta</string>
+    <string name="fm_paste_replace">Sostituire</string>
+    <string name="fm_paste_skip">Ignora</string>
+    <string name="rv_emailreview_mergedlg_openbutton">No, apri solo questa copia</string>
+    <string name="cloud_toolbar_more_upload">Carica</string>
+
+    <string name="rv_url_dialog_title">Visita</string>
+    <string name="rv_urldialog_title">Potenziale problema di sicurezza all\'apertura del collegamento. Confermare per aprire.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">È necessaria una licenza per usare il plug-in. Se si possiede una licenza, attivarla ora.</string>
+    <string name="rv_deivce_limitation">Hai superato il numero consentito di dispositivi per questo documento.</string>
+    <string name="rv_no_rights">Non si posseggono i diritti per modificare questo documento. Sceglierne un altro.</string>
+    <string name="rv_rights_expired">La licenza o la versione di prova gratuita è scaduta.</string>
+    <string name="rv_document_open_failed">Apertura file non riuscita</string>
+    <string name="rv_unknown_error">errore sconosciuto</string>
+    <string name="rv_format_error">Errore formato: Non è un PDF o è danneggiato</string>
+
+    <string name="rv_back_save_to_original_file">Salva nel file originale</string>
+    <string name="rv_back_save_to_new_file">Salva in un nuovo file</string>
+    <string name="rv_back_discard_modify">Ignora tutte le modifiche</string>
+    <string name="fx_save_file_failed">Salva documento fallito!</string>
+    <string name="fx_string_filereplace_warning">Il file esiste già. Sostituirlo?</string>
+
+    <string name="rv_password_dialog_title">Password</string>
+    <string name="rv_tips_password_error">Password errata. Riprovare</string>
+    <string name="rv_tips_password">File protetto da password. Immettere la password</string>
+    <string name="fx_string_password_dialog_title">Si prega di inserire la password</string>
+
+    <string name="fx_form_rename_toast">Il nome immesso è già stato utilizzato in un campo esistente. Scegliere un nome diverso oppure modificare il tipo di campo in modo che corrisponda al campo esistente.</string>
+    <string name="fx_flatten_doc_toast">livella le annotazioni o i moduli PDF per farli diventare una parte del contenuto della pagina ed evitare ulteriori modifiche</string>
+    <string name="fx_system_language_changed_toast">La lingua del sistema è cambiata. Si consiglia di riavviare l\'applicazione corrente.</string>
+</resources>
+

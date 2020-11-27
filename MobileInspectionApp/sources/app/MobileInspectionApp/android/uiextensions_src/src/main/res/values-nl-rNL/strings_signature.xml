@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Signature -->
+    <string name="rd_security_dsg_addSig">Handtekening toevoegen</string>
+    <string name="rv_security_dsg_verify">Handtekening verifiëren</string>
+    <string name="rv_security_dsg_verify_title">Verificatieresultaten</string>
+    <string name="rv_security_dsg_verify_valid">Digitale handtekening is geldig.</string>
+    <string name="rv_security_dsg_verify_perm">De revisie van het document waarop deze handtekening van toepassing is, is niet gewijzigd. Er zijn daarna echter wijzigingen in het document aangebracht.</string>
+    <string name="rv_security_dsg_verify_otherState">Digitale handtekening is om andere redenen ongeldig.</string>
+    <string name="rv_security_dsg_verify_invalid">Digitale handtekening is ongeldig.</string>
+    <string name="rv_security_dsg_verify_unknown">Digitale handtekening is ONBEKEND.</string>
+    <string name="rv_security_dsg_verify_expired">Digitale handtekening is ONBEKEND.\nCertificaat voor verificatie van emittent is verlopen.</string>
+    <string name="rv_security_dsg_verify_errorByteRange">Digitale handtekening is ongeldig.</string>
+    <string name="rv_security_dsg_verify_error">Er is een onbekende fout opgetreden bij de verificatie van de digitale handtekening</string>
+    <string name="rv_security_dsg_cert_publisher">Certificaatuitgever:</string>
+    <string name="rv_security_dsg_cert_serialNumber">Serienummer:</string>
+    <string name="rv_security_dsg_cert_emailAddress">E-mailadres:</string>
+    <string name="rv_security_dsg_cert_validityStarts">Geldig van:</string>
+    <string name="rv_security_dsg_cert_validityEnds">Geldig tot:</string>
+    <string name="rv_security_dsg_cert_signedTime">Datum van ondertekening:</string>
+    <string name="rv_certlist_note_searching">Bezig met zoeken&#8230;</string>
+    <string name="rv_certlist_note">Certificaat selecteren</string>
+    <string name="rv_security_certlist_nocerificatefile">Geen certificaten</string>
+    <string name="rv_security_certlist_inputpasswd">Voer een wachtwoord in</string>
+    <string name="rv_security_certlist_invalidpasswd">Ongeldig wachtwoord. Voer het wachtwoord opnieuw in.</string>
+    <string name="rv_security_certlist_outdate">Het certificaat is verlopen.</string>
+    <string name="rv_security_certlist_pubkey_invalidtype">Het certificaat kan niet worden gebruikt voor versleuteling en ontsleuteling.</string>
+    <string name="rv_security_certfrompfx_failed">Kan geen certificaten ophalen</string>
+    <!-- Sign -->
+    <string name="rv_sign_waiting">Bezig met verwerken&#8230;</string>
+    <string name="rv_sign_model">Lijst met handtekeningen</string>
+    <string name="rv_sign_create">Een nieuwe handtekening tekenen</string>
+
+    <string name="rv_sign_dialog_title">Ondertekenen</string>
+    <string name="rv_sign_dialog_description">Nadat de handtekening is toegepast, worden de handtekening en alle eerdere wijzigingen automatisch opgeslagen in het bestand.</string>
+
+    <!-- dsg sign -->
+    <string name="sg_cert_add_text">Certificaat selecteren en toevoegen</string>
+    <string name="sg_cert_current_name_title">Huidig certificaat:</string>
+    <string name="sg_signer_title">Handtekening</string>
+    <string name="sg_signer_dsg_group_title">Certificaathandtekening</string>
+    <string name="sg_signer_handwriting_group_title">Normale handtekening</string>
+    <string name="dsg_sign_succeed">Handtekening geslaagd.</string>
+    <string name="dsg_sign_failed">Handtekening mislukt.</string>
+
+    <string name="no_permission">Geen toestemming</string>
+
+    <string name="signature_ltv_attribute">Handtekening is LTV ingeschakeld</string>
+
+    <string name="rv_security_dsg_trust_cert_title">Toevoegen aan vertrouwde certificaten</string>
+    <string name="rv_security_dsg_trust_cert_tip">Wilt u het certificaat vertrouwen bij het valideren van handtekeningen of gecertificeerde documenten?</string>
+    <string name="rv_security_dsg_trust_cert_name">Naam:</string>
+    <string name="rv_security_dsg_trust_cert_usage">Bedoeld toetsgebruik:</string>
+    <string name="rv_security_dsg_verify_error_data">Indelingsfout: Geen PDF of beschadigd</string>
+
+    <string name="cert_key_usage">Niet opgegeven</string>
+    <string name="cert_key_usage_data_encipherment">Gegevensversleuteling</string>
+    <string name="cert_key_usage_digital_signature">Digitale handtekening</string>
+    <string name="cert_key_usage_key_agreement">Overeenkomst van sleutel</string>
+    <string name="cert_key_usage_key_cert_sign">Sleutelcert. teken</string>
+    <string name="cert_key_usage_key_encipherment">Versleuteling</string>
+    <string name="cert_key_usage_non_repudiation">Niet afgewezen</string>
+    <string name="cert_key_usage_crl_sign">Crl-teken</string>
+
+    <string name="rv_security_failed_to_view">Kan deze versie niet bekijken</string>
+
+    <!-- fill and sign -->
+    <string name="fillsign_profile_title">Voorgedefinieerde tekst</string>
+    <string name="fillsign_profile_title_edit">Voorgedefinieerde tekst bewerken</string>
+    <!-- Name: -->
+    <string name="fillsign_profile_full_name">Volledige naam:</string>
+    <string name="fillsign_profile_full_name_prompt">Volledige naam toevoegen</string>
+    <string name="fillsign_profile_first_name">Voornaam:</string>
+    <string name="fillsign_profile_first_name_prompt">Voornaam toevoegen</string>
+    <string name="fillsign_profile_middle_name">Tussenvoegsel:</string>
+    <string name="fillsign_profile_middle_name_prompt">Tussenvoegsel toevoegen</string>
+    <string name="fillsign_profile_last_name">Achternaam:</string>
+    <string name="fillsign_profile_last_name_prompt">Achternaam toevoegen</string>
+    <!-- Address: -->
+    <string name="fillsign_profile_street_1">Straat 1:</string>
+    <string name="fillsign_profile_street_1_prompt">Straat 1 toevoegen</string>
+    <string name="fillsign_profile_street_2">Straat 2:</string>
+    <string name="fillsign_profile_street_2_prompt">Straat 2 toevoegen</string>
+    <string name="fillsign_profile_city">Plaats:</string>
+    <string name="fillsign_profile_city_prompt">Plaats toevoegen</string>
+    <string name="fillsign_profile_state">Provincie:</string>
+    <string name="fillsign_profile_state_prompt">Provincie toevoegen</string>
+    <string name="fillsign_profile_zip">Postcode:</string>
+    <string name="fillsign_profile_zip_prompt">Postcode toevoegen</string>
+    <string name="fillsign_profile_country">Land:</string>
+    <string name="fillsign_profile_country_prompt">Land toevoegen</string>
+    <!-- Contact: -->
+    <string name="fillsign_profile_contact">Contactgegevens</string>
+    <string name="fillsign_profile_email">E-mailadres:</string>
+    <string name="fillsign_profile_email_prompt">E-mailadres toevoegen</string>
+    <string name="fillsign_profile_tel">Tel.:</string>
+    <string name="fillsign_profile_tel_prompt">Tel. toevoegen</string>
+    <!-- Dates -->
+    <string name="fillsign_profile_dates">Data:</string>
+    <string name="fillsign_profile_date">Datum:</string>
+    <string name="fillsign_profile_date_prompt">Datum toevoegen</string>
+    <string name="fillsign_profile_birth_date">Geboortedatum:</string>
+    <string name="fillsign_profile_birth_date_prompt">Geboortedatum toevoegen</string>
+    <!-- Custom field -->
+    <string name="fillsign_profile_custom_field">Aangepast veld</string>
+    <string name="fillsign_profile_type_label">Type etiket</string>
+    <string name="fillsign_profile_type_value">Type waarde</string>
+    <string name="fillsign_profile_add_custom_field">Aangepast veld toevoegen</string>
+    <string name="fillsign_sign_click_prompt">Klik ergens om content te plaatsen</string>
+    <string name="fillsign_sign_dosign_prompt">Na ondertekening kan de inhoud van het vormveld niet meer worden bewerkt.</string>
+</resources>

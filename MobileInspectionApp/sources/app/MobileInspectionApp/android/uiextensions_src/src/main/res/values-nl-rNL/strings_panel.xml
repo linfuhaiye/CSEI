@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">Geen lijst</string>
+    <string name="rv_no_panel_infomation">Geen lijstinformatie</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Overzicht</string>
+    <string name="rv_panel_outline_noinfo">Geen overzichtinformatie</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">Bladwijzers</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">Geen bladwijzerinformatie</string>
+    <string name="rv_panel_readingbookmark_tips_limited">De bladwijzer is langer dan de limiet.</string>
+    <string name="rd_panel_clear_readingbookmarks">Weet u zeker dat u alle bladwijzers wilt wissen?</string>
+
+    <!-- Arrachments panel -->
+    <string name="save_failed_by_incorrect_file_name">Er is een fout opgetreden bij het opslaan van het document. Onjuiste bestandsnaam.</string>
+    <string name="attachment_page_tab">Pagina %1$d</string>
+    <string name="rv_panel_attachment_noinfo">Geen bijlagen</string>
+    <string name="rv_panel_title_attachment">Bijlagen</string>
+    <string name="rv_panel_attachment_label">Tabblad Bijlage</string>
+    <string name="rv_panel_edit_desc">Beschrijving</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">Annotaties</string>
+    <string name="rv_panel_annot_noinformation">Geen annotatielijst</string>
+    <string name="rv_panel_annot_item_pagenum">Pagina </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">Digitale handtekeningen</string>
+    <string name="rv_panel_signature_noinformation">Geen digitale handtekeningen</string>
+    <string name="rv_panel_signature_signed_by">Ondertekend door %s</string>
+    <string name="rv_panel_signature_revocation">Rev.%s:</string>
+    <string name="rv_panel_signature_view">bekijk</string>
+    <string name="rv_panel_signature_verify">Verifiëren</string>
+    <string name="rv_panel_signature_view_current_version">U bekijkt deze versie van het document al onder de geselecteerde handtekening</string>
+    <string name="rv_panel_signature_unsigned">Niet-ondertekende handtekeningvelden</string>
+</resources>

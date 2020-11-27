@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">Page unique</string>
+    <string name="rv_page_present_continuous">Défilement continue</string>
+    <string name="rv_page_present_thumbnail">Vignette</string>
+    <string name="rd_fitpage_topbar_title">Fit Page</string>
+    <string name="rd_fitwidth_topbar_title">Fit Largeur</string>
+    <string name="rd_rotateview_topbar_title">Rotation affichage</string>
+    <string name="rd_reflow_topbar_title">Réorganisation</string>
+    <string name="rd_crop_topbar_title">Mode de Coupe</string>
+    <string name="rd_facingmode_topbar_title">Double page</string>
+    <string name="rd_coverpage_topbar_title">Page de couverture</string>
+    <string name="rd_panzoom_topbar_title">Zoom Panoramique</string>
+    <string name="ml_system_light">Luminosité automatique</string>
+    <string name="ml_day_night">Mode Nocturne</string>
+    <string name="ml_page_zoommode">Vue du page</string>
+    <string name="ml_pagemode">Mode du page</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">Verrouillage de l\'écran</string>
+    <string name="rv_screen_rotation_pad_landscape">Paysage</string>
+    <string name="rv_screen_rotation_pad_portrait">Portrait</string>
+    <string name="rv_screen_rotation_pad_auto">Auto-rotation à l\'aide de l\'écran</string>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Signature -->
+    <string name="rd_security_dsg_addSig">Ajouter une signature</string>
+    <string name="rv_security_dsg_verify">Vérifier la signature</string>
+    <string name="rv_security_dsg_verify_title">Résultats de la vérification</string>
+    <string name="rv_security_dsg_verify_valid">La signature numérique est valide.</string>
+    <string name="rv_security_dsg_verify_perm">La révision du document qui était couvert par cette signature n\'a pas été modifiée. Cependant, le document a subi d\'importants changements.</string>
+    <string name="rv_security_dsg_verify_otherState">La signature numérique n\'est pas valide pour d\'autres raisons.</string>
+    <string name="rv_security_dsg_verify_invalid">La signature numérique est invalide.</string>
+    <string name="rv_security_dsg_verify_unknown">La signature numérique est inconnue.</string>
+    <string name="rv_security_dsg_verify_expired">La signature numérique est inconnue. \nLe certificat de vérification de l\'émetteur a expiré.</string>
+    <string name="rv_security_dsg_verify_errorByteRange">La signature numérique est invalide.</string>
+    <string name="rv_security_dsg_verify_error">Une erreur inconnue s\'est produite lors de la vérification de la signature numérique</string>
+    <string name="rv_security_dsg_cert_publisher">Émetteur du certificat :</string>
+    <string name="rv_security_dsg_cert_serialNumber">Numéro de série :</string>
+    <string name="rv_security_dsg_cert_emailAddress">Adresse e-mail :</string>
+    <string name="rv_security_dsg_cert_validityStarts">Valide à partir du :</string>
+    <string name="rv_security_dsg_cert_validityEnds">Valide jusqu\'au :</string>
+    <string name="rv_security_dsg_cert_signedTime">Date de la signature :</string>
+    <string name="rv_certlist_note_searching">Recherche&#8230;</string>
+    <string name="rv_certlist_note">Sélectionner le certificat</string>
+    <string name="rv_security_certlist_nocerificatefile">Aucun certificat</string>
+    <string name="rv_security_certlist_inputpasswd">Veuillez saisir un mot de passe</string>
+    <string name="rv_security_certlist_invalidpasswd">Mot de passe non valide. Saisissez à nouveau le mot de passe.</string>
+    <string name="rv_security_certlist_outdate">Le certificat a expiré.</string>
+    <string name="rv_security_certlist_pubkey_invalidtype">Ce certificat ne pas être utilisé pour le chiffrement et le déchiffrement.</string>
+    <string name="rv_security_certfrompfx_failed">Échec de l\'obtention des certificats</string>
+    <!-- Sign -->
+    <string name="rv_sign_waiting">Traitement en cours&#8230;</string>
+    <string name="rv_sign_model">Liste des signatures</string>
+    <string name="rv_sign_create">Appuyez pour créer une signature</string>
+
+    <string name="rv_sign_dialog_title">Signer</string>
+    <string name="rv_sign_dialog_description">Lorsque la signature est apposée, celle-ci et toutes les modifications effectuées avant sont automatiquement enregistrées dans le fichier.</string>
+
+    <!-- dsg sign -->
+    <string name="sg_cert_add_text">Sélectionner et ajouter le certificat</string>
+    <string name="sg_cert_current_name_title">Certificat actuel :</string>
+    <string name="sg_signer_title">Signature</string>
+    <string name="sg_signer_dsg_group_title">Signature du certificat</string>
+    <string name="sg_signer_handwriting_group_title">Signature normale</string>
+    <string name="dsg_sign_succeed">Signature réussie.</string>
+    <string name="dsg_sign_failed">Échec de la signature.</string>
+
+    <string name="no_permission">Pas de permission</string>
+
+    <string name="signature_ltv_attribute">Signature est LTV activé</string>
+
+    <string name="rv_security_dsg_trust_cert_title">Ajouter aux certificats de confiance</string>
+    <string name="rv_security_dsg_trust_cert_tip">Voulez-vous faire confiance au certificat lors de la validation de signatures ou de documents certifiés?</string>
+    <string name="rv_security_dsg_trust_cert_name">Nom:</string>
+    <string name="rv_security_dsg_trust_cert_usage">Utilisation prévue de la clé:</string>
+    <string name="rv_security_dsg_verify_error_data">Erreur de format : pas un PDF ou endommagé</string>
+
+    <string name="cert_key_usage">Non spécifié</string>
+    <string name="cert_key_usage_data_encipherment">Chiffrement des données</string>
+    <string name="cert_key_usage_digital_signature">Signature électronique</string>
+    <string name="cert_key_usage_key_agreement">Accord des clés</string>
+    <string name="cert_key_usage_key_cert_sign">Sign. cert. clés</string>
+    <string name="cert_key_usage_key_encipherment">Chiffrement clés</string>
+    <string name="cert_key_usage_non_repudiation">Non-répudiation</string>
+    <string name="cert_key_usage_crl_sign">Sign. Crl</string>
+
+    <string name="rv_security_failed_to_view">Échec de la vue de cette version</string>
+
+    <!-- fill and sign -->
+    <string name="fillsign_profile_title">Texte prédéfini</string>
+    <string name="fillsign_profile_title_edit">Modifier le texte prédéfini</string>
+    <!-- Name: -->
+    <string name="fillsign_profile_full_name">Nom complet :</string>
+    <string name="fillsign_profile_full_name_prompt">Ajouter un nom complet</string>
+    <string name="fillsign_profile_first_name">Prénom :</string>
+    <string name="fillsign_profile_first_name_prompt">Ajouter un prénom</string>
+    <string name="fillsign_profile_middle_name">Deuxième prénom :</string>
+    <string name="fillsign_profile_middle_name_prompt">Ajouter un deuxième prénom</string>
+    <string name="fillsign_profile_last_name">Nom :</string>
+    <string name="fillsign_profile_last_name_prompt">Ajouter un nom</string>
+    <!-- Address: -->
+    <string name="fillsign_profile_street_1">Ligne 1 de rue :</string>
+    <string name="fillsign_profile_street_1_prompt">Ajouter une ligne 1 de rue</string>
+    <string name="fillsign_profile_street_2">Ligne 2 de rue :</string>
+    <string name="fillsign_profile_street_2_prompt">Ajouter une ligne 2 de rue</string>
+    <string name="fillsign_profile_city">Ville :</string>
+    <string name="fillsign_profile_city_prompt">Ajouter une ville</string>
+    <string name="fillsign_profile_state">État :</string>
+    <string name="fillsign_profile_state_prompt">Ajouter un état</string>
+    <string name="fillsign_profile_zip">Code postal :</string>
+    <string name="fillsign_profile_zip_prompt">Ajouter un code postal</string>
+    <string name="fillsign_profile_country">Pays :</string>
+    <string name="fillsign_profile_country_prompt">Ajouter un pays</string>
+    <!-- Contact: -->
+    <string name="fillsign_profile_contact">Coordonnées</string>
+    <string name="fillsign_profile_email">Email :</string>
+    <string name="fillsign_profile_email_prompt">Ajouter une adresse email</string>
+    <string name="fillsign_profile_tel">Tél :</string>
+    <string name="fillsign_profile_tel_prompt">Ajouter un numéro de téléphone</string>
+    <!-- Dates -->
+    <string name="fillsign_profile_dates">Dates</string>
+    <string name="fillsign_profile_date">Date :</string>
+    <string name="fillsign_profile_date_prompt">Ajouter une date</string>
+    <string name="fillsign_profile_birth_date">Date de naissance :</string>
+    <string name="fillsign_profile_birth_date_prompt">Ajouter une date de naissance</string>
+    <!-- Custom field -->
+    <string name="fillsign_profile_custom_field">Champ personnalisé</string>
+    <string name="fillsign_profile_type_label">Entrez un libellé</string>
+    <string name="fillsign_profile_type_value">Entrez une valeur</string>
+    <string name="fillsign_profile_add_custom_field">Ajouter un champ personnalisé</string>
+    <string name="fillsign_sign_click_prompt">Cliquez n\'importe où pour placer le contenu</string>
+    <string name="fillsign_sign_dosign_prompt">Une fois que le formulaire sera signé, ses champs ne pourront plus être modifiés.</string>
+</resources>

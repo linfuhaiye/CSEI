@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Сведения о сертификате</string>
+    <string name="rv_security_information_certlist_serialnumber">Серийный номер</string>
+    <string name="rv_security_information_certlist_publisher">Кем выдан</string>
+    <string name="rv_security_information_certlist_startdate">Действует с</string>
+    <string name="rv_security_information_certlist_expiringdate">Действует по</string>
+    <string name="rv_security_information_certlist_email">Адрес электрон. почты</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Удалить защиту</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Пароль</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Неверный пароль. Повторите попытку.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Введите пароль, чтобы открыть этот документ.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">Действительно снять защиту с этого документа?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Параметры защиты</string>
+    <string name="rv_doc_encrpty_standard_openfile">Открытие документа</string>
+    <string name="rv_doc_encrpty_standard_password">Пароль:</string>
+    <string name="rv_doc_encrpty_standard_must_input">Обязательно</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Добавить ограничения к документу</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">- Если включен параметр \"Открытие документа\", для открытия требуется пароль.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">- Если включен параметр \"Ограничения документа\", для отключения защиты требуется пароль. Кроме того, можно запретить некоторые функции для этого документа.</string>
+    <string name="rv_doc_encrpty_standard_same_password">Пароль для открытия документа и пароль владельца не могут быть одинаковыми. Введите разные пароли для открытия документа и для владельца документа.</string>
+
+    <string name="rv_encrypt_dialog_title">Шифрование</string>
+    <string name="rv_encrypt_dialog_description">После применения шифрования, шифрование и все изменения, сделанные ранее, автоматически сохраняются в файле.</string>
+
+    <string name="rv_decrypt_dialog_title">Дешифрование</string>
+    <string name="rv_decrypt_dialog_description">После применения дешифрования дешифрование и все изменения, сделанные ранее, автоматически сохраняются в файле.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Доверять</string>
+    <string name="rv_view_certificate_info">Посмотреть сертификат</string>
+    <string name="rv_remove_trust_certificate_prompt">Вы уверены, что хотите удалить этот сертификат?\n Вы больше не сможете проверить личность владельца, если вы</string>
+    <string name="rv_security_information_certlist_usage">Использование</string>
+    <string name="rv_add_trust_certificate_prompt">Если изменить доверенные настройки, то для просмотра изменений потребуется повторная проверка всех подписей. Доверять сертификатам непосредственно из документов не рекомендуется. Вы действительно хотите продолжить?</string>
+</resources>

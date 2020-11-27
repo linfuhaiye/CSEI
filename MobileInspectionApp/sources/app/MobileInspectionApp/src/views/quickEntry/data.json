@@ -1,0 +1,1342 @@
+{
+    "3000": [
+        {
+            "def_result": [
+                {
+                    "item": "1.4.1",
+                    "value": "√"
+                },
+                {
+                    "item": "1.4.2",
+                    "value": "√"
+                },
+                {
+                    "item": "1.4.3",
+                    "value": "√"
+                },
+                {
+                    "item": "1.4.4",
+                    "value": "√"
+                },
+                {
+                    "item": "1.4.5",
+                    "value": "√"
+                },
+                {
+                    "item": "2.1.1",
+                    "value": "√"
+                },
+                {
+                    "item": "2.1.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.1.3",
+                    "value": "√"
+                },
+                {
+                    "item": "2.5.1",
+                    "value": "√"
+                },
+                {
+                    "item": "2.6.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.7.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.7.3",
+                    "value": "√"
+                },
+                {
+                    "item": "2.7.4",
+                    "value": "√"
+                },
+                {
+                    "item": "2.7.5",
+                    "value": "√"
+                },
+                {
+                    "item": "2.8.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.8.4",
+                    "value": "／"
+                },
+                {
+                    "item": "2.8.6",
+                    "value": "／"
+                },
+                {
+                    "item": "2.8.7",
+                    "value": "／"
+                },
+                {
+                    "item": "2.8.8",
+                    "value": "／"
+                },
+                {
+                    "item": "2.8.9",
+                    "value": "／"
+                },
+                {
+                    "item": "2.9.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.9.3",
+                    "value": "√"
+                },
+                {
+                    "item": "2.9.4",
+                    "value": "／"
+                },
+                {
+                    "item": "2.10.2",
+                    "value": "√"
+                },
+                {
+                    "item": "2.11.1",
+                    "value": "▽"
+                },
+                {
+                    "item": "3.4.3",
+                    "value": "／"
+                },
+                {
+                    "item": "3.4.4",
+                    "value": "／"
+                },
+                {
+                    "item": "3.5.3",
+                    "value": "／"
+                },
+                {
+                    "item": "3.5.4",
+                    "value": "／"
+                },
+                {
+                    "item": "3.7.1",
+                    "value": "√"
+                },
+                {
+                    "item": "3.10.1",
+                    "value": "√"
+                },
+                {
+                    "item": "3.11.1",
+                    "value": "√"
+                },
+                {
+                    "item": "3.12.1",
+                    "value": "√"
+                },
+                {
+                    "item": "3.12.3",
+                    "value": "√"
+                },
+                {
+                    "item": "3.14.2",
+                    "value": "√"
+                },
+                {
+                    "item": "3.15.3",
+                    "value": "√"
+                },
+                {
+                    "item": "3.15.4",
+                    "value": "√"
+                },
+                {
+                    "item": "3.15.5",
+                    "value": "√"
+                },
+                {
+                    "item": "4.1.1",
+                    "value": "√"
+                },
+                {
+                    "item": "4.1.2",
+                    "value": "√"
+                },
+                {
+                    "item": "4.3.3",
+                    "value": "／"
+                },
+                {
+                    "item": "4.5.1",
+                    "value": "√"
+                },
+                {
+                    "item": "4.5.2",
+                    "value": "√"
+                },
+                {
+                    "item": "4.6.2",
+                    "value": "／"
+                },
+                {
+                    "item": "4.8.1",
+                    "value": "√"
+                },
+                {
+                    "item": "4.8.2",
+                    "value": "√"
+                },
+                {
+                    "item": "4.9.1",
+                    "value": "√"
+                },
+                {
+                    "item": "4.10.1",
+                    "value": "▽"
+                },
+                {
+                    "item": "5.1.1",
+                    "value": "√"
+                },
+                {
+                    "item": "5.2.1",
+                    "value": "√"
+                },
+                {
+                    "item": "5.3.1",
+                    "value": "√"
+                },
+                {
+                    "item": "5.3.2",
+                    "value": "／"
+                },
+                {
+                    "item": "5.3.3",
+                    "value": "／"
+                },
+                {
+                    "item": "5.5.1",
+                    "value": "／"
+                },
+                {
+                    "item": "5.6.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.3.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.3.2",
+                    "value": "√"
+                },
+                {
+                    "item": "6.4.1",
+                    "value": "／"
+                },
+                {
+                    "item": "6.5.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.6.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.7.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.8.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.9.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.9.2",
+                    "value": "／"
+                },
+                {
+                    "item": "6.10.1",
+                    "value": "√"
+                },
+                {
+                    "item": "6.10.2",
+                    "value": "√"
+                },
+                {
+                    "item": "6.11.1",
+                    "value": "／"
+                },
+                {
+                    "item": "6.11.2",
+                    "value": "／"
+                },
+                {
+                    "item": "6.12.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.1.1",
+                    "value": "▽"
+                },
+                {
+                    "item": "8.2.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.3.1",
+                    "value": "／"
+                },
+                {
+                    "item": "8.3.2",
+                    "value": "／"
+                },
+                {
+                    "item": "8.4.2",
+                    "value": "√"
+                },
+                {
+                    "item": "8.5.1",
+                    "value": "／"
+                },
+                {
+                    "item": "8.6.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.7.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.7.2",
+                    "value": "√"
+                },
+                {
+                    "item": "8.7.3",
+                    "value": "√"
+                },
+                {
+                    "item": "8.9.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.10.1",
+                    "value": "√"
+                },
+                {
+                    "item": "8.11.1",
+                    "value": "／"
+                },
+                {
+                    "item": "8.12.1",
+                    "value": "／"
+                },
+                {
+                    "item": "8.13.1",
+                    "value": "／"
+                }
+            ],
+            "checkresult": [{}],
+            "changeresult": [
+                {
+                    "level": "0",
+                    "result": {
+                        "×": "×",
+                        "△": "×"
+                    }
+                },
+                {
+                    "level": "1",
+                    "result": {
+                        "√": "√",
+                        "▽": "√"
+                    }
+                },
+                {
+                    "level": "2",
+                    "result": {
+                        "／": "／"
+                    }
+                }
+            ],
+            "set_nextvalue": "2.1.1_GCRES0,2.1.1_CLRES0,2.1.1_GCRES1,2.1.1_CLRES1,2.1.3_GCRES0,2.1.3_CLRES0,2.1.3_GCRES1,2.1.3_CLRES1,2.4.1_GCRES0,2.4.1_CLRES0,2.11.1_GCRES0,2.11.1_CLRES0,2.11.1_GCRES1,2.11.1_CLRES1,2.11.1_GCRES2,2.11.1_CLRES2,3.2.2_GCRES0,3.2.2_CLRES0,3.2.2_GCRES1,3.2.2_CLRES1,3.15.5_GCRES0,3.15.5_CLRES0,4.9.1_GCRES0,4.9.1_CLRES0,5.1.3_GCRES0,5.1.3_CLRES0",
+            "EQP_NAME": ["乘客电梯", "观光电梯", "病床电梯", "载货电梯", "汽车电梯"],
+            "IMPORT_TYPE": ["国产", "部件进口", "整机进口"],
+            "CONTROL_TYPE": ["按钮", "信号", "集选", "并联", "群控"],
+            "MGE_DEPT_TYPE_NAME": ["无内设管理部门", "内设管理部门", "内设分支机构"],
+            "BUFFER_MODE": ["液压", "弹簧 液压", "聚氨酯 弹簧", "聚氨酯 液压", "弹簧", "聚氨酯"],
+            "IF_SCANMOBILE": ["是", "否", "签订协议"],
+            "IF_ADDDEVICE": ["否", "IC卡", "自动平层装置", "能量反馈装置", "IC卡和自动平层装置", "IC卡和能量反馈装置", "自动平层和能量反馈装置", "IC卡、自动平层和能量反馈装置"],
+            "INST_BUILD_TYPE": ["／", "拆迁安置房", "经济适用房", "限价房", "廉租房", "商品房", "棚户区", "公众聚集场所（学校）", "公众聚集场所（幼儿园）", "公众聚集场所（医院）", "公众聚集场所（车站）", "公众聚集场所（客运码头）", "公众聚集场所（商场）", "公众聚集场所（体育场馆）", "公众聚集场所（展览馆）", "公众聚集场所（公园）", "公众聚集场所（其它）", "住宅"],
+            "DOOR_OPEN_TYPE": ["中分门", "旁开门", "中分双折", "旁开双折"],
+            "_bookmarks": [
+                {
+                    "title": "封面",
+                    "page": 0
+                },
+                {
+                    "title": "设备概况",
+                    "page": 1
+                },
+                {
+                    "title": "主要测量设备",
+                    "page": 3
+                },
+                {
+                    "title": "检验记录",
+                    "page": 4
+                },
+                {
+                    "title": "不合格记录",
+                    "page": 11
+                },
+                {
+                    "title": "结论及备注",
+                    "page": 13
+                },
+                {
+                    "title": "观测数据",
+                    "page": 14
+                },
+                {
+                    "title": "附录A",
+                    "page": 15
+                },
+                {
+                    "title": "附录B",
+                    "page": 16
+                }
+            ],
+            "page_use": [
+                {
+                    "pagename": "firstpage",
+                    "pageindex": "0"
+                },
+                {
+                    "pagename": "sourcepage",
+                    "pageindex": "0,1,2"
+                },
+                {
+                    "pagename": "mersurepage",
+                    "pageindex": "3"
+                },
+                {
+                    "pagename": "jyjlpage",
+                    "pageindex": "4,5,6,7,8,9,10"
+                },
+                {
+                    "pagename": "resultpage",
+                    "pageindex": "13"
+                },
+                {
+                    "pagename": "gcsjpage",
+                    "pageindex": "14"
+                },
+                {
+                    "pagename": "bhgpage",
+                    "pageindex": "11,12"
+                },
+                {
+                    "pagename": "flpage",
+                    "pageindex": "15,16"
+                },
+                {
+                    "pagename": "lastpage",
+                    "pageindex": "16"
+                }
+            ],
+            "_select": {
+                "√": "符合",
+                "▽": "资料确认符合",
+                "／": "无此项",
+                "×": "不符合",
+                "△": "无法检测"
+            },
+            "copyfield": "MGE_DEPT_TYPE_NAME,INST_BUILD_TYPE,USE_POST_COD,MANG_UNT_PHONE,USE_MOBILE,USE_LKMEN,USE_PHONE,USE_UNT_FOX,USE_UNT_ADDR,SECUORSAFE_DEPT_NAME,SECUDEPT_ADDR,BUILD_ADDR,MANT_PHONE,MANT_UNT_NAME,USE_UNT_ORGCOD,COR_DATE,COR_NOTES,APL_SENDLNKMAN,APL_SENDLNKPHONE,APL_SENDLNKMOBILE,APL_SENDADDR,BUILD_NAME,USE_UNT_NAME,PROP_UNT_NAME",
+            "nocopyfield": "EQP_STATION_COD,EQP_USECERT_COD,EQP_NAME,EQP_VART_NAME,EQP_SORT_NAME,EQP_AREA_NAME,MAKE_UNT_NAME,EQP_REG_COD,EQP_INNER_COD,MAKE_DATE,EQP_USE_ADDR,cl1,cl2,cl3,cl4,DOOR_OPEN_DIRCT,OIL_TYPE,LOCK_TYPE,PUMP_SPEED,IF_SCANMOBILE,LIMIT_MAKE_UNT,WORK_LEVL,BUFFER_MAKE_UNT,PREVENT_SETTLEMENT,FB_MACHINEFLAG,FB_SUBSTANCE,FB_AREALEVEL,FB_HGCOD,IF_EXPLOSIVE,IF_ADDDEVICE,BUFFERSTYLE,FLOORDOORTYPE,CAR_PROTECT_TYPE,CAR_PROTECT_COD,CAR_DECORATE_STA,UP_PROTECT_MODE,UP_PROTECT_MODEANDTYPE,SLIDWAY_USE_LENG,MAINSTRFORM,MANAGEMODE,RUNVELOCITY,RATEDLOAD,ELEFLOOR,ELEHEIGHT,TRACANGTYPE,TRACANGLEAFACNUMBER,CONSCRTYPE,CONTSCRCODE,RESTSPEEDTYPE,RESTSPLEAFACNUMBER,LADINCANGLE,RUNDLEBREADTH,ELEWALKDISTANCE,ELESTADENUMBER,ELEFLOORNUMBER,ELEDOORNUMBER,SAFECLAMNUM,SAFECLAMTYPE,COMPENTYPE,BOTTOMDEPTH,RATINGCURRENT,RATINGVOLTAGE,TOPHEIGHT,COUNORBTYPE,COUNTERAMOUNT,RUNMETHOD,BUFFERNUMBER,BUFFERTYPE,ELECTROPOWER,DESIGNCRITERION,MANUFACTURECRITERION,ELEC_STYLE,ELEC_TYPE,ELEC_COD,ELEC_REV,BUFFER_MODE,IF_SHIP,IF_CAR,IF_UNNORMAL,DRAG_NUM,DRAG_DIA,DRAG_PITCH_DIA,DRAG_PROPOR,V_PROPOR,DOOR_OPEN_TYPE,DRAG_MODE,CONTROL_TYPE,LIMIT_ROP_DIA,CAR_UPLIMIT_EV,CAR_UPLIMIT_MV,CAR_DOWNLIMIT_EV,CAR_DOWNLIMIT_MV,COUP_LIMIT_TYPE,COUP_LIMIT_COD,UP_PROTECT_TYPE,UP_PROTECT_COD,CAR_ORB_DIST,COUP_ORB_DIST,COUP_NUM,RATED_CURRENT,RATED_PEOPLE,IF_PUB_TRAN,DIP_ANGLE,NOMI_WIDTH,WIRE_ROP_NUM,WIRE_ROP_DIA,CYLINDER_NUM,CYLINDER_STYLE,PUMP_TYPE,PUMP_COD,PUMP_FLUX,PUMP_POWER,LIMIT_MV,UP_RATED_V,DOWN_RATED_V,TOP_PATTERNS,SAFE_DOOR,CAR_HIGH,CAR_WIDTH,CAR_DEEP,DRIV_APPROACH",
+            "othersource": "3.16.5_GCRES0,3.16.5_CLRES0",
+            "input_num": ["ELEFLOORNUMBER", "ELESTADENUMBER", "GCRES", "CLRES", "FLB_A", "FLE_RES", "AIR_TEMP", "V_FLOAT"],
+            "mutilselect": [
+                {
+                    "memo": ["本报告为复检报告，本次复检仅对上次不合格报告的不合格项进行复检，其余项目单项结论引用上次不合格报告中相对应项目的结论", "电梯超出上一周期检验报告里的下次检验日期后，电梯应停止使用。"]
+                }
+            ],
+            "copy_page": [
+                {
+                    "page_Name": "附录A",
+                    "page_Index": 15,
+                    "first_Name": "FLA_",
+                    "min_secName": "A",
+                    "max_secName": "H",
+                    "min_rows": 0,
+                    "max_rows": 15,
+                    "auto": false
+                }
+            ],
+            "copy_fields": [
+                {
+                    "copy_from": "USE_LKMEN",
+                    "copy_to": "APL_SENDLNKMAN"
+                },
+                {
+                    "copy_from": "MANG_UNT_PHONE",
+                    "copy_to": "APL_SENDLNKPHONE"
+                },
+                {
+                    "copy_from": "USE_MOBILE",
+                    "copy_to": "APL_SENDLNKMOBILE"
+                },
+                {
+                    "copy_from": "USE_UNT_ADDR",
+                    "copy_to": "APL_SENDADDR"
+                },
+                {
+                    "copy_from": "E2.1.3",
+                    "copy_to": "2.1.3"
+                },
+                {
+                    "copy_from": "E2.11.1",
+                    "copy_to": "2.11.1"
+                },
+                {
+                    "copy_from": "E3.15.5",
+                    "copy_to": "3.15.5"
+                },
+                {
+                    "copy_from": "E4.9.1",
+                    "copy_to": "4.9.1"
+                },
+                {
+                    "copy_from": "E5.1.2",
+                    "copy_to": "5.1.2"
+                },
+                {
+                    "copy_from": "E5.1.3",
+                    "copy_to": "5.1.3"
+                }
+            ],
+            "xiuyue_fields": [
+                {
+                    "copy_from": "2.1.1_GCRES0",
+                    "copy_to": "2.1.1_CLRES0",
+                    "rule": "Round",
+                    "accuracy": -2
+                },
+                {
+                    "copy_from": "2.1.1_GCRES1",
+                    "copy_to": "2.1.1_CLRES1",
+                    "rule": "Round",
+                    "accuracy": 0
+                },
+                {
+                    "copy_from": "2.1.3_GCRES0",
+                    "copy_to": "2.1.3_CLRES0",
+                    "rule": "Round",
+                    "accuracy": -2
+                },
+                {
+                    "copy_from": "2.1.3_GCRES1",
+                    "copy_to": "2.1.3_CLRES1",
+                    "rule": "Round",
+                    "accuracy": -2
+                },
+                {
+                    "copy_from": "3.7.1_GCRES0",
+                    "copy_to": "3.7.1_CLRES0",
+                    "rule": "Round",
+                    "accuracy": -2
+                },
+                {
+                    "copy_from": "3.15.5_GCRES0",
+                    "copy_to": "3.15.5_CLRES0",
+                    "rule": "Round",
+                    "accuracy": 0
+                },
+                {
+                    "copy_from": "3.15.5_GCRES1",
+                    "copy_to": "3.15.5_CLRES1",
+                    "rule": "Round",
+                    "accuracy": 0
+                },
+                {
+                    "copy_from": "4.9.1_GCRES0",
+                    "copy_to": "4.9.1_CLRES0",
+                    "rule": "Round",
+                    "accuracy": -2
+                },
+                {
+                    "copy_from": "5.1.2_GCRES0",
+                    "copy_to": "5.1.2_CLRES0",
+                    "rule": "copy",
+                    "accuracy": 0
+                },
+                {
+                    "copy_from": "5.1.3_GCRES0",
+                    "copy_to": "5.1.3_CLRES0",
+                    "rule": "copy",
+                    "accuracy": 0
+                },
+                {
+                    "copy_from": "5.1.3_GCRES1",
+                    "copy_to": "5.1.3_CLRES1",
+                    "rule": "copy",
+                    "accuracy": 0
+                }
+            ],
+            "Rlevel": [
+                {
+                    "result": "×",
+                    "level": 0,
+                    "conclude": "×"
+                },
+                {
+                    "result": "△",
+                    "level": 1,
+                    "conclude": "△"
+                },
+                {
+                    "result": "√",
+                    "level": 2,
+                    "conclude": "√"
+                },
+                {
+                    "result": "▽",
+                    "level": 3,
+                    "conclude": "▽"
+                },
+                {
+                    "result": "／",
+                    "level": 4,
+                    "conclude": "／"
+                }
+            ],
+            "hasdataR": "1",
+            "Rguanlian_fields": [
+                {
+                    "left": "1.4.1,1.4.2,1.4.3,1.4.4,1.4.5",
+                    "right": "R1.4"
+                },
+                {
+                    "left": "2.1.1,2.1.2,2.1.3",
+                    "right": "R2.1"
+                },
+                {
+                    "left": "2.5.1",
+                    "right": "R2.5"
+                },
+                {
+                    "left": "2.6.2",
+                    "right": "R2.6"
+                },
+                {
+                    "left": "2.7.2,2.7.3,2.7.4,2.7.5",
+                    "right": "R2.7"
+                },
+                {
+                    "left": "2.8.2,2.8.4,2.8.6,2.8.7,2.8.8,2.8.9",
+                    "right": "R2.8"
+                },
+                {
+                    "left": "2.9.2,2.9.3,2.9.4",
+                    "right": "R2.9"
+                },
+                {
+                    "left": "2.10.2",
+                    "right": "R2.10"
+                },
+                {
+                    "left": "2.11.1",
+                    "right": "R2.11"
+                },
+                {
+                    "left": "3.4.3,3.4.4",
+                    "right": "R3.4"
+                },
+                {
+                    "left": "3.5.3,3.5.4",
+                    "right": "R3.5"
+                },
+                {
+                    "left": "3.7.1",
+                    "right": "R3.7"
+                },
+                {
+                    "left": "3.10.1",
+                    "right": "R3.10"
+                },
+                {
+                    "left": "3.11.1",
+                    "right": "R3.11"
+                },
+                {
+                    "left": "3.12.1,3.12.3",
+                    "right": "R3.12"
+                },
+                {
+                    "left": "3.14.2",
+                    "right": "R3.14"
+                },
+                {
+                    "left": "3.15.3,3.15.4,3.15.5",
+                    "right": "R3.15"
+                },
+                {
+                    "left": "4.1.1,4.1.2",
+                    "right": "R4.1"
+                },
+                {
+                    "left": "4.3.3",
+                    "right": "R4.3"
+                },
+                {
+                    "left": "4.5.1,4.5.2",
+                    "right": "R4.5"
+                },
+                {
+                    "left": "4.6.2",
+                    "right": "R4.6"
+                },
+                {
+                    "left": "4.8.1,4.8.2",
+                    "right": "R4.8"
+                },
+                {
+                    "left": "4.9.1",
+                    "right": "R4.9"
+                },
+                {
+                    "left": "4.10.1",
+                    "right": "R4.10"
+                },
+                {
+                    "left": "5.1.1",
+                    "right": "R5.1"
+                },
+                {
+                    "left": "5.2.1",
+                    "right": "R5.2"
+                },
+                {
+                    "left": "5.3.1,5.3.2,5.3.3",
+                    "right": "R5.3"
+                },
+                {
+                    "left": "5.5.1",
+                    "right": "R5.5"
+                },
+                {
+                    "left": "5.6.1",
+                    "right": "R5.6"
+                },
+                {
+                    "left": "6.3.1,6.3.2",
+                    "right": "R6.3"
+                },
+                {
+                    "left": "6.4.1",
+                    "right": "R6.4"
+                },
+                {
+                    "left": "6.5.1",
+                    "right": "R6.5"
+                },
+                {
+                    "left": "6.6.1",
+                    "right": "R6.6"
+                },
+                {
+                    "left": "6.7.1",
+                    "right": "R6.7"
+                },
+                {
+                    "left": "6.8.1",
+                    "right": "R6.8"
+                },
+                {
+                    "left": "6.9.1,6.9.2",
+                    "right": "R6.9"
+                },
+                {
+                    "left": "6.10.1,6.10.2",
+                    "right": "R6.10"
+                },
+                {
+                    "left": "6.11.1,6.11.2",
+                    "right": "R6.11"
+                },
+                {
+                    "left": "6.12.1",
+                    "right": "R6.12"
+                },
+                {
+                    "left": "8.1.1",
+                    "right": "R8.1"
+                },
+                {
+                    "left": "8.2.1",
+                    "right": "R8.2"
+                },
+                {
+                    "left": "8.3.1,8.3.2",
+                    "right": "R8.3"
+                },
+                {
+                    "left": "8.4.2",
+                    "right": "R8.4"
+                },
+                {
+                    "left": "8.5.1",
+                    "right": "R8.5"
+                },
+                {
+                    "left": "8.6.1",
+                    "right": "R8.6"
+                },
+                {
+                    "left": "8.7.1,8.7.2,8.7.3",
+                    "right": "R8.7"
+                },
+                {
+                    "left": "8.9.1",
+                    "right": "R8.9"
+                },
+                {
+                    "left": "8.10.1",
+                    "right": "R8.10"
+                },
+                {
+                    "left": "8.11.1",
+                    "right": "R8.11"
+                },
+                {
+                    "left": "8.12.1",
+                    "right": "R8.12"
+                },
+                {
+                    "left": "8.13.1",
+                    "right": "R8.13"
+                }
+            ],
+            "guanlian_fields": [
+                {
+                    "copy_from": "BUFFER_MODE",
+                    "from_rule": "=",
+                    "from_value": "液压",
+                    "copy_to": "3.15.4",
+                    "to_value": "√"
+                },
+                {
+                    "copy_from": "BUFFER_MODE",
+                    "from_rule": "<>",
+                    "from_value": "液压",
+                    "copy_to": "3.15.4",
+                    "to_value": "／"
+                },
+                {
+                    "copy_from": "ALL",
+                    "from_rule": "=",
+                    "from_value": "▽",
+                    "copy_to": "DALL",
+                    "to_value": "见证资料为《电梯年度自行检查报告》"
+                },
+                {
+                    "copy_from": "ALL",
+                    "from_rule": "<>",
+                    "from_value": "▽",
+                    "copy_to": "DALL",
+                    "to_value": ""
+                },
+                {
+                    "copy_from": "2.9.4",
+                    "from_rule": "=",
+                    "from_value": "▽",
+                    "copy_to": "D2.9.4",
+                    "to_value": "见证资料为《限速器动作速度校验报告》"
+                },
+                {
+                    "copy_from": "2.9.4",
+                    "from_rule": "=",
+                    "from_value": "／",
+                    "copy_to": "D2.9.4",
+                    "to_value": ""
+                }
+            ],
+            "result_item": [
+                {
+                    "dataitem": "3.7.1",
+                    "ispercent": 0,
+                    "datavalue": [
+                        {
+                            "gcres": "3.7.1_GCRES0",
+                            "clres": "3.7.1_CLRES0"
+                        }
+                    ]
+                },
+                {
+                    "dataitem": "3.15.5",
+                    "ispercent": 0,
+                    "datavalue": [
+                        {
+                            "gcres": "3.15.5_GCRES0",
+                            "clres": "3.15.5_CLRES0"
+                        },
+                        {
+                            "gcres": "3.15.5_GCRES1",
+                            "clres": "3.15.5_CLRES1"
+                        }
+                    ]
+                }
+            ],
+            "default_select_cfg": [
+                {
+                    "sel_field": "BUFFER_MODE",
+                    "sel_result": [
+                        {
+                            "select_ope": "=",
+                            "select_value": "液压",
+                            "select_result": [
+                                {
+                                    "item": "3.15.4",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_ope": "<>",
+                            "select_value": "液压",
+                            "select_result": [
+                                {
+                                    "item": "3.15.4",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sbgk_kj_cfg": [
+                {
+                    "cnname": "安全管理人员",
+                    "fieldname": "USE_LKMEN",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "联系电话1",
+                    "fieldname": "USE_PHONE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "管理单位电话",
+                    "fieldname": "MANG_UNT_PHONE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "联系人手机",
+                    "fieldname": "USE_MOBILE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "分支机构/安管部门",
+                    "fieldname": "SECUORSAFE_DEPT_NAME",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "分支机构地址",
+                    "fieldname": "SECUDEPT_ADDR",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "维保电话",
+                    "fieldname": "MANT_PHONE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "维保单位",
+                    "fieldname": "MANT_UNT_NAME",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "整改反馈确认期限",
+                    "fieldname": "COR_DATE",
+                    "fieldtype": "date"
+                },
+                {
+                    "cnname": "检验意见通知书编号",
+                    "fieldname": "COR_NOTES",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "检验报告接收人",
+                    "fieldname": "APL_SENDLNKMAN",
+                    "fieldtype": "text"
+                },
+                {
+                    "cnname": "接收人电话",
+                    "fieldname": "APL_SENDLNKPHONE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "接收人手机",
+                    "fieldname": "APL_SENDLNKMOBILE",
+                    "fieldtype": "number"
+                },
+                {
+                    "cnname": "接收人地址",
+                    "fieldname": "APL_SENDADDR",
+                    "fieldtype": "text"
+                }
+            ],
+            "jyjl_kj_cfg": "2.8.4,2.8.6,2.8.7,2.8.8,2.8.9,2.9.4,2.11.1,3.4.3,3.4.4,3.5.3,3.5.4,3.15.4,4.3.3,4.6.2,5.3.1,5.3.2,5.3.3,5.5.1,6.4.1,6.9.2,6.11.1,6.11.2,8.2.1,8.3.1,8.3.2,8.5.1,8.11.1,8.12.1,8.13.1",
+            "default_cfg_main": {
+                "panel": [
+                    {
+                        "panelname": "机房",
+                        "panelid": "jf",
+                        "width": 400,
+                        "height": 150,
+                        "left": 0,
+                        "top": 105
+                    },
+                    {
+                        "panelname": "井道常用到项目",
+                        "panelid": "jdcy",
+                        "width": 400,
+                        "height": 150,
+                        "left": 420,
+                        "top": 105
+                    },
+                    {
+                        "panelname": "井道不常用到项目",
+                        "panelid": "jdbcy",
+                        "width": 400,
+                        "height": 150,
+                        "left": 0,
+                        "top": 255
+                    },
+                    {
+                        "panelname": "其他",
+                        "panelid": "bcy",
+                        "width": 400,
+                        "height": 150,
+                        "left": 420,
+                        "top": 255
+                    }
+                ]
+            },
+            "default_cfg": [
+                {
+                    "show_name": "液压缓冲器",
+                    "show_type": "radio",
+                    "pinto": "jf",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "3.15.4",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "3.15.4",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "机房高台",
+                    "show_type": "radio",
+                    "pinto": "jf",
+                    "show_value": ["是", "否"],
+                    "def_value": "是",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "2.3.3",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "2.3.3",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "对重安全钳",
+                    "show_type": "radio",
+                    "pinto": "jf",
+                    "show_value": ["是", "否"],
+                    "def_value": "是",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "8.5.1",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "8.5.1",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "补偿链",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "pinto": "jdcy",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "5.3.1",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "5.3.1",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "井道安全门",
+                    "show_posit": "left",
+                    "pinto": "jdcy",
+                    "show_type": "radio",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "3.4.3",
+                                    "value": "√"
+                                },
+                                {
+                                    "item": "3.4.4",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "3.4.3",
+                                    "value": "／"
+                                },
+                                {
+                                    "item": "3.4.4",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "井道检修门",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "pinto": "jdbcy",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "3.5.3",
+                                    "value": "√"
+                                },
+                                {
+                                    "item": "3.5.4",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "3.5.3",
+                                    "value": "／"
+                                },
+                                {
+                                    "item": "3.5.4",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "轿厢安全窗",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "pinto": "jdbcy",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "4.3.3",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "4.3.3",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "玻璃门",
+                    "pinto": "bcy",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "6.3.1",
+                                    "value": "√"
+                                },
+                                {
+                                    "item": "6.3.2",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "6.3.1",
+                                    "value": "√"
+                                },
+                                {
+                                    "item": "6.3.2",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "补偿装置防跳",
+                    "pinto": "bcy",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "5.3.2",
+                                    "value": "√"
+                                },
+                                {
+                                    "item": "5.3.3",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "5.3.2",
+                                    "value": "／"
+                                },
+                                {
+                                    "item": "5.3.3",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "show_name": "货梯超面积",
+                    "show_posit": "left",
+                    "show_type": "radio",
+                    "pinto": "bcy",
+                    "show_value": ["是", "否"],
+                    "def_value": "否",
+                    "def_result": [
+                        {
+                            "select_value": "是",
+                            "select_result": [
+                                {
+                                    "item": "4.6.2",
+                                    "value": "√"
+                                }
+                            ]
+                        },
+                        {
+                            "select_value": "否",
+                            "select_result": [
+                                {
+                                    "item": "4.6.2",
+                                    "value": "／"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

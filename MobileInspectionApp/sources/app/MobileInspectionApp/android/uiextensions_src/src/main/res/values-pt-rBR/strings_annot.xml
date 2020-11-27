@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_string_copy">Copiar</string>
+    <string name="fx_string_reply">Responder</string>
+	<string name="fx_string_comment">Comentar</string>
+    <string name="fx_string_flatten">Achatar</string>
+	<string name="fx_string_color">Cor</string>
+    <string name="fx_string_opacity">Opacidade</string>
+    <string name="fx_string_rotation">Rotação</string>
+    <string name="fx_string_linewidth">Espessura</string>
+	<string name="fx_string_edit">Editar</string>
+    <string name="fx_string_open">Abrir</string>
+    <string name="fx_string_rename">Renomear</string>
+    <string name="fx_string_unit">Unidade</string>
+    <string name="fx_string_redaction">Redação</string>
+    <string name="fx_string_apply">Aplicar</string>
+    <string name="fx_string_warning">Alerta</string>
+
+	<!--annotation text  -->
+    <string name="annot_text_comment">Comentar</string>
+    <string name="annot_text_key">Chave</string>
+    <string name="annot_text_note">Nota</string>
+    <string name="annot_text_help">Ajuda</string>
+    <string name="annot_text_newparagraph">Novo Parágrafo</string>
+    <string name="annot_text_paragraph">Parágrafo</string>
+    <string name="annot_text_insert">Inserir</string>
+
+    <!--FileAttachment-->
+    <string name="annot_fat_icontext_graph">Gráfico</string>
+    <string name="annot_fat_icontext_paperclip">Clipe de papel</string>
+    <string name="annot_fat_icontext_pushpin">Pino</string>
+    <string name="annot_fat_icontext_tag">Etiqueta</string>
+    <string name="annot_fat_filesizelimit_meg">
+        Este comentário é muito grande para ser anexado. O tamanho máximo é %1$d MB.
+    </string>
+
+    <!--Annot menu-->
+    <string name="rd_am_item_copy_text">Copiar texto</string>
+    <string name="fx_string_highlight">Destacar</string>
+    <string name="fx_string_underline">Sublinhado</string>
+    <string name="fx_string_strikeout">Riscado</string>
+    <string name="fx_string_squiggly">Ondulado</string>
+    <string name="fx_string_signature">Assinar</string>
+    <string name="fx_am_style">Aparência</string>
+    <string name="fx_distance">Distância</string>
+    <string name="fx_string_note">Nota</string>
+    <string name="fx_string_oval">Oval</string>
+    <string name="fx_string_rectangle">Retângulo</string>
+    <string name="fx_string_insert_text">Inserir Texto</string>
+    <string name="fx_string_replace_text">Substituir Texto</string>
+    <string name="fx_string_eraser">Borracha</string>
+    <string name="fx_string_pencil">Lápis</string>
+    <string name="fx_string_arrow">Seta</string>
+    <string name="fx_string_line">Linha</string>
+    <string name="fx_string_fileattachment">Anexo</string>
+
+    <string name="hm_clear">Limpar</string>
+    <string name="cloud_delete_tv">Excluir</string>
+    <string name="rd_comment_reply_list">Comentários</string>
+    <string name="rv_panel_annot_delete_tips">Tem certeza de que deseja excluir os comentários e as respostas relacionadas?</string>
+    <string name="rd_panel_clear_comment">Tem certeza de que deseja limpar todos os comentários?</string>
+
+    <string name="fx_distance_unit">Proporção  de Dimensão:</string>
+    <string name="fx_string_border_style">Estilo da Borda</string>
+
+    <!-- InsertText and ReplaceText-->
+    <string name="fx_string_inserttext">Inserir Texto</string>
+    <string name="fx_string_replacetext">Substituir Texto</string>
+    <string name="rd_pb_scale">Dimensionar em relação à página de destino</string>
+
+    <string name="annot_continue_create">Manter ferramenta selecionada</string>
+    <string name="annot_single_create">Único comentário</string>
+    <string name="mt_text_markup">Marcação de Texto</string>
+    <string name="mt_drawing">Desenho</string>
+    <string name="mt_others">Outros</string>
+    <string name="annot_link_alert_title">Informações</string>
+    <string name="annot_link_alert_prompt">Arquivo não encontrado. Verifique se o arquivo foi movido, renomeado ou excluído.</string>
+
+    <!-- Freetext -->
+    <string name="annot_tool_display_name_typewrite">Máquina de escrever</string>
+    <string name="annot_tool_display_name_callout">Balão de comentário</string>
+    <string name="annot_tool_display_name_textbox">Caixa de texto</string>
+    <string name="fx_string_font">Fonte</string>
+    <string name="fx_string_fontsize">Tam.Fonte</string>
+    <!-- Font name -->
+    <string name="fx_font_courier">Courier</string>
+    <string name="fx_font_helvetica">Helvetica</string>
+    <string name="fx_font_times">Times</string>
+
+    <!--stamp-->
+    <string name="annot_tool_display_name_stamp">Carimbo</string>
+    <string name="annot_stamp_standard">Carimbos Padrão</string>
+    <string name="annot_stamp_signhere">Assinar Aqui</string>
+    <string name="annot_stamp_dynamic">Carimbos Dinâmicos</string>
+
+    <!--Screen annot-->
+    <string name="screen_annot_image">Imagem</string>
+    <string name="screen_annot_audio">Áudio</string>
+    <string name="screen_annot_video">Vídeo</string>
+    <string name="pb_rotation_0">0&#176;</string>
+    <string name="pb_rotation_90">90&#176;</string>
+    <string name="pb_rotation_180">180&#176;</string>
+    <string name="pb_rotation_270">270&#176;</string>
+
+    <string name="recording_audio">Gravar áudio</string>
+    <string name="audio_start">Iniciar</string>
+
+    <string name="recording_video">Gravação de vídeo</string>
+    <string name="remake_video">Refazer</string>
+
+    <string name="multimedia_play">Reproduzir</string>
+    <string name="fx_permission_denied">Permissão negada</string>
+
+    <string name="multimedia_type_not_support">O formato para o arquivo de mídia selecionado não é suportado.</string>
+    <string name="the_sdcard_not_exist">Não há arquivos; verifique o cartão SD</string>
+    <string name="record_failed">Gravação de vídeo/áudio falhou.</string>
+
+    <!--Polygon-->
+    <string name="fx_string_polygon">Polígono</string>
+    <string name="fx_string_polygon_cloud">Nuvem</string>
+    <string name="fx_string_polyLine">Polilinha</string>
+    <string name="add_polygon_failed_hints">Uma anotação de polígono deve exigir pelo menos 3 pontos como vértices</string>
+    <string name="add_cloud_failed_hints">Uma anotação de nuvem de polígono deve exigir pelo menos 3 pontos como vértices</string>
+    <string name="add_polyline_failed_hints">Uma anotação de polilinha deve exigir pelo menos 2 pontos como vértices</string>
+
+    <!--Annot action callback-->
+    <string name="unsupported_to_submit_form_tip">Não suportado para enviar o formulário agora.</string>
+    <string name="action_alert_msg">Alerta&#8230;%1$s</string>
+
+    <!-- Select multiple annotations-->
+    <string name="fx_string_multi_select">Multiseleção</string>
+
+    <!-- Redact -->
+    <string name="fx_string_overlay_title">Texto</string>
+    <string name="fx_string_overlay_hint">Digite o texto</string>
+    <string name="fx_string_apply_all">Aplique toda a redação</string>
+    <string name="fx_string_redact_apply_toast">Você está prestes a redigir de forma permanente no conteúdo marcado e essa operação não pode ser desfeita. Tem certeza de que deseja continuar?</string>
+</resources>

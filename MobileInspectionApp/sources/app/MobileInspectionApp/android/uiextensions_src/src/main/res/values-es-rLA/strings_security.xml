@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Información del certificado</string>
+    <string name="rv_security_information_certlist_serialnumber">Número de serie</string>
+    <string name="rv_security_information_certlist_publisher">Emitido por</string>
+    <string name="rv_security_information_certlist_startdate">Válido desde</string>
+    <string name="rv_security_information_certlist_expiringdate">Válido hasta</string>
+    <string name="rv_security_information_certlist_email">Dirección de email</string>
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Quitar seguridad</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Contraseña</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Contraseña invalida. Inténtelo de nuevo.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Escriba una contraseña para abrir este documento.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">¿Está seguro de que desea eliminar la seguridad de este documento?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Opciones de seguridad</string>
+    <string name="rv_doc_encrpty_standard_openfile">Abrir documento</string>
+    <string name="rv_doc_encrpty_standard_password">Contraseña:</string>
+    <string name="rv_doc_encrpty_standard_must_input">Requerido</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Agregar restricciones de documentos</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-Cuando \"Abrir documento\" está activado, se requiere una contraseña para abrir el documento.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-Cuando \"Restricciones de documentos\" está activado, se necesita una contraseña para quitar la protección, y puede optar por no permitir determinadas funciones de este documento.</string>
+    <string name="rv_doc_encrpty_standard_same_password">La contraseña para abrir el documento y la contraseña del propietario no pueden ser iguales. Introduzca una contraseña diferente, ya sea en el campo Contraseña para abrir documento o el campo Contraseña del propietario.</string><!-- Security PublicKey -->
+
+
+    <string name="rv_encrypt_dialog_title">Encriptación</string>
+    <string name="rv_encrypt_dialog_description">Después de encriptar, la encriptación y todos los cambios aplicados anteriormente se guardarán en el archivo de forma automática.</string>
+
+    <string name="rv_decrypt_dialog_title">Desencriptación</string>
+    <string name="rv_decrypt_dialog_description">Después de desencriptar, la desencriptación y todos los cambios aplicados anteriormente se guardarán automáticamente en el archivo.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Confianza</string>
+    <string name="rv_view_certificate_info">Ver certificado</string>
+    <string name="rv_remove_trust_certificate_prompt">Seguro que quieres eliminar este certificado?\n Ya no podrá verificar la identidad del propietario si lo hace</string>
+    <string name="rv_security_information_certlist_usage">Uso</string>
+    <string name="rv_add_trust_certificate_prompt">Si cambió la configuración de confianza, necesitará volver a validar las firmas para ver los cambios. Generalmente se desaconseja confiar en certificados directamente desde un documento. ¿Confirma que desea continuar?</string>
+</resources>

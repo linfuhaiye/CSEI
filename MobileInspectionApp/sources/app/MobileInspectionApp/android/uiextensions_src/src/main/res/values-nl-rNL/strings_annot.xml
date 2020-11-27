@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_string_copy">Kopiëren</string>
+    <string name="fx_string_reply">Antwoord</string>
+	<string name="fx_string_comment">Opmerking</string>
+    <string name="fx_string_flatten">Afvlakken</string>
+	<string name="fx_string_color">Kleur</string>
+    <string name="fx_string_opacity">Transparantie</string>
+    <string name="fx_string_rotation">Draaihoek</string>
+    <string name="fx_string_linewidth">Dikte</string>
+	<string name="fx_string_edit">Bewerken</string>
+    <string name="fx_string_open">Openen</string>
+    <string name="fx_string_rename">Naam wijzigen</string>
+    <string name="fx_string_unit">Eenheid</string>
+    <string name="fx_string_redaction">Redactie</string>
+    <string name="fx_string_apply">Toepassen</string>
+    <string name="fx_string_warning">Waarschuwing</string>
+
+	<!--annotation text  -->
+    <string name="annot_text_comment">Opmerking</string>
+    <string name="annot_text_key">Sleutel</string>
+    <string name="annot_text_note">Noteren</string>
+    <string name="annot_text_help">Help</string>
+    <string name="annot_text_newparagraph">Nieuwe paragraaf</string>
+    <string name="annot_text_paragraph">Paragraaf</string>
+    <string name="annot_text_insert">Invoegen</string>
+
+    <!--FileAttachment-->
+    <string name="annot_fat_icontext_graph">Grafiek</string>
+    <string name="annot_fat_icontext_paperclip">Paperclip</string>
+    <string name="annot_fat_icontext_pushpin">Punaise</string>
+    <string name="annot_fat_icontext_tag">Tag</string>
+    <string name="annot_fat_filesizelimit_meg">
+        Deze opmerking is te groot om te worden bijgevoegd. De maximale grootte is %1$dMB.
+    </string>
+
+    <!--Annot menu-->
+    <string name="rd_am_item_copy_text">Tekst kopiëren</string>
+    <string name="fx_string_highlight">Markeren</string>
+    <string name="fx_string_underline">Onderstrepen</string>
+    <string name="fx_string_strikeout">Doorhalen</string>
+    <string name="fx_string_squiggly">Kronkelend</string>
+    <string name="fx_string_signature">Ondertekenen</string>
+    <string name="fx_am_style">Vormgeving</string>
+    <string name="fx_distance">Afstand</string>
+    <string name="fx_string_note">Noteren</string>
+    <string name="fx_string_oval">Ovaal</string>
+    <string name="fx_string_rectangle">Rechthoek</string>
+    <string name="fx_string_insert_text">Tekst invoegen</string>
+    <string name="fx_string_replace_text">Tekst vervangen</string>
+    <string name="fx_string_eraser">Gum</string>
+    <string name="fx_string_pencil">Potlood</string>
+    <string name="fx_string_arrow">Pijl</string>
+    <string name="fx_string_line">Regel</string>
+    <string name="fx_string_fileattachment">Bijlage</string>
+
+    <string name="hm_clear">Wissen</string>
+    <string name="cloud_delete_tv">Verwijderen</string>
+    <string name="rd_comment_reply_list">Opmerkingen</string>
+    <string name="rv_panel_annot_delete_tips">Weet u zeker dat u de opmerking(en) en de bijbehorende antwoorden wilt verwijderen?</string>
+    <string name="rd_panel_clear_comment">Weet u zeker dat u alle opmerkingen wilt wissen?</string>
+
+    <string name="fx_distance_unit">Schaalverhouding:</string>
+    <string name="fx_string_border_style">Randstijl</string>
+
+    <!-- InsertText and ReplaceText-->
+    <string name="fx_string_inserttext">Tekst invoegen</string>
+    <string name="fx_string_replacetext">Tekst vervangen</string>
+    <string name="rd_pb_scale">Schaal aanpassen aan doelpagina</string>
+
+    <string name="annot_continue_create">Tool blijven selecteren</string>
+    <string name="annot_single_create">Eén opmerking</string>
+    <string name="mt_text_markup">Tekstopmaak</string>
+    <string name="mt_drawing">Tekenen</string>
+    <string name="mt_others">Overige</string>
+    <string name="annot_link_alert_title">Informatie</string>
+    <string name="annot_link_alert_prompt">Bestand niet gevonden. Controleer of het bestand is verplaatst, hernoemd of verwijderd.</string>
+
+    <!-- Freetext -->
+    <string name="annot_tool_display_name_typewrite">Schrijfmachine</string>
+    <string name="annot_tool_display_name_callout">Bijschrift</string>
+    <string name="annot_tool_display_name_textbox">Tekstvak</string>
+    <string name="fx_string_font">Lettertype</string>
+    <string name="fx_string_fontsize">Lettergrootte</string>
+    <!-- Font name -->
+    <string name="fx_font_courier">Courier</string>
+    <string name="fx_font_helvetica">Helvetica</string>
+    <string name="fx_font_times">Times</string>
+
+    <!--stamp-->
+    <string name="annot_tool_display_name_stamp">Stempel</string>
+    <string name="annot_stamp_standard">Standaardstempels</string>
+    <string name="annot_stamp_signhere">Hier ondertekenen</string>
+    <string name="annot_stamp_dynamic">Dynamische stempels</string>
+
+    <!--Screen annot-->
+    <string name="screen_annot_image">Afbeelding</string>
+    <string name="screen_annot_audio">Audio</string>
+    <string name="screen_annot_video">Video</string>
+    <string name="pb_rotation_0">0&#176;</string>
+    <string name="pb_rotation_90">90&#176;</string>
+    <string name="pb_rotation_180">180&#176;</string>
+    <string name="pb_rotation_270">270&#176;</string>
+
+    <string name="recording_audio">Audio opnemen</string>
+    <string name="audio_start">Starten</string>
+
+    <string name="recording_video">Video opnemen</string>
+    <string name="remake_video">Remake</string>
+
+    <string name="multimedia_play">Afspelen</string>
+    <string name="fx_permission_denied">Machtiging geweigerd</string>
+
+    <string name="multimedia_type_not_support">De indeling van het door u geselecteerde bestand wordt niet ondersteund.</string>
+    <string name="the_sdcard_not_exist">Bestand bestaat niet, controleer uw SD-kaart.</string>
+    <string name="record_failed">Record mislukt.</string>
+
+    <!--Polygon-->
+    <string name="fx_string_polygon">Veelhoek</string>
+    <string name="fx_string_polygon_cloud">Cloud</string>
+    <string name="fx_string_polyLine">Meervoudige lijn</string>
+    <string name="add_polygon_failed_hints">Voor een annotatie van veelhoeken zijn ten minste 3 punten nodig als hoekpunten</string>
+    <string name="add_cloud_failed_hints">Voor een annotatie van een polygoonwolk zijn ten minste 3 punten nodig als hoekpunten</string>
+    <string name="add_polyline_failed_hints">Voor een annotatie van een polylijn zijn ten minste 2 punten nodig als hoekpunten</string>
+
+    <!--Annot action callback-->
+    <string name="unsupported_to_submit_form_tip">Niet ondersteund om nu een formulier in te dienen.</string>
+    <string name="action_alert_msg">Waarschuwing&#8230;%1$s</string>
+
+    <!-- Select multiple annotations-->
+    <string name="fx_string_multi_select">Meerdere kiezen</string>
+
+    <!-- Redact -->
+    <string name="fx_string_overlay_title">Tekst</string>
+    <string name="fx_string_overlay_hint">Immettere il testo</string>
+    <string name="fx_string_apply_all">Alles redactie toepassen</string>
+    <string name="fx_string_redact_apply_toast">U staat op het punt de gemarkeerde inhoud permanent te redigeren. Deze handeling kan niet ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?</string>
+</resources>

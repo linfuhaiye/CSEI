@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_more_menu_title">Еще</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">Файл</string>
+    <string name="rv_doc_info">Свойства</string>
+    <string name="rv_doc_reduce_file_size">Уменьшить размер файла</string>
+    <string name="rv_doc_snapshot">Снимок</string>
+
+    <string name="fx_string_saveas_filename">Название</string>
+    <string name="fx_string_format">Формат</string>
+    <string name="rv_saveas_original">Исходный документ</string>
+    <string name="rv_saveas_flatten">Копия со сглаживанием</string>
+    <string name="rv_saveas_optimize">Копия с уменьшенным размером файла</string>
+    <string name="rv_saveas_optimize_toast">Файлы с %1$s по %2$s</string>
+    <string name="rv_saveas_optimize_optimizing">Документ оптимизируется…</string>
+    <string name="rv_saveas_image_settings">Изображения в цветах или градациях серого</string>
+    <string name="rv_saveas_mono_settings">Монохромные изображения</string>
+    <string name="rv_saveas_mono_settings_lossless">Без потерь</string>
+    <string name="rv_saveas_mono_settings_lossy">С потерями</string>
+    <string name="fx_string_saveas_quality">Качество</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">Защитить</string>
+    <string name="rv_doc_encrpty_standard">Защитить паролем</string>
+    <string name="menu_more_item_trust_certificate">Надежные сертификаты</string>
+    <string name="menu_more_item_remove_encrytion">Удалить защиту</string>
+    <string name="rv_doc_encrypt_standard_switch_title">Управление Безопасностью</string>
+    <string name="rv_doc_encrypt_standard_switch_content">Действительно изменить параметры защиты этого документа?</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">Форма</string>
+    <string name="menu_more_item_create">Создание полей форм</string>
+    <string name="menu_more_item_reset">Сбросить поля формы</string>
+    <string name="menu_more_item_import">Импортир. данные формы</string>
+    <string name="menu_more_item_export">Экспортир. данные формы</string>
+    <string name="fx_form_importing">Обработка&#8230;</string>
+    <string name="fx_form_reseting">Очистить форму&#8230;</string>
+    <string name="fx_form_exporting">Экспорт&#8230;</string>
+    <string name="formfiller_import_title">Импорт</string>
+    <string name="formfiller_export_title">Экспорт</string>
+    <string name="fm_file_exist">Такой файл уже существует</string>
+    <string name="formfiller_export_error">Не удалось экспортировать данные.</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">Печать</string>
+    <string name="menu_more_print_item">Документ</string>
+    <string name="rv_print_setting_title">Настройки</string>
+    <string name="rv_print_options">Печать содержимого</string>
+    <string name="rv_print_annot">Примечания</string>
+    <string name="file_not_exist">Указанный файл не найден.</string>
+    <string name="file_is_not_pdf">Формат источника не PDF.</string>
+    <string name="fx_os_version_too_low_toast">версии операционной системы является слишком низким, чтобы использовать функцию печати</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">Примечания к импорту</string>
+    <string name="menu_more_item_annot_export">Примечания к экспорту</string>
+    <string name="menu_more_success_export_data">Данные успешно экспортированы.</string>
+    <string name="menu_more_success_import_data">Данные успешно импортированы в текущий документ.</string>
+    <string name="menu_more_fail_import_data">Не удалось импортировать данные в текущий документ.</string>
+</resources>

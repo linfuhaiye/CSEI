@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">Nessuna lista</string>
+    <string name="rv_no_panel_infomation">Nessuna informazione di lista</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Struttura</string>
+    <string name="rv_panel_outline_noinfo">Nessuna info struttura</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">Segnalibri</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">Nessuna info segnalibri</string>
+    <string name="rv_panel_readingbookmark_tips_limited">La lunghezza del segnalibro supera il limite previsto.</string>
+    <string name="rd_panel_clear_readingbookmarks">Cancellare tutti i segnalibri?</string>
+
+    <!-- Arrachments panel -->
+    <string name="save_failed_by_incorrect_file_name">Si è verificato un errore nell\'salvataggio del documento. Nome file non valido.</string>
+    <string name="attachment_page_tab">Pagina %1$d</string>
+    <string name="rv_panel_attachment_noinfo">Nessun allegato</string>
+    <string name="rv_panel_title_attachment">Allegati</string>
+    <string name="rv_panel_attachment_label">Scheda allegato</string>
+    <string name="rv_panel_edit_desc">Descrizione</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">Annotazioni</string>
+    <string name="rv_panel_annot_noinformation">Nessun elenco annotazioni</string>
+    <string name="rv_panel_annot_item_pagenum">Pagina </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">Le firme digitali</string>
+    <string name="rv_panel_signature_noinformation">Nessuna firma digitale</string>
+    <string name="rv_panel_signature_signed_by">Firmato da %s:</string>
+    <string name="rv_panel_signature_revocation">Rev.%s:</string>
+    <string name="rv_panel_signature_view">Visualizza</string>
+    <string name="rv_panel_signature_verify">Verifica</string>
+    <string name="rv_panel_signature_view_current_version">Si sta già visualizzando questa versione del documento coperto dalla firma selezionata</string>
+    <string name="rv_panel_signature_unsigned">Campo firma non firmato</string>
+</resources>

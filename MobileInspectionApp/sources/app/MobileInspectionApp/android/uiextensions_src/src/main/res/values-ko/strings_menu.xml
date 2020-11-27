@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_more_menu_title">더보기</string>
+
+    <!-- moremenu File  Resource -->
+    <string name="rd_menu_file">파일</string>
+    <string name="rv_doc_info">속성</string>
+    <string name="rv_doc_reduce_file_size">파일 크기 줄이기</string>
+    <string name="rv_doc_snapshot">스냅샷</string>
+
+    <string name="fx_string_saveas_filename">이름</string>
+    <string name="fx_string_format">방법</string>
+    <string name="rv_saveas_original">원본 문서</string>
+    <string name="rv_saveas_flatten">플래튼 복사</string>
+    <string name="rv_saveas_optimize">복사 파일 크기 줄이기</string>
+    <string name="rv_saveas_optimize_toast">파일 %1$s 서부터 %2$s 까지</string>
+    <string name="rv_saveas_optimize_optimizing">문서 최적화중…</string>
+    <string name="rv_saveas_image_settings">컬러/회색조 이미지</string>
+    <string name="rv_saveas_mono_settings">단색 이미지</string>
+    <string name="rv_saveas_mono_settings_lossless">무손실</string>
+    <string name="rv_saveas_mono_settings_lossy">손실</string>
+    <string name="fx_string_saveas_quality">품질</string>
+
+    <!-- moremenu Protect  Resource -->
+    <string name="menu_more_group_protect">보안</string>
+    <string name="rv_doc_encrpty_standard">비밀번호 보호</string>
+    <string name="menu_more_item_trust_certificate">신뢰할 수 있는 인증서</string>
+    <string name="menu_more_item_remove_encrytion">보안 설정 제거</string>
+    <string name="rv_doc_encrypt_standard_switch_title">보안 관리</string>
+    <string name="rv_doc_encrypt_standard_switch_content">문서의 보안 설정을 변경하시겠습니까?</string>
+
+    <!-- moremenu form  Resource -->
+    <string name="menu_more_group_form">양식</string>
+    <string name="menu_more_item_create">양식 필드 만들기</string>
+    <string name="menu_more_item_reset">양식 필드 재설정</string>
+    <string name="menu_more_item_import">양식 데이터 가져오기</string>
+    <string name="menu_more_item_export">양식 데이터 내보내기</string>
+    <string name="fx_form_importing">가져 오는 중&#8230;</string>
+    <string name="fx_form_reseting">리셋 중&#8230;</string>
+    <string name="fx_form_exporting">내보내기 중&#8230;</string>
+    <string name="formfiller_import_title">가져오기</string>
+    <string name="formfiller_export_title">내보내기</string>
+    <string name="fm_file_exist">이미 존재하는 파일입니다.</string>
+    <string name="formfiller_export_error">데이터를 출력하는데 실패했습니다.</string>
+
+    <!-- moremenu print Resource -->
+    <string name="menu_more_print">인쇄</string>
+    <string name="menu_more_print_item">문서</string>
+    <string name="rv_print_setting_title">설정</string>
+    <string name="rv_print_options">내용 인쇄</string>
+    <string name="rv_print_annot">주석</string>
+    <string name="file_not_exist">특정 파일이 발견되지 않았습니다.</string>
+    <string name="file_is_not_pdf">소스 형식이 PDF가 아닙니다.</string>
+    <string name="fx_os_version_too_low_toast">현재 운영 체제 버전이 너무 낮기에 인쇄 기능을 사용할 수 없습니다.</string>
+
+    <!-- moremenu annotation  Resource -->
+    <string name="menu_more_item_annot_import">주석 가져오기</string>
+    <string name="menu_more_item_annot_export">주석 내보내기</string>
+    <string name="menu_more_success_export_data">데이터 내보내기를 성공하였습니다</string>
+    <string name="menu_more_success_import_data">현재 문서로 데이터 가져오기를 성공하였습니다</string>
+    <string name="menu_more_fail_import_data">현재 문서로 데이터 가져오기를 실패하였습니다</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+    "modules": {
+        "readingbookmark": true,
+        "outline": true,
+        "annotations": false,
+        "thumbnail": false,
+        "navigation": false,
+        "form": true,
+        "selection": true,
+        "encryption": true,
+        "multipleSelection": false,
+        "search": true
+    },
+    "permissions": {
+        "runJavaScript": false,
+        "copyText": true,
+        "disableLink": true
+    },
+    "uiSettings": {
+        "pageMode": "Single",
+        "continuous": true,
+        "disableFormNavigationBar": true,
+        "highlightForm": true,
+        "highlightFormColor": "#200066cc",
+        "highlightLink": true,
+        "highlightLinkColor": "#16007fff",
+        "fullscreen": false
+    }
+}

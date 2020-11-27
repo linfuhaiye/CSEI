@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fm_history_file_name">Titel：</string>
+    <string name="fm_history_file_path">Pad：</string>
+    <string name="fm_history_file_size">Grootte：</string>
+    <string name="fm_history_pdf_author">Auteur：</string>
+    <string name="fm_history_pdf_subject">Onderwerp：</string>
+    <string name="fm_history_file_create_time">Gemaakt：</string>
+    <string name="fm_history_file_last_modify_time">Laatste wijziging：</string>
+
+	<string name="fx_string_allowed">Toegestaan</string>
+    <string name="fx_string_notallowed">Niet toegestaan</string>
+
+    <string name="rv_doc_reduce_file_size_toast">U kiest ervoor om de PDF-bestandsgrootte te verkleinen, maar deze wordt pas op het document toegepast als u het document opslaat. U kunt het document blijven bewerken.</string>
+    <string name="rv_doc_info_permission">Beveiliging</string>
+    <string name="rv_doc_info_permission_summary">Samenvatting documentbeperkingen</string>
+    <string name="rv_doc_info_permission_print">Afdrukken</string>
+    <string name="rv_doc_info_permission_fillform">Een formulier invullen</string>
+    <string name="rv_doc_info_permission_annotform">Opmerking in het document</string>
+    <string name="rv_doc_info_permission_assemble">Pagina\'s en samenvattingen beheren</string>
+    <string name="rv_doc_info_permission_modify">Document wijzigen</string>
+    <string name="rv_doc_info_permission_extractaccess">Inhoud kopiëren voor toegankelijkheid</string>
+    <string name="rv_doc_info_permission_extract">De inhoud van het document extraheren</string>
+    <string name="rv_doc_info_permission_signing">Ondertekenen</string>
+
+    <string name="rv_doc_info_fileinfo">Bestandsgegevens</string>
+
+    <string name="rv_doc_info_security">Beveiliging</string>
+    <string name="rv_doc_info_security_no">Geen beveiliging</string>
+    <string name="rv_doc_info_security_standard">Wachtwoordbeveiliging</string>
+    <string name="rv_doc_info_security_pubkey">Certificaatbeveiliging</string>
+    <string name="rv_doc_info_security_rms">RMS-beveiliging</string>
+    <string name="rv_doc_info_security_cdrm">ConnectedPDF-beveiliging</string>
+    <string name="rv_doc_info_security_custom">Aangepast-beveiliging</string>
+</resources>

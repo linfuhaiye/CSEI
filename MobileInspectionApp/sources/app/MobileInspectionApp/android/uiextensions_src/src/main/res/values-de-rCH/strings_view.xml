@@ -1,0 +1,22 @@
+<resources>
+    <string name="rv_page_present_single">Einfach</string>
+    <string name="rv_page_present_continuous">Durchgängiger Bildlauf</string>
+    <string name="rv_page_present_thumbnail">Miniaturbild</string>
+    <string name="rd_fitpage_topbar_title">Seite anpassen</string>
+    <string name="rd_fitwidth_topbar_title">Breite anpassen</string>
+    <string name="rd_rotateview_topbar_title">Ansicht drehen</string>
+    <string name="rd_reflow_topbar_title">Umbruch</string>
+    <string name="rd_crop_topbar_title">Zuschneiden</string>
+    <string name="rd_facingmode_topbar_title">Doppelseiten</string>
+    <string name="rd_coverpage_topbar_title">Deckblatt</string>
+    <string name="rd_panzoom_topbar_title">Schwenk Zoom</string>
+    <string name="ml_system_light">Autom. Helligkeit</string>
+    <string name="ml_day_night">Nachtmodus</string>
+    <string name="ml_page_zoommode">Seitenansicht</string>
+    <string name="ml_pagemode">Seitenmodus</string>
+    <!-- screen_rotation -->
+    <string name="rv_screen_rotation_pad">Bildschirmsperre</string>
+    <string name="rv_screen_rotation_pad_landscape">Querformat</string>
+    <string name="rv_screen_rotation_pad_portrait">Hochformat</string>
+    <string name="rv_screen_rotation_pad_auto">Autom. drehen mit Display</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rv_security_information_certlist_title">Zertifikatsinformationen</string>
+    <string name="rv_security_information_certlist_serialnumber">Seriennummer</string>
+    <string name="rv_security_information_certlist_publisher">Ausgestellt von</string>
+    <string name="rv_security_information_certlist_startdate">Gültig ab</string>
+    <string name="rv_security_information_certlist_expiringdate">Gültig bis</string>
+    <string name="rv_security_information_certlist_email">E-Mail-Adresse</string>
+
+
+    <!-- 	Documents Standard Encrypt -->
+    <string name="rv_doc_encrpty_standard_remove">Sicherheit entfernen</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_title">Kennwort</string>
+    <string name="rv_doc_encrpty_standard_ownerpassword_failed">Ungültiges Kennwort. Versuchen Sie es erneut.</string>
+    <string name="rv_doc_encrypt_standard_ownerpassword_content">Geben Sie zum Öffnen dieses Dokuments ein Kennwort ein.</string>
+    <string name="rv_doc_encrpty_standard_removepassword_confirm">Möchten Sie die Sicherheitseinstellungen wirklich aus diesem Dokument entfernen?</string>
+    <string name="rv_doc_encrpty_standard_top_title">Sicherheitsoptionen</string>
+    <string name="rv_doc_encrpty_standard_openfile">Dokument öffnen</string>
+    <string name="rv_doc_encrpty_standard_password">Kennwort:</string>
+    <string name="rv_doc_encrpty_standard_must_input">Erforderlich</string>
+    <string name="rv_doc_encrpty_standard_owner_permission">Dokumentbeschränkung hinzufügen</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip1">-Wenn \"Dokument öffnen\" aktiviert ist, wird zum Öffnen des Dokuments ein Kennwort benötigt.</string>
+    <string name="rv_doc_encrpty_standard_bottom_tip2">-Wenn \"Dokumentbeschränkungen\" aktiviert ist, wird zum Entfernen des Schutzes ein Kennwort benötigt. Weiterhin können Sie festlegen, dass bestimmte Funktionen für dieses Dokument nicht zulässig sind.</string>
+    <string name="rv_doc_encrpty_standard_same_password">Das Kennwort zum Öffnen und das Besitzerkennwort dürfen nicht identisch sein. Geben Sie für das Kennwort zum Öffnen eines Dokuments oder für das Besitzerkennwort ein anderes Kennwort ein.</string><!-- Security PublicKey -->
+
+    <string name="rv_encrypt_dialog_title">Verschlüsselung</string>
+    <string name="rv_encrypt_dialog_description">Nach Anwendung der Verschlüsselung werden die Verschlüsselung und alle vorherigen Änderungen automatisch in der Datei gespeichert.</string>
+
+    <string name="rv_decrypt_dialog_title">Entschlüsselung</string>
+    <string name="rv_decrypt_dialog_description">>Nach Anwendung der Entschlüsselung werden die Entschlüsselung und alle vorherigen Änderungen automatisch in der Datei gespeichert.</string>
+
+    <!--trust certificate -->
+    <string name="rv_trust_certificate">Vertrauen</string>
+    <string name="rv_security_information_certlist_usage">Nutzung</string>
+    <string name="rv_view_certificate_info">Zertifikat anzeigen</string>
+    <string name="rv_remove_trust_certificate_prompt">Möchten Sie dieses Zertifikat wirklich löschen?\n Andernfalls können Sie die Identität des Besitzers nicht mehr überprüfen</string>
+    <string name="rv_add_trust_certificate_prompt">Wenn Sie die Vertrauenseinstellungen ändern, müssen Sie alle Signaturen neu validieren, um die Änderungen zu sehen. Es ist nicht ratsam, Zertifikaten direkt aus einem Dokument heraus zu vertrauen. Möchten Sie wirklich fortfahren?</string>
+</resources>

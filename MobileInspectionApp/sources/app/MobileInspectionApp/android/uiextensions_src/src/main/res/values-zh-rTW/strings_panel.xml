@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">空清單</string>
+    <string name="rv_no_panel_infomation">空</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">大綱</string>
+    <string name="rv_panel_outline_noinfo">無大綱訊息</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">書籤</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">無書籤訊息</string>
+    <string name="rv_panel_readingbookmark_tips_limited">書簽名稱長度超過限制</string>
+    <string name="rd_panel_clear_readingbookmarks">確認需要刪除所有書籤?</string>
+
+    <!-- Arrachments panel -->
+    <string name="save_failed_by_incorrect_file_name">保存失敗，請輸入正確的檔名</string>
+    <string name="attachment_page_tab">頁碼 %1$d</string>
+    <string name="rv_panel_attachment_noinfo">沒有附件</string>
+    <string name="rv_panel_title_attachment">附件</string>
+    <string name="rv_panel_attachment_label">附件標籤</string>
+    <string name="rv_panel_edit_desc">描述</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">註解</string>
+    <string name="rv_panel_annot_noinformation">無註解訊息</string>
+    <string name="rv_panel_annot_item_pagenum">頁碼 </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">數位簽名</string>
+    <string name="rv_panel_signature_noinformation">此文檔沒有數字簽名</string>
+    <string name="rv_panel_signature_signed_by">由 %s 簽署</string>
+    <string name="rv_panel_signature_revocation">版本%s:</string>
+    <string name="rv_panel_signature_view">查看</string>
+    <string name="rv_panel_signature_verify">驗證</string>
+    <string name="rv_panel_signature_view_current_version">您已經在查看所選簽名所覆蓋的文檔的版本了</string>
+    <string name="rv_panel_signature_unsigned">未簽署的簽名欄位</string>
+</resources>

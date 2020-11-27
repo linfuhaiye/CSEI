@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Signature -->
+    <string name="rd_security_dsg_addSig">서명 추가</string>
+    <string name="rv_security_dsg_verify">서명 확인</string>
+    <string name="rv_security_dsg_verify_title">확인 결과</string>
+    <string name="rv_security_dsg_verify_valid">이 디지털 서명은 유효합니다.</string>
+    <string name="rv_security_dsg_verify_perm">서명을 포함한 문서의 수정사항은 아직 변경되지 않았습니다. 그러나, 문서에 관한 후속 변화가 나타났습니다.</string>
+    <string name="rv_security_dsg_verify_otherState">다른 이유로 디지털 서명이 유효하지 않습니다.</string>
+    <string name="rv_security_dsg_verify_invalid">디지털 서명이 유효하지 않습니다.</string>
+    <string name="rv_security_dsg_verify_unknown">디지털 서명을 알 수 없습니다.</string>
+    <string name="rv_security_dsg_verify_expired">디지털 서명을 알 수 없습니다. \ n은 발급자의 인증서가 만료되었는지 확인하는 데 사용됩니다.</string>
+    <string name="rv_security_dsg_verify_errorByteRange">디지털 서명이 유효하지 않습니다.</string>
+    <string name="rv_security_dsg_verify_error">디지털 서명 검증에 알수 없는 오류가 나타납니다.</string>
+    <string name="rv_security_dsg_cert_publisher">인증서 발행자:</string>
+    <string name="rv_security_dsg_cert_serialNumber">일련번호:</string>
+    <string name="rv_security_dsg_cert_emailAddress">이메일 주소:</string>
+    <string name="rv_security_dsg_cert_validityStarts">유효 기간 시작:</string>
+    <string name="rv_security_dsg_cert_validityEnds">유효 기간 종료:</string>
+    <string name="rv_security_dsg_cert_signedTime">싸인 날자:</string>
+    <string name="rv_certlist_note_searching">검색 중&#8230;</string>
+    <string name="rv_certlist_note">증서 선택</string>
+    <string name="rv_security_certlist_nocerificatefile">증서가 없습니다.</string>
+    <string name="rv_security_certlist_inputpasswd">비밀번호를 입력하세요.</string>
+    <string name="rv_security_certlist_invalidpasswd">잘못된 비밀번호입니다. 다시 시도하세요.</string>
+    <string name="rv_security_certlist_outdate">증서가 만료되었습니다.</string>
+    <string name="rv_security_certlist_pubkey_invalidtype">이 증서는 암호화 및 복화화에 사용할 수 없습니다.</string>
+    <string name="rv_security_certfrompfx_failed">증서를 가져오는데 실패했습니다.</string>
+    <!-- Sign -->
+    <string name="rv_sign_waiting">진행 중&#8230;</string>
+    <string name="rv_sign_model">서명 목록</string>
+    <string name="rv_sign_create">새 서명 만들기</string>
+
+    <string name="rv_sign_dialog_title">서명</string>
+    <string name="rv_sign_dialog_description">서명을 적용하면 이 서명 및 모든 수정 내용이 자동으로 파일에 저장됩니다.</string>
+
+    <!-- dsg sign -->
+    <string name="sg_cert_add_text">인증서 선택 및 추가</string>
+    <string name="sg_cert_current_name_title">현재 인증서:</string>
+    <string name="sg_signer_title">서명</string>
+    <string name="sg_signer_dsg_group_title">인증서 서명</string>
+    <string name="sg_signer_handwriting_group_title">기본 서명</string>
+    <string name="dsg_sign_succeed">서명 성공.</string>
+    <string name="dsg_sign_failed">서명 실패.</string>
+
+    <string name="no_permission">권한 없음</string>
+
+    <string name="signature_ltv_attribute">서명이 LTV를 사용할 수 있습니다</string>
+
+    <string name="rv_security_dsg_trust_cert_title">신뢰할 수 있는 인증서에 추가</string>
+    <string name="rv_security_dsg_trust_cert_tip">서명이나 인증 된 문서의 유효성을 검사 할 때 인증서를 신뢰하시겠습니까?</string>
+    <string name="rv_security_dsg_trust_cert_name">이름:</string>
+    <string name="rv_security_dsg_trust_cert_usage">의도된 키 사용:</string>
+    <string name="rv_security_dsg_verify_error_data">형식 오류: PDF 파일이 아니거나 손상된 파일입니다</string>
+
+    <string name="cert_key_usage">지정되지 않음</string>
+    <string name="cert_key_usage_data_encipherment">데이터 암호화</string>
+    <string name="cert_key_usage_digital_signature">전자 서명</string>
+    <string name="cert_key_usage_key_agreement">키 계약</string>
+    <string name="cert_key_usage_key_cert_sign">키 인증서 서명</string>
+    <string name="cert_key_usage_key_encipherment">키 암호화</string>
+    <string name="cert_key_usage_non_repudiation">거부 없음</string>
+    <string name="cert_key_usage_crl_sign">Crl 서명</string>
+
+    <string name="rv_security_failed_to_view">이 버전을 볼 수 없습니다</string>
+
+    <!-- fill and sign -->
+    <string name="fillsign_profile_title">사전 정의 된 텍스트</string>
+    <string name="fillsign_profile_title_edit">사전 정의 된 텍스트 편집</string>
+
+    <!-- Name: -->
+    <string name="fillsign_profile_full_name">풀네임:</string>
+    <string name="fillsign_profile_full_name_prompt">풀네임 추가</string>
+    <string name="fillsign_profile_first_name">이름:</string>
+    <string name="fillsign_profile_first_name_prompt">이름 추가</string>
+    <string name="fillsign_profile_middle_name">중간 이름:</string>
+    <string name="fillsign_profile_middle_name_prompt">중간 이름 추가</string>
+    <string name="fillsign_profile_last_name">성:</string>
+    <string name="fillsign_profile_last_name_prompt">성 추가</string>
+
+    <!-- Address: -->
+    <string name="fillsign_profile_street_1">거리 1 :</string>
+    <string name="fillsign_profile_street_1_prompt">거리 추가 1</string>
+    <string name="fillsign_profile_street_2">거리 2:</string>
+    <string name="fillsign_profile_street_2_prompt">거리 추가2</string>
+    <string name="fillsign_profile_city">도시:</string>
+    <string name="fillsign_profile_city_prompt">도시 추가</string>
+    <string name="fillsign_profile_state">나라, 국가:</string>
+    <string name="fillsign_profile_state_prompt">나라, 국가 추가</string>
+    <string name="fillsign_profile_zip">우편 번호 :</string>
+    <string name="fillsign_profile_zip_prompt">우편 번호 추가</string>
+    <string name="fillsign_profile_country">국가,지역:</string>
+    <string name="fillsign_profile_country_prompt">국가, 지역 추가</string>
+
+    <!-- Contact: -->
+    <string name="fillsign_profile_contact">연락처</string>
+    <string name="fillsign_profile_email">이메일:</string>
+    <string name="fillsign_profile_email_prompt">이메일 추가</string>
+    <string name="fillsign_profile_tel">전화 번호:</string>
+    <string name="fillsign_profile_tel_prompt">전화 번호 추가</string>
+
+    <!-- Dates -->
+    <string name="fillsign_profile_dates">날짜</string>
+    <string name="fillsign_profile_date">날짜:</string>
+    <string name="fillsign_profile_date_prompt">날짜 추가</string>
+    <string name="fillsign_profile_birth_date">생년월일:</string>
+    <string name="fillsign_profile_birth_date_prompt">생년월일 추가</string>
+
+    <!-- Custom field -->
+    <string name="fillsign_profile_custom_field">사용자 정의 필드</string>
+    <string name="fillsign_profile_type_label">라벨 입력</string>
+    <string name="fillsign_profile_type_value">값 입력</string>
+    <string name="fillsign_profile_add_custom_field">사용자 정의 필드 추가</string>
+
+
+    <string name="fillsign_sign_click_prompt">컨텐츠를 배치하려면 임의의 지점을 클릭하십시오</string>
+    <string name="fillsign_sign_dosign_prompt">서명 한 후에는 더 이상 양식 필드의 내용을 편집 할 수 없습니다.</string>
+</resources>

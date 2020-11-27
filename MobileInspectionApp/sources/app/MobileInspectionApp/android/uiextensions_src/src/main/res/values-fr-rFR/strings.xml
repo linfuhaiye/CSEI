@@ -1,0 +1,102 @@
+<resources>
+    <string name="fx_string_yes">Oui</string>
+    <string name="fx_string_no">Non</string>
+    <string name="fx_string_ok">OK</string>
+    <string name="fx_string_cancel">Annuler</string>
+    <string name="fx_string_save">Enregistrer</string>
+    <string name="fx_string_saveas">Enregistrer sous</string>
+    <string name="fx_string_delete">Supprimer</string>
+    <string name="fx_string_auto">Automatique</string>
+    <string name="fx_string_add">Ajouter</string>
+    <string name="fx_string_info">Info</string>
+    <string name="fx_string_name">Nom</string>
+    <string name="fx_string_done">Terminé</string>
+    <string name="fx_string_error">Erreur</string>
+    <string name="fx_string_address">Adresse:</string>
+
+    <string name="fx_string_close">Fermer</string>
+    <string name="fx_string_select_all">Tout sélectionner</string>
+    <string name="fx_string_original">Original</string>
+    <string name="fx_string_setting">Paramètres</string>
+
+    <string name="hm_back">Retour</string>
+    <string name="hm_document">Documents</string>
+    <string name="hm_sign">Se connecter</string>
+    <string name="hm_signout">Déconnexion</string>
+
+    <string name ="fx_string_minimum">Minimum</string>
+    <string name ="fx_string_low">Faible</string>
+    <string name ="fx_string_medium">Moyen</string>
+    <string name ="fx_string_high">Élevé</string>
+    <string name ="fx_string_maximum">Maximum</string>
+
+    <!-- comparison -->
+    <string name="hm_comparison_title">Comparer</string>
+    <string name="hm_comparison_mode">Mode Compare</string>
+    <string name="hm_comparison_mode_overlay">Superposition</string>
+    <string name="hm_comparison_mode_side_by_side">côte-à-côte</string>
+    <string name="hm_comparison_old_file">Ancien fichier</string>
+    <string name="hm_comparison_new_file">Nouveau fichier</string>
+    <string name="hm_comparison_selected_color">Couleur</string>
+    <string name="hm_comparison_selected_file_title">Sélection</string>
+
+    <string name="rv_panel_annot_loading_start">Chargement en cours&#8230;</string>
+    <string name="rv_panel_annot_deleting">Suppression en cours&#8230;</string>
+    <string name="rv_panel_annot_failed">Échec de la suppression</string>
+    <string name="fx_string_saving">Enregistrement&#8230;</string>
+    <string name="fx_string_closing">Fermeture en cours&#8230;</string>
+    <string name="fx_string_recovering">Traitement en cours&#8230;</string>
+    <string name="fx_string_opening">Ouverture&#8230;</string>
+    <string name="fx_string_copying">Copie en cours&#8230;</string>
+    <string name="fx_string_processing">Traitement en cours&#8230;</string>
+
+    <!-- Property Tab -->
+    <string name="pb_fill_tab">Remplir</string>
+    <string name="pb_icon_tab">Icône</string>
+    <string name="pb_border_tab">Bordure</string>
+    <string name="pb_fontname_tab">Police</string>
+    <string name="pb_watermark_tab">Filigrane</string>
+    <string name="pb_overlay_text_tab">Texte de recouvrement</string>
+    <string name="pb_options_tab">Options</string>
+
+    <string name="fx_import_blank_page">Page vierge</string>
+    <string name="fx_import_file">Document</string>
+    <string name="fx_import_dcim">À partir du Album</string>
+    <string name="fx_import_camera">À partir du caméra</string>
+    <string name ="fx_string_import">Document</string>
+
+    <!-- UIMatchDialog -->
+    <string name="fm_annot_copy">Le contenu a été ajouté au presse-papiers.</string>
+    <string name="fm_move">Déplacer</string>
+    <string name="fm_paste_replace">Remplacer</string>
+    <string name="fm_paste_skip">Ignorer</string>
+    <string name="rv_emailreview_mergedlg_openbutton">Non, ouvrir seulement</string>
+    <string name="cloud_toolbar_more_upload">Charger</string>
+
+    <string name="rv_url_dialog_title">Visiter</string>
+    <string name="rv_urldialog_title">Un problème de sécurité peut survenir lors de l\'ouverture de ce lien. Voulez-vous vraiment l\'ouvrir.</string>
+    <string name="rv_urldialog_title_ko"></string>
+    <string name="rv_invalid_license">Une licence est requise pour l\'utilisation de ce plug-in. Si vous disposez d\'une licence, activez-la maintenant.</string>
+    <string name="rv_deivce_limitation">Vous avez dépassé le nombre autorisé de périphériques pour ce document.</string>
+    <string name="rv_no_rights">Vous n\'êtes pas autorisé à modifier ce document. Choisissez-en un autre.</string>
+    <string name="rv_rights_expired">Votre licence ou votre période d\'évaluation gratuite a expiré.</string>
+    <string name="rv_document_open_failed">Échec de l\'ouverture de ce fichier</string>
+    <string name="rv_unknown_error">Erreur inconnue</string>
+    <string name="rv_format_error">Erreur de format : pas un PDF ou endommagé</string>
+
+    <string name="rv_back_save_to_original_file">Enregistrer dans le fichier original</string>
+    <string name="rv_back_save_to_new_file">Enregistrer dans un nouveau fichier</string>
+    <string name="rv_back_discard_modify">Ignorer toutes les modifications</string>
+    <string name="fx_save_file_failed">Échec de la sauvegarde!</string>
+    <string name="fx_string_filereplace_warning">Le fichier existe déjà. Voulez-vous le remplacer?</string>
+
+    <string name="rv_password_dialog_title">Mot de passe</string>
+    <string name="rv_tips_password_error">Le mot de passe est incorrect. Veuillez réessayer</string>
+    <string name="rv_tips_password">Ce fichier est protégé par un mot de passe. Veuillez saisir le mot de passe ci-dessous</string>
+    <string name="fx_string_password_dialog_title">S\'il vous plaît entrer le mot de passe</string>
+
+    <string name="fx_form_rename_toast">Le nom saisi est déjà utilisé dans un champ existant. Choisissez un autre nom ou changez le type du champ pour qu\'il corresponde au champ existant.</string>
+    <string name="fx_flatten_doc_toast">aplatit des annotations ou des formulaires PDF pour les transformer en contenu de page et empêcher toute modification ultérieure</string>
+    <string name="fx_system_language_changed_toast">La langue du système a changé. Il est recommandé de redémarrer l\'application en cours.</string>
+</resources>
+

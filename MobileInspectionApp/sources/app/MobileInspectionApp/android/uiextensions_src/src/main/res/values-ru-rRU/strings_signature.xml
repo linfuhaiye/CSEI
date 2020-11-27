@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Signature -->
+    <string name="rd_security_dsg_addSig">Добавить подпись</string>
+    <string name="rv_security_dsg_verify">Проверить подпись</string>
+    <string name="rv_security_dsg_verify_title">Результаты проверки</string>
+    <string name="rv_security_dsg_verify_valid">Цифровая подпись верна.</string>
+    <string name="rv_security_dsg_verify_perm">Редакция документа, к которой относится эта подпись, не была изменена, однако в документе имеются последующие изменения.</string>
+    <string name="rv_security_dsg_verify_otherState">Цифровая подпись недействительна по другим причинам.</string>
+    <string name="rv_security_dsg_verify_invalid">Цифровая подпись недействительна.</string>
+    <string name="rv_security_dsg_verify_unknown">Цифровая подпись НЕИЗВЕСТНА.</string>
+    <string name="rv_security_dsg_verify_expired">Цифровая подпись НЕИЗВЕСТНА. \nСрок действия сертификата для проверки эмитента истек.</string>
+    <string name="rv_security_dsg_verify_errorByteRange">Цифровая подпись недействительна.</string>
+    <string name="rv_security_dsg_verify_error">При проверке цифровой подписи произошла неизвестная ошибка</string>
+    <string name="rv_security_dsg_cert_publisher">Издатель сертификата:</string>
+    <string name="rv_security_dsg_cert_serialNumber">Серийный номер:</string>
+    <string name="rv_security_dsg_cert_emailAddress">Адрес электронной почты:</string>
+    <string name="rv_security_dsg_cert_validityStarts">Действует с:</string>
+    <string name="rv_security_dsg_cert_validityEnds">Действует по:</string>
+    <string name="rv_security_dsg_cert_signedTime">Дата подписания:</string>
+    <string name="rv_certlist_note_searching">Поиск&#8230;</string>
+    <string name="rv_certlist_note">Выбор сертификата</string>
+    <string name="rv_security_certlist_nocerificatefile">Без сертификатов</string>
+    <string name="rv_security_certlist_inputpasswd">Введите пароль</string>
+    <string name="rv_security_certlist_invalidpasswd">Неверный пароль. Введите пароль еще раз.</string>
+    <string name="rv_security_certlist_outdate">Срок действия сертификата истек.</string>
+    <string name="rv_security_certlist_pubkey_invalidtype">Сертификат нельзя использовать для шифрования и расшифровки.</string>
+    <string name="rv_security_certfrompfx_failed">Не удалось получить сертификаты</string>
+    <!-- Sign -->
+    <string name="rv_sign_waiting">Обработка&#8230;</string>
+    <string name="rv_sign_model">Список подписей</string>
+    <string name="rv_sign_create">Создание новой подписи</string>
+
+    <string name="rv_sign_dialog_title">Подписать</string>
+    <string name="rv_sign_dialog_description">После применения подписи подпись и все изменения, сделанные ранее, автоматически сохраняются в файле.</string>
+
+    <!-- dsg sign -->
+    <string name="sg_cert_add_text">Выбрать и добавить сертификат</string>
+    <string name="sg_cert_current_name_title">Текущий сертификат:</string>
+    <string name="sg_signer_title">Подпись</string>
+    <string name="sg_signer_dsg_group_title">Подпись сертификата</string>
+    <string name="sg_signer_handwriting_group_title">Обычная подпись</string>
+    <string name="dsg_sign_succeed">Успешно подписано.</string>
+    <string name="dsg_sign_failed">Сбой подписи.</string>
+
+    <string name="no_permission">Отсутствует разрешение</string>
+
+    <string name="signature_ltv_attribute">Подпись lTV включен</string>
+
+    <string name="rv_security_dsg_trust_cert_title">Добавить в доверенные сертификаты</string>
+    <string name="rv_security_dsg_trust_cert_tip">Вы хотите доверять сертификату при проверке подписей или заверенных документов?</string>
+    <string name="rv_security_dsg_trust_cert_name">Имя:</string>
+    <string name="rv_security_dsg_trust_cert_usage">Предполагаемое использование ключа:</string>
+    <string name="rv_security_dsg_verify_error_data">Ошибка формата: файл поврежден или не является PDF-файлом</string>
+
+    <string name="cert_key_usage">Не указано</string>
+    <string name="cert_key_usage_data_encipherment">Шифрование данных</string>
+    <string name="cert_key_usage_digital_signature">Цифровая подпись</string>
+    <string name="cert_key_usage_key_agreement">Согласование ключей</string>
+    <string name="cert_key_usage_key_cert_sign">Подпись сертификата ключа</string>
+    <string name="cert_key_usage_key_encipherment">Шифрование ключей</string>
+    <string name="cert_key_usage_non_repudiation">Неподдельность</string>
+    <string name="cert_key_usage_crl_sign">Подпись списка отзыва сертификатов</string>
+
+    <string name="rv_security_failed_to_view">Не просмотр этой версии</string>
+
+    <!-- fill and sign -->
+    <string name="fillsign_profile_title">Предопределенный текст</string>
+    <string name="fillsign_profile_title_edit">Редактировать предопределенный текст</string>
+    <!-- Name: -->
+    <string name="fillsign_profile_full_name">Полное имя:</string>
+    <string name="fillsign_profile_full_name_prompt">Добавить полное имя</string>
+    <string name="fillsign_profile_first_name">Имя:</string>
+    <string name="fillsign_profile_first_name_prompt">Добавить имя</string>
+    <string name="fillsign_profile_middle_name">Отчество:</string>
+    <string name="fillsign_profile_middle_name_prompt">Добавить отчество</string>
+    <string name="fillsign_profile_last_name">Фамилия:</string>
+    <string name="fillsign_profile_last_name_prompt">Добавить фамилию</string>
+    <!-- Address: -->
+    <string name="fillsign_profile_street_1">Улица 1:</string>
+    <string name="fillsign_profile_street_1_prompt">Добавить улицу 1</string>
+    <string name="fillsign_profile_street_2">Улица 2:</string>
+    <string name="fillsign_profile_street_2_prompt">Добавить улицу 2</string>
+    <string name="fillsign_profile_city">Город:</string>
+    <string name="fillsign_profile_city_prompt">Добавить город</string>
+    <string name="fillsign_profile_state">Область:</string>
+    <string name="fillsign_profile_state_prompt">Добавить область</string>
+    <string name="fillsign_profile_zip">Индекс:</string>
+    <string name="fillsign_profile_zip_prompt">Добавить индекс</string>
+    <string name="fillsign_profile_country">Страна:</string>
+    <string name="fillsign_profile_country_prompt">Добавить страну</string>
+    <!-- Contact: -->
+    <string name="fillsign_profile_contact">Контактная информация</string>
+    <string name="fillsign_profile_email">Электронная почта:</string>
+    <string name="fillsign_profile_email_prompt">Добавить адрес электронной почты</string>
+    <string name="fillsign_profile_tel">Телефон:</string>
+    <string name="fillsign_profile_tel_prompt">Добавить номер телефона</string>
+    <!-- Dates -->
+    <string name="fillsign_profile_dates">Даты</string>
+    <string name="fillsign_profile_date">Дата:</string>
+    <string name="fillsign_profile_date_prompt">Добавить дату</string>
+    <string name="fillsign_profile_birth_date">Дата рождения:</string>
+    <string name="fillsign_profile_birth_date_prompt">Добавить дату рождения</string>
+    <!-- Custom field -->
+    <string name="fillsign_profile_custom_field">Пользовательское поле</string>
+    <string name="fillsign_profile_type_label">Ввести метку</string>
+    <string name="fillsign_profile_type_value">Ввести значение</string>
+    <string name="fillsign_profile_add_custom_field">Добавить пользовательское поле</string>
+    <string name="fillsign_sign_click_prompt">Нажмите в любом месте, чтобы разместить содержимое</string>
+    <string name="fillsign_sign_dosign_prompt">После подписания содержимое поля формы больше нельзя отредактировать.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--root panel-->
+    <string name="rv_no_panel_top">Pas de liste</string>
+    <string name="rv_no_panel_infomation">Aucune information de liste</string>
+
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Esquisse</string>
+    <string name="rv_panel_outline_noinfo">Aucune info sur l\'esquisse</string>
+
+    <!--reading mark panel-->
+    <string name="rv_panel_readingbookmark_title">Signets</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">Aucune info sur le signetn</string>
+    <string name="rv_panel_readingbookmark_tips_limited">La longueur du signet dépasse la limite autorisée</string>
+    <string name="rd_panel_clear_readingbookmarks">Voulez-vous vraiment effacer tous les signets?</string>
+
+    <!-- Arrachments panel -->
+    <string name="save_failed_by_incorrect_file_name">Une erreur s\'est produite lors de l\'enregistrement du document. Nom de fichier incorrect.</string>
+    <string name="attachment_page_tab">Page %1$d</string>
+    <string name="rv_panel_attachment_noinfo">Aucune pièce jointe</string>
+    <string name="rv_panel_title_attachment">Pièces jointes</string>
+    <string name="rv_panel_attachment_label">Onglet Pièce jointe</string>
+    <string name="rv_panel_edit_desc">Description</string>
+
+    <!--Annotations panel -->
+    <string name="rv_panel_annot_title">Annotations</string>
+    <string name="rv_panel_annot_noinformation">Aucune liste d\'annotations</string>
+    <string name="rv_panel_annot_item_pagenum">Page </string>
+
+    <!--Signatures Panel -->
+    <string name="rv_panel_signature_title">Signatures numériques</string>
+    <string name="rv_panel_signature_noinformation">Pas de signatures numériques</string>
+    <string name="rv_panel_signature_signed_by">Signé par %s</string>
+    <string name="rv_panel_signature_revocation">Rev.%s:</string>
+    <string name="rv_panel_signature_view">voir</string>
+    <string name="rv_panel_signature_verify">vérifiez</string>
+    <string name="rv_panel_signature_view_current_version">Vous visualisez déjà cette version du document couverte par la signature sélectionnée</string>
+    <string name="rv_panel_signature_unsigned">Champ Signature non signé</string>
+</resources>
